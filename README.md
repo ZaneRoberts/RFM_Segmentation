@@ -66,7 +66,7 @@ I structured the SQL script as a modular, top-to-bottom data transformation pipe
 ├── dashboard.png             # Dashboard visualization preview
 ├── README.md                 # Executive summary and documentation
 ├── rfm_analysis.sql          # Full, reproducible SQL script (Data cleaning -> Views -> Final output)
-├── rfm_dashbpard.pbix        # Dashboard visualization (Dashboard built using Power BI Desktop v.26.1.4.0)
+├── rfm_dashboard.pbix        # Dashboard visualization (Dashboard built using Power BI Desktop v.26.1.4.0)
 ├── dashboard.png             # Dashboard visualization preview
 └── scored_rfm_preview.csv    # Sample export of final segment distributions
 
