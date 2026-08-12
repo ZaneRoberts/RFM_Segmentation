@@ -1,0 +1,4340 @@
+"customer_id","r_score","f_score","m_score","rfm_cell","customer_segment"
+0,1,1,1,111,Hibernating / Lost
+12748,1,1,1,111,Hibernating / Lost
+14911,1,1,1,111,Hibernating / Lost
+17841,1,1,1,111,Hibernating / Lost
+13089,1,1,1,111,Hibernating / Lost
+14606,1,1,1,111,Hibernating / Lost
+15311,1,1,1,111,Hibernating / Lost
+12971,1,1,1,111,Hibernating / Lost
+14646,1,1,1,111,Hibernating / Lost
+16029,1,1,1,111,Hibernating / Lost
+13408,1,1,1,111,Hibernating / Lost
+18102,1,1,1,111,Hibernating / Lost
+13798,1,1,1,111,Hibernating / Lost
+14156,1,1,1,111,Hibernating / Lost
+14527,1,1,1,111,Hibernating / Lost
+16422,1,1,1,111,Hibernating / Lost
+13694,1,1,1,111,Hibernating / Lost
+15061,1,1,1,111,Hibernating / Lost
+16013,1,1,1,111,Hibernating / Lost
+15039,1,1,1,111,Hibernating / Lost
+17450,1,1,1,111,Hibernating / Lost
+17949,1,1,1,111,Hibernating / Lost
+14298,1,1,1,111,Hibernating / Lost
+15189,1,1,1,111,Hibernating / Lost
+17811,1,1,1,111,Hibernating / Lost
+17961,1,1,2,112,Hibernating / Lost
+13199,1,1,1,111,Hibernating / Lost
+17315,1,1,1,111,Hibernating / Lost
+13767,1,1,1,111,Hibernating / Lost
+12921,1,1,1,111,Hibernating / Lost
+13468,1,1,1,111,Hibernating / Lost
+13263,1,1,1,111,Hibernating / Lost
+17389,1,1,1,111,Hibernating / Lost
+16839,1,1,1,111,Hibernating / Lost
+13777,1,1,1,111,Hibernating / Lost
+16133,1,1,1,111,Hibernating / Lost
+15078,1,1,1,111,Hibernating / Lost
+14735,1,1,1,111,Hibernating / Lost
+12569,1,1,1,111,Hibernating / Lost
+17511,1,1,1,111,Hibernating / Lost
+17675,1,1,1,111,Hibernating / Lost
+12682,1,1,1,111,Hibernating / Lost
+12471,1,1,1,111,Hibernating / Lost
+15159,1,1,1,111,Hibernating / Lost
+17677,1,1,1,111,Hibernating / Lost
+17757,1,1,1,111,Hibernating / Lost
+17381,1,1,1,111,Hibernating / Lost
+16684,1,1,1,111,Hibernating / Lost
+13098,1,1,1,111,Hibernating / Lost
+12901,1,1,1,111,Hibernating / Lost
+17428,1,1,1,111,Hibernating / Lost
+13018,1,1,1,111,Hibernating / Lost
+15005,1,1,1,111,Hibernating / Lost
+15856,1,1,1,111,Hibernating / Lost
+15498,1,1,1,111,Hibernating / Lost
+16168,1,1,1,111,Hibernating / Lost
+15769,1,1,1,111,Hibernating / Lost
+16525,1,1,1,111,Hibernating / Lost
+13078,1,1,1,111,Hibernating / Lost
+13319,1,1,1,111,Hibernating / Lost
+17243,1,1,1,111,Hibernating / Lost
+18109,1,1,1,111,Hibernating / Lost
+18118,1,1,1,111,Hibernating / Lost
+17581,1,1,1,111,Hibernating / Lost
+14667,1,1,1,111,Hibernating / Lost
+13854,1,1,1,111,Hibernating / Lost
+14849,1,1,1,111,Hibernating / Lost
+13534,1,1,1,111,Hibernating / Lost
+12720,1,1,1,111,Hibernating / Lost
+14180,1,1,1,111,Hibernating / Lost
+12841,1,1,1,111,Hibernating / Lost
+13113,1,1,1,111,Hibernating / Lost
+13102,1,1,1,111,Hibernating / Lost
+13069,1,1,1,111,Hibernating / Lost
+17857,1,1,1,111,Hibernating / Lost
+14051,1,1,1,111,Hibernating / Lost
+15615,1,1,1,111,Hibernating / Lost
+14056,1,1,1,111,Hibernating / Lost
+16353,1,1,1,111,Hibernating / Lost
+16333,1,1,1,111,Hibernating / Lost
+12681,1,1,1,111,Hibernating / Lost
+16779,1,1,1,111,Hibernating / Lost
+15358,1,1,1,111,Hibernating / Lost
+14560,1,1,1,111,Hibernating / Lost
+12415,1,1,1,111,Hibernating / Lost
+14194,1,1,1,111,Hibernating / Lost
+16523,1,1,1,111,Hibernating / Lost
+16729,1,1,1,111,Hibernating / Lost
+16814,1,1,1,111,Hibernating / Lost
+13668,1,1,1,111,Hibernating / Lost
+14688,1,1,1,111,Hibernating / Lost
+13599,1,1,1,111,Hibernating / Lost
+16931,1,1,1,111,Hibernating / Lost
+17068,1,1,1,111,Hibernating / Lost
+18041,1,1,1,111,Hibernating / Lost
+13881,1,1,1,111,Hibernating / Lost
+16705,1,1,1,111,Hibernating / Lost
+12621,1,1,1,111,Hibernating / Lost
+14895,1,1,1,111,Hibernating / Lost
+17865,1,1,1,111,Hibernating / Lost
+16033,1,1,1,111,Hibernating / Lost
+17017,1,1,1,111,Hibernating / Lost
+16558,1,1,1,111,Hibernating / Lost
+16672,1,1,1,111,Hibernating / Lost
+18172,1,1,1,111,Hibernating / Lost
+18229,1,1,1,111,Hibernating / Lost
+17377,1,1,1,111,Hibernating / Lost
+15838,1,1,1,111,Hibernating / Lost
+14031,1,1,1,111,Hibernating / Lost
+15513,1,1,1,111,Hibernating / Lost
+17735,1,1,1,111,Hibernating / Lost
+17306,1,1,1,111,Hibernating / Lost
+16923,1,1,1,111,Hibernating / Lost
+14060,1,1,1,111,Hibernating / Lost
+16161,1,1,1,111,Hibernating / Lost
+13267,1,1,1,111,Hibernating / Lost
+16945,1,1,1,111,Hibernating / Lost
+17576,1,1,1,111,Hibernating / Lost
+14397,1,1,1,111,Hibernating / Lost
+16210,1,1,1,111,Hibernating / Lost
+13969,1,1,1,111,Hibernating / Lost
+15290,1,1,1,111,Hibernating / Lost
+12474,1,1,1,111,Hibernating / Lost
+15465,1,1,1,111,Hibernating / Lost
+13576,1,1,1,111,Hibernating / Lost
+16746,1,1,1,111,Hibernating / Lost
+13418,1,1,1,111,Hibernating / Lost
+13004,1,1,1,111,Hibernating / Lost
+14562,1,1,1,111,Hibernating / Lost
+12437,1,1,1,111,Hibernating / Lost
+14085,1,1,1,111,Hibernating / Lost
+14534,1,1,1,111,Hibernating / Lost
+16458,1,1,1,111,Hibernating / Lost
+14096,1,1,1,111,Hibernating / Lost
+12540,1,1,1,111,Hibernating / Lost
+17706,1,1,1,111,Hibernating / Lost
+14796,1,1,1,111,Hibernating / Lost
+15044,1,1,1,111,Hibernating / Lost
+16745,1,1,1,111,Hibernating / Lost
+15144,1,1,1,111,Hibernating / Lost
+14057,1,1,1,111,Hibernating / Lost
+13050,1,1,1,111,Hibernating / Lost
+15805,1,1,1,111,Hibernating / Lost
+18198,1,1,1,111,Hibernating / Lost
+16626,1,1,1,111,Hibernating / Lost
+17920,1,1,1,111,Hibernating / Lost
+17238,1,1,1,111,Hibernating / Lost
+14702,1,1,1,111,Hibernating / Lost
+16928,1,1,1,111,Hibernating / Lost
+18241,1,1,1,111,Hibernating / Lost
+14217,1,1,2,112,Hibernating / Lost
+14680,1,1,1,111,Hibernating / Lost
+16843,1,1,1,111,Hibernating / Lost
+14367,1,1,1,111,Hibernating / Lost
+15738,1,1,1,111,Hibernating / Lost
+15555,1,1,1,111,Hibernating / Lost
+15187,1,1,1,111,Hibernating / Lost
+16592,1,1,1,111,Hibernating / Lost
+16904,1,1,1,111,Hibernating / Lost
+14543,1,1,1,111,Hibernating / Lost
+16011,1,1,1,111,Hibernating / Lost
+18283,1,1,1,111,Hibernating / Lost
+12931,1,1,1,111,Hibernating / Lost
+17404,1,1,1,111,Hibernating / Lost
+15640,1,1,1,111,Hibernating / Lost
+15125,1,1,1,111,Hibernating / Lost
+12709,1,1,1,111,Hibernating / Lost
+16656,1,1,1,111,Hibernating / Lost
+12683,1,1,1,111,Hibernating / Lost
+15194,1,1,1,111,Hibernating / Lost
+12583,1,1,1,111,Hibernating / Lost
+13985,1,1,1,111,Hibernating / Lost
+12989,1,1,1,111,Hibernating / Lost
+16713,1,1,1,111,Hibernating / Lost
+16187,1,1,1,111,Hibernating / Lost
+12431,1,1,1,111,Hibernating / Lost
+15939,1,1,1,111,Hibernating / Lost
+17719,1,1,1,111,Hibernating / Lost
+13269,1,1,1,111,Hibernating / Lost
+15046,1,1,1,111,Hibernating / Lost
+17690,1,1,1,111,Hibernating / Lost
+14135,1,1,1,111,Hibernating / Lost
+15291,1,1,1,111,Hibernating / Lost
+14189,1,1,1,111,Hibernating / Lost
+17611,1,1,1,111,Hibernating / Lost
+15867,1,1,1,111,Hibernating / Lost
+14282,1,1,1,111,Hibernating / Lost
+17346,1,1,1,111,Hibernating / Lost
+15271,1,1,1,111,Hibernating / Lost
+13695,1,1,1,111,Hibernating / Lost
+14607,1,1,1,111,Hibernating / Lost
+13458,1,1,1,111,Hibernating / Lost
+13090,1,1,1,111,Hibernating / Lost
+15601,1,1,1,111,Hibernating / Lost
+18223,1,1,1,111,Hibernating / Lost
+15694,1,1,1,111,Hibernating / Lost
+12839,1,1,1,111,Hibernating / Lost
+13756,1,1,1,111,Hibernating / Lost
+15547,1,1,1,111,Hibernating / Lost
+17613,1,1,1,111,Hibernating / Lost
+15955,1,1,1,111,Hibernating / Lost
+14092,1,1,1,111,Hibernating / Lost
+16607,1,1,1,111,Hibernating / Lost
+17220,1,1,1,111,Hibernating / Lost
+16326,1,1,1,111,Hibernating / Lost
+13230,1,1,1,111,Hibernating / Lost
+17965,1,1,1,111,Hibernating / Lost
+18065,1,1,1,111,Hibernating / Lost
+17790,1,1,2,112,Hibernating / Lost
+15827,1,1,2,112,Hibernating / Lost
+14088,1,1,1,111,Hibernating / Lost
+13001,1,1,1,111,Hibernating / Lost
+13488,1,1,1,111,Hibernating / Lost
+12757,1,1,1,111,Hibernating / Lost
+15249,1,1,1,111,Hibernating / Lost
+13871,1,1,1,111,Hibernating / Lost
+13709,1,1,1,111,Hibernating / Lost
+14415,1,1,1,111,Hibernating / Lost
+16701,1,1,1,111,Hibernating / Lost
+17730,1,1,1,111,Hibernating / Lost
+16191,1,1,1,111,Hibernating / Lost
+16700,1,1,1,111,Hibernating / Lost
+15719,1,1,1,111,Hibernating / Lost
+14709,1,1,1,111,Hibernating / Lost
+13013,1,1,1,111,Hibernating / Lost
+15152,1,1,1,111,Hibernating / Lost
+16722,1,1,1,111,Hibernating / Lost
+14191,1,1,1,111,Hibernating / Lost
+17975,1,1,1,111,Hibernating / Lost
+12712,1,1,1,111,Hibernating / Lost
+15804,1,1,1,111,Hibernating / Lost
+14401,1,1,1,111,Hibernating / Lost
+15581,1,1,1,111,Hibernating / Lost
+13880,1,1,1,111,Hibernating / Lost
+16393,1,1,1,111,Hibernating / Lost
+16764,1,1,1,111,Hibernating / Lost
+17402,1,1,1,111,Hibernating / Lost
+16241,1,1,1,111,Hibernating / Lost
+16782,1,1,1,111,Hibernating / Lost
+15611,1,1,2,112,Hibernating / Lost
+12731,1,1,1,111,Hibernating / Lost
+12678,1,1,1,111,Hibernating / Lost
+14866,1,1,1,111,Hibernating / Lost
+15482,1,1,1,111,Hibernating / Lost
+17139,1,1,1,111,Hibernating / Lost
+14062,1,1,1,111,Hibernating / Lost
+15502,1,1,1,111,Hibernating / Lost
+14733,1,1,1,111,Hibernating / Lost
+14944,1,1,1,111,Hibernating / Lost
+16553,1,1,1,111,Hibernating / Lost
+14110,1,1,1,111,Hibernating / Lost
+18225,1,1,1,111,Hibernating / Lost
+17809,1,1,1,111,Hibernating / Lost
+17858,1,1,1,111,Hibernating / Lost
+15301,1,1,1,111,Hibernating / Lost
+17652,1,1,1,111,Hibernating / Lost
+15298,1,1,1,111,Hibernating / Lost
+14800,1,1,1,111,Hibernating / Lost
+17419,1,1,1,111,Hibernating / Lost
+15971,1,1,1,111,Hibernating / Lost
+15570,1,1,1,111,Hibernating / Lost
+16401,1,1,1,111,Hibernating / Lost
+16186,1,1,1,111,Hibernating / Lost
+13999,1,1,1,111,Hibernating / Lost
+18073,1,1,1,111,Hibernating / Lost
+13266,1,1,1,111,Hibernating / Lost
+13552,1,1,1,111,Hibernating / Lost
+12647,1,1,1,111,Hibernating / Lost
+13148,1,1,1,111,Hibernating / Lost
+14040,1,1,1,111,Hibernating / Lost
+13742,1,1,1,111,Hibernating / Lost
+16678,1,1,1,111,Hibernating / Lost
+12395,1,1,1,111,Hibernating / Lost
+17659,1,1,1,111,Hibernating / Lost
+15854,1,1,1,111,Hibernating / Lost
+18144,1,1,1,111,Hibernating / Lost
+13983,1,1,1,111,Hibernating / Lost
+15373,1,1,1,111,Hibernating / Lost
+17954,1,1,1,111,Hibernating / Lost
+15235,1,1,1,111,Hibernating / Lost
+14825,1,1,1,111,Hibernating / Lost
+13571,1,1,1,111,Hibernating / Lost
+13094,1,1,2,112,Hibernating / Lost
+17870,1,1,2,112,Hibernating / Lost
+12877,1,1,2,112,Hibernating / Lost
+13081,1,1,1,111,Hibernating / Lost
+17340,1,1,1,111,Hibernating / Lost
+15251,1,1,1,111,Hibernating / Lost
+18092,1,1,1,111,Hibernating / Lost
+14952,1,1,1,111,Hibernating / Lost
+13629,1,1,1,111,Hibernating / Lost
+12476,1,1,1,111,Hibernating / Lost
+15023,1,1,1,111,Hibernating / Lost
+15218,1,1,1,111,Hibernating / Lost
+13178,1,1,1,111,Hibernating / Lost
+17716,1,1,1,111,Hibernating / Lost
+16767,1,1,1,111,Hibernating / Lost
+17061,1,1,1,111,Hibernating / Lost
+18226,1,1,1,111,Hibernating / Lost
+14755,1,1,1,111,Hibernating / Lost
+12955,1,1,1,111,Hibernating / Lost
+14159,1,1,1,111,Hibernating / Lost
+17364,1,1,1,111,Hibernating / Lost
+12500,1,1,1,111,Hibernating / Lost
+12747,1,1,1,111,Hibernating / Lost
+15514,1,1,1,111,Hibernating / Lost
+16670,1,1,1,111,Hibernating / Lost
+15529,1,1,1,111,Hibernating / Lost
+17001,1,1,1,111,Hibernating / Lost
+14291,1,1,1,111,Hibernating / Lost
+12662,1,1,1,111,Hibernating / Lost
+16145,1,1,1,111,Hibernating / Lost
+16712,1,1,1,111,Hibernating / Lost
+14132,1,1,1,111,Hibernating / Lost
+15129,1,1,1,111,Hibernating / Lost
+17725,1,1,1,111,Hibernating / Lost
+16818,1,1,1,111,Hibernating / Lost
+13268,1,1,1,111,Hibernating / Lost
+16837,1,1,1,111,Hibernating / Lost
+14099,1,1,1,111,Hibernating / Lost
+13631,1,1,1,111,Hibernating / Lost
+14032,1,1,1,111,Hibernating / Lost
+17644,1,1,1,111,Hibernating / Lost
+14711,1,1,1,111,Hibernating / Lost
+14713,1,1,1,111,Hibernating / Lost
+18077,1,1,1,111,Hibernating / Lost
+16919,1,1,1,111,Hibernating / Lost
+16912,1,1,1,111,Hibernating / Lost
+14776,1,1,1,111,Hibernating / Lost
+14502,1,1,1,111,Hibernating / Lost
+13784,1,1,1,111,Hibernating / Lost
+14239,1,1,1,111,Hibernating / Lost
+15058,1,1,1,111,Hibernating / Lost
+14810,1,1,1,111,Hibernating / Lost
+14462,1,1,2,112,Hibernating / Lost
+12523,1,1,2,112,Hibernating / Lost
+16775,1,1,2,112,Hibernating / Lost
+12567,1,1,1,111,Hibernating / Lost
+13324,1,1,1,111,Hibernating / Lost
+18055,1,1,1,111,Hibernating / Lost
+13097,1,1,1,111,Hibernating / Lost
+12481,1,1,1,111,Hibernating / Lost
+16985,1,1,1,111,Hibernating / Lost
+12490,1,1,1,111,Hibernating / Lost
+15150,1,1,1,111,Hibernating / Lost
+12362,1,1,1,111,Hibernating / Lost
+14426,1,1,1,111,Hibernating / Lost
+16549,1,1,1,111,Hibernating / Lost
+17940,1,1,1,111,Hibernating / Lost
+17769,1,1,1,111,Hibernating / Lost
+17651,1,1,1,111,Hibernating / Lost
+16570,1,1,1,111,Hibernating / Lost
+12553,1,1,1,111,Hibernating / Lost
+13426,1,1,1,111,Hibernating / Lost
+17491,1,1,1,111,Hibernating / Lost
+13014,1,1,1,111,Hibernating / Lost
+14227,1,1,1,111,Hibernating / Lost
+12594,1,1,1,111,Hibernating / Lost
+13047,1,1,1,111,Hibernating / Lost
+17231,1,1,1,111,Hibernating / Lost
+17799,1,1,1,111,Hibernating / Lost
+17512,1,1,1,111,Hibernating / Lost
+15984,1,1,1,111,Hibernating / Lost
+13769,1,1,1,111,Hibernating / Lost
+15356,1,1,1,111,Hibernating / Lost
+15114,1,1,1,111,Hibernating / Lost
+12708,1,1,1,111,Hibernating / Lost
+18075,1,1,1,111,Hibernating / Lost
+12600,1,1,1,111,Hibernating / Lost
+14243,1,1,1,111,Hibernating / Lost
+15033,1,1,1,111,Hibernating / Lost
+16710,1,1,1,111,Hibernating / Lost
+17530,1,1,1,111,Hibernating / Lost
+13700,1,1,1,111,Hibernating / Lost
+16293,1,1,1,111,Hibernating / Lost
+16076,1,1,1,111,Hibernating / Lost
+16407,1,1,1,111,Hibernating / Lost
+18061,1,1,1,111,Hibernating / Lost
+18044,1,1,1,111,Hibernating / Lost
+18219,1,1,1,111,Hibernating / Lost
+13305,1,1,2,112,Hibernating / Lost
+17218,1,1,2,112,Hibernating / Lost
+16426,1,1,2,112,Hibernating / Lost
+13890,1,1,2,112,Hibernating / Lost
+17162,1,1,2,112,Hibernating / Lost
+13184,1,1,2,112,Hibernating / Lost
+16813,1,1,2,112,Hibernating / Lost
+16638,1,1,2,112,Hibernating / Lost
+15024,1,1,2,112,Hibernating / Lost
+16794,1,1,2,112,Hibernating / Lost
+13491,1,1,2,112,Hibernating / Lost
+14258,1,1,1,111,Hibernating / Lost
+12428,1,1,1,111,Hibernating / Lost
+12980,1,1,1,111,Hibernating / Lost
+14961,1,1,1,111,Hibernating / Lost
+12705,1,1,1,111,Hibernating / Lost
+12626,1,1,1,111,Hibernating / Lost
+17049,1,1,1,111,Hibernating / Lost
+16265,1,1,1,111,Hibernating / Lost
+12664,1,1,1,111,Hibernating / Lost
+14292,1,1,1,111,Hibernating / Lost
+14390,1,1,1,111,Hibernating / Lost
+14525,1,1,1,111,Hibernating / Lost
+14299,1,1,1,111,Hibernating / Lost
+13183,1,1,1,111,Hibernating / Lost
+17091,1,1,1,111,Hibernating / Lost
+16019,1,1,1,111,Hibernating / Lost
+15622,1,1,1,111,Hibernating / Lost
+12417,1,1,1,111,Hibernating / Lost
+12619,1,1,1,111,Hibernating / Lost
+13082,1,1,1,111,Hibernating / Lost
+15544,1,1,1,111,Hibernating / Lost
+14395,1,1,1,111,Hibernating / Lost
+13993,1,1,1,111,Hibernating / Lost
+14221,1,1,1,111,Hibernating / Lost
+13842,1,1,1,111,Hibernating / Lost
+16156,1,1,1,111,Hibernating / Lost
+14456,1,1,1,111,Hibernating / Lost
+17504,1,1,1,111,Hibernating / Lost
+15687,1,1,1,111,Hibernating / Lost
+15606,1,1,1,111,Hibernating / Lost
+15628,1,1,1,111,Hibernating / Lost
+17069,1,1,1,111,Hibernating / Lost
+13021,1,1,1,111,Hibernating / Lost
+13911,1,1,1,111,Hibernating / Lost
+14701,1,1,1,111,Hibernating / Lost
+14659,1,1,1,111,Hibernating / Lost
+13588,1,1,1,111,Hibernating / Lost
+17071,1,1,1,111,Hibernating / Lost
+17634,1,1,1,111,Hibernating / Lost
+14309,1,1,1,111,Hibernating / Lost
+12584,1,1,1,111,Hibernating / Lost
+15281,1,1,1,111,Hibernating / Lost
+13704,1,1,1,111,Hibernating / Lost
+14211,1,1,1,111,Hibernating / Lost
+13755,1,1,1,111,Hibernating / Lost
+18008,1,1,1,111,Hibernating / Lost
+16954,1,1,1,111,Hibernating / Lost
+16942,1,1,2,112,Hibernating / Lost
+15021,1,1,2,112,Hibernating / Lost
+17293,1,1,2,112,Hibernating / Lost
+14524,1,1,2,112,Hibernating / Lost
+17705,1,1,2,112,Hibernating / Lost
+17750,1,1,2,112,Hibernating / Lost
+16359,1,1,2,112,Hibernating / Lost
+14573,1,1,2,112,Hibernating / Lost
+16817,1,1,2,112,Hibernating / Lost
+14587,1,1,2,112,Hibernating / Lost
+15660,1,1,2,112,Hibernating / Lost
+14704,1,1,2,112,Hibernating / Lost
+16365,1,1,2,112,Hibernating / Lost
+14878,1,1,2,112,Hibernating / Lost
+14901,1,1,2,112,Hibernating / Lost
+15059,1,1,2,112,Hibernating / Lost
+15602,1,1,2,112,Hibernating / Lost
+17800,1,1,2,112,Hibernating / Lost
+14410,1,1,2,112,Hibernating / Lost
+14083,1,1,2,112,Hibernating / Lost
+17848,1,1,3,113,Hibernating / Lost
+12939,1,1,1,111,Hibernating / Lost
+14769,1,1,1,111,Hibernating / Lost
+16180,1,1,1,111,Hibernating / Lost
+14936,1,1,1,111,Hibernating / Lost
+13093,1,1,1,111,Hibernating / Lost
+17396,1,1,1,111,Hibernating / Lost
+17338,1,1,1,111,Hibernating / Lost
+17509,1,1,1,111,Hibernating / Lost
+12637,1,1,1,111,Hibernating / Lost
+14505,1,1,1,111,Hibernating / Lost
+13209,1,1,1,111,Hibernating / Lost
+17365,1,1,1,111,Hibernating / Lost
+12524,1,1,1,111,Hibernating / Lost
+17567,1,1,1,111,Hibernating / Lost
+15034,1,1,1,111,Hibernating / Lost
+12949,1,1,1,111,Hibernating / Lost
+12957,1,1,1,111,Hibernating / Lost
+14547,1,1,1,111,Hibernating / Lost
+12779,1,1,1,111,Hibernating / Lost
+17173,1,1,1,111,Hibernating / Lost
+14364,1,1,1,111,Hibernating / Lost
+15845,1,1,1,111,Hibernating / Lost
+13137,1,1,1,111,Hibernating / Lost
+17230,1,1,1,111,Hibernating / Lost
+17528,1,1,1,111,Hibernating / Lost
+13327,1,1,1,111,Hibernating / Lost
+17758,1,1,1,111,Hibernating / Lost
+15410,1,1,1,111,Hibernating / Lost
+15981,1,1,1,111,Hibernating / Lost
+15632,1,1,1,111,Hibernating / Lost
+14388,1,1,1,111,Hibernating / Lost
+15861,1,1,1,111,Hibernating / Lost
+12910,1,1,1,111,Hibernating / Lost
+12598,1,1,1,111,Hibernating / Lost
+15521,1,1,1,111,Hibernating / Lost
+14868,1,1,1,111,Hibernating / Lost
+16316,1,1,1,111,Hibernating / Lost
+13870,1,1,1,111,Hibernating / Lost
+13971,1,1,1,111,Hibernating / Lost
+14808,1,1,1,111,Hibernating / Lost
+15696,1,1,1,111,Hibernating / Lost
+15796,1,1,1,111,Hibernating / Lost
+14732,1,1,1,111,Hibernating / Lost
+16255,1,1,1,111,Hibernating / Lost
+14262,1,1,1,111,Hibernating / Lost
+14334,1,1,1,111,Hibernating / Lost
+17314,1,1,1,111,Hibernating / Lost
+13394,1,1,1,111,Hibernating / Lost
+12352,1,1,1,111,Hibernating / Lost
+15932,1,1,1,111,Hibernating / Lost
+12483,1,1,1,111,Hibernating / Lost
+15750,1,1,1,111,Hibernating / Lost
+15527,1,1,1,111,Hibernating / Lost
+14030,1,1,1,111,Hibernating / Lost
+12704,1,1,1,111,Hibernating / Lost
+18257,1,1,1,111,Hibernating / Lost
+17211,1,1,1,111,Hibernating / Lost
+17696,1,1,1,111,Hibernating / Lost
+13862,1,1,1,111,Hibernating / Lost
+14341,1,1,1,111,Hibernating / Lost
+17861,1,1,1,111,Hibernating / Lost
+13126,1,1,1,111,Hibernating / Lost
+14730,1,1,2,112,Hibernating / Lost
+13725,1,1,2,112,Hibernating / Lost
+17997,1,1,2,112,Hibernating / Lost
+15518,1,1,2,112,Hibernating / Lost
+14472,1,1,2,112,Hibernating / Lost
+17368,1,1,2,112,Hibernating / Lost
+17228,1,1,2,112,Hibernating / Lost
+12423,1,1,2,112,Hibernating / Lost
+12963,1,1,2,112,Hibernating / Lost
+17629,1,1,2,112,Hibernating / Lost
+15241,1,1,2,112,Hibernating / Lost
+12843,1,1,2,112,Hibernating / Lost
+16115,1,1,2,112,Hibernating / Lost
+13012,1,1,2,112,Hibernating / Lost
+15214,1,1,2,112,Hibernating / Lost
+15953,1,1,2,112,Hibernating / Lost
+17837,1,1,2,112,Hibernating / Lost
+15916,1,1,2,112,Hibernating / Lost
+16910,1,1,2,112,Hibernating / Lost
+16016,1,1,2,112,Hibernating / Lost
+14541,1,1,2,112,Hibernating / Lost
+14071,1,1,2,112,Hibernating / Lost
+18116,1,1,2,112,Hibernating / Lost
+15134,1,1,2,112,Hibernating / Lost
+17372,1,1,2,112,Hibernating / Lost
+15910,1,1,2,112,Hibernating / Lost
+12464,1,1,2,112,Hibernating / Lost
+15737,1,1,2,112,Hibernating / Lost
+17894,1,1,2,112,Hibernating / Lost
+13117,1,1,2,112,Hibernating / Lost
+15860,1,1,2,112,Hibernating / Lost
+17097,1,1,2,112,Hibernating / Lost
+14344,1,1,3,113,Hibernating / Lost
+17114,1,1,3,113,Hibernating / Lost
+17888,1,1,3,113,Hibernating / Lost
+15304,1,1,3,113,Hibernating / Lost
+12744,1,1,1,111,Hibernating / Lost
+12433,1,1,1,111,Hibernating / Lost
+13340,1,1,1,111,Hibernating / Lost
+12766,1,1,1,111,Hibernating / Lost
+17416,1,1,1,111,Hibernating / Lost
+16652,1,1,1,111,Hibernating / Lost
+12472,1,1,1,111,Hibernating / Lost
+13225,1,1,1,111,Hibernating / Lost
+17686,1,1,1,111,Hibernating / Lost
+16609,1,1,1,111,Hibernating / Lost
+15727,1,1,1,111,Hibernating / Lost
+15903,1,1,1,111,Hibernating / Lost
+13139,1,1,1,111,Hibernating / Lost
+14329,1,1,1,111,Hibernating / Lost
+17133,1,1,1,111,Hibernating / Lost
+14004,1,1,1,111,Hibernating / Lost
+15299,1,1,1,111,Hibernating / Lost
+12627,1,1,1,111,Hibernating / Lost
+15874,1,1,1,111,Hibernating / Lost
+12347,1,1,1,111,Hibernating / Lost
+17937,1,1,1,111,Hibernating / Lost
+13384,1,1,1,111,Hibernating / Lost
+12867,1,1,1,111,Hibernating / Lost
+12727,1,1,1,111,Hibernating / Lost
+14739,1,1,1,111,Hibernating / Lost
+13435,1,1,1,111,Hibernating / Lost
+12562,1,1,1,111,Hibernating / Lost
+17819,1,1,1,111,Hibernating / Lost
+15379,1,1,1,111,Hibernating / Lost
+16242,1,1,1,111,Hibernating / Lost
+13953,1,1,1,111,Hibernating / Lost
+14907,1,1,1,111,Hibernating / Lost
+13536,1,1,1,111,Hibernating / Lost
+15974,1,1,1,111,Hibernating / Lost
+13437,1,1,1,111,Hibernating / Lost
+17669,1,1,1,111,Hibernating / Lost
+15708,1,1,1,111,Hibernating / Lost
+16556,1,1,1,111,Hibernating / Lost
+15443,1,1,1,111,Hibernating / Lost
+16107,1,1,1,111,Hibernating / Lost
+17685,1,1,1,111,Hibernating / Lost
+13758,1,1,1,111,Hibernating / Lost
+13685,1,1,1,111,Hibernating / Lost
+16905,1,1,1,111,Hibernating / Lost
+16218,1,1,1,111,Hibernating / Lost
+16686,1,1,1,111,Hibernating / Lost
+18094,1,1,1,111,Hibernating / Lost
+17924,1,1,1,111,Hibernating / Lost
+14112,1,1,1,111,Hibernating / Lost
+14572,1,1,1,111,Hibernating / Lost
+17596,1,1,1,111,Hibernating / Lost
+18230,1,1,1,111,Hibernating / Lost
+15993,1,1,1,111,Hibernating / Lost
+17739,1,1,1,111,Hibernating / Lost
+17213,1,1,1,111,Hibernating / Lost
+14854,1,1,1,111,Hibernating / Lost
+14107,1,1,1,111,Hibernating / Lost
+15671,1,1,1,111,Hibernating / Lost
+17655,1,1,1,111,Hibernating / Lost
+15752,1,1,1,111,Hibernating / Lost
+13804,1,1,1,111,Hibernating / Lost
+12726,1,1,1,111,Hibernating / Lost
+14408,1,1,1,111,Hibernating / Lost
+18245,1,1,1,111,Hibernating / Lost
+15572,1,1,1,111,Hibernating / Lost
+17449,1,1,1,111,Hibernating / Lost
+16477,1,1,1,111,Hibernating / Lost
+17188,1,1,1,111,Hibernating / Lost
+17164,1,1,1,111,Hibernating / Lost
+15370,1,1,1,111,Hibernating / Lost
+15270,1,1,1,111,Hibernating / Lost
+17434,1,1,1,111,Hibernating / Lost
+12457,1,1,1,111,Hibernating / Lost
+15140,1,1,1,111,Hibernating / Lost
+15365,1,1,1,111,Hibernating / Lost
+15105,1,1,1,111,Hibernating / Lost
+13527,1,1,1,111,Hibernating / Lost
+12684,1,1,1,111,Hibernating / Lost
+14466,1,1,1,111,Hibernating / Lost
+16057,1,1,1,111,Hibernating / Lost
+16743,1,1,1,111,Hibernating / Lost
+17591,1,1,1,111,Hibernating / Lost
+12935,1,1,1,111,Hibernating / Lost
+16966,1,1,1,111,Hibernating / Lost
+17191,1,1,1,111,Hibernating / Lost
+17490,1,1,1,111,Hibernating / Lost
+14696,1,1,1,111,Hibernating / Lost
+12948,1,1,1,111,Hibernating / Lost
+17090,1,1,2,112,Hibernating / Lost
+13630,1,1,2,112,Hibernating / Lost
+16098,1,1,2,112,Hibernating / Lost
+15351,1,1,2,112,Hibernating / Lost
+14533,1,1,2,112,Hibernating / Lost
+14653,1,1,2,112,Hibernating / Lost
+16983,1,1,2,112,Hibernating / Lost
+16474,1,1,2,112,Hibernating / Lost
+16455,1,1,2,112,Hibernating / Lost
+15260,1,1,2,112,Hibernating / Lost
+17663,1,1,2,112,Hibernating / Lost
+16719,1,1,2,112,Hibernating / Lost
+15473,1,1,2,112,Hibernating / Lost
+16791,1,1,2,112,Hibernating / Lost
+17451,1,1,2,112,Hibernating / Lost
+17193,1,1,2,112,Hibernating / Lost
+16987,1,1,2,112,Hibernating / Lost
+14178,1,1,2,112,Hibernating / Lost
+16466,1,1,2,112,Hibernating / Lost
+16332,1,1,2,112,Hibernating / Lost
+15906,1,1,2,112,Hibernating / Lost
+16434,1,1,2,112,Hibernating / Lost
+16880,1,1,2,112,Hibernating / Lost
+14414,1,1,2,112,Hibernating / Lost
+13110,1,1,2,112,Hibernating / Lost
+12826,1,1,2,112,Hibernating / Lost
+16348,1,1,2,112,Hibernating / Lost
+17063,1,1,2,112,Hibernating / Lost
+15987,1,1,2,112,Hibernating / Lost
+17288,1,1,2,112,Hibernating / Lost
+15453,1,1,2,112,Hibernating / Lost
+13232,1,1,2,112,Hibernating / Lost
+13743,1,1,2,112,Hibernating / Lost
+14794,1,1,2,112,Hibernating / Lost
+14738,1,1,2,112,Hibernating / Lost
+16744,1,1,2,112,Hibernating / Lost
+16929,1,1,2,112,Hibernating / Lost
+13538,1,1,2,112,Hibernating / Lost
+17412,1,1,2,112,Hibernating / Lost
+12494,1,1,2,112,Hibernating / Lost
+16531,1,1,2,112,Hibernating / Lost
+17135,1,1,2,112,Hibernating / Lost
+13610,1,1,2,112,Hibernating / Lost
+17562,1,1,2,112,Hibernating / Lost
+14744,1,1,2,112,Hibernating / Lost
+17287,1,1,2,112,Hibernating / Lost
+12599,1,1,2,112,Hibernating / Lost
+13509,1,1,2,112,Hibernating / Lost
+17323,1,1,3,113,Hibernating / Lost
+13549,1,1,3,113,Hibernating / Lost
+16266,1,1,3,113,Hibernating / Lost
+14976,1,1,3,113,Hibernating / Lost
+16725,1,1,3,113,Hibernating / Lost
+14201,1,1,3,113,Hibernating / Lost
+17988,1,1,5,115,Hibernating / Lost
+12753,1,1,1,111,Hibernating / Lost
+12477,1,1,1,111,Hibernating / Lost
+17107,1,1,1,111,Hibernating / Lost
+18139,1,1,1,111,Hibernating / Lost
+16873,1,1,1,111,Hibernating / Lost
+13027,1,1,1,111,Hibernating / Lost
+12830,1,1,1,111,Hibernating / Lost
+14101,1,1,1,111,Hibernating / Lost
+15382,1,1,1,111,Hibernating / Lost
+17602,1,1,1,111,Hibernating / Lost
+17426,1,1,1,111,Hibernating / Lost
+15093,1,1,1,111,Hibernating / Lost
+12484,1,1,1,111,Hibernating / Lost
+14422,1,1,1,111,Hibernating / Lost
+13988,1,1,1,111,Hibernating / Lost
+16717,1,1,1,111,Hibernating / Lost
+16327,1,1,1,111,Hibernating / Lost
+16655,1,1,1,111,Hibernating / Lost
+15296,1,1,1,111,Hibernating / Lost
+13381,1,1,1,111,Hibernating / Lost
+13520,1,1,1,111,Hibernating / Lost
+17203,1,1,1,111,Hibernating / Lost
+14503,1,1,1,111,Hibernating / Lost
+13448,1,1,1,111,Hibernating / Lost
+17160,1,1,1,111,Hibernating / Lost
+16360,1,1,1,111,Hibernating / Lost
+16131,1,1,1,111,Hibernating / Lost
+13198,1,1,1,111,Hibernating / Lost
+17183,1,1,1,111,Hibernating / Lost
+12643,1,1,1,111,Hibernating / Lost
+14841,1,1,1,111,Hibernating / Lost
+15764,1,1,1,111,Hibernating / Lost
+17723,1,1,1,111,Hibernating / Lost
+17050,1,1,1,111,Hibernating / Lost
+17863,1,1,1,111,Hibernating / Lost
+15491,1,1,1,111,Hibernating / Lost
+18272,1,1,1,111,Hibernating / Lost
+14307,1,1,1,111,Hibernating / Lost
+14639,1,1,1,111,Hibernating / Lost
+16497,1,1,1,111,Hibernating / Lost
+14530,1,1,1,111,Hibernating / Lost
+16633,1,1,1,111,Hibernating / Lost
+12685,1,1,1,111,Hibernating / Lost
+14852,1,1,1,111,Hibernating / Lost
+16871,1,1,1,111,Hibernating / Lost
+12388,1,1,1,111,Hibernating / Lost
+13654,1,1,1,111,Hibernating / Lost
+18097,1,1,1,111,Hibernating / Lost
+17386,1,1,1,111,Hibernating / Lost
+12721,1,1,1,111,Hibernating / Lost
+18260,1,1,1,111,Hibernating / Lost
+18210,1,1,1,111,Hibernating / Lost
+14676,1,1,1,111,Hibernating / Lost
+13975,1,1,1,111,Hibernating / Lost
+14315,1,1,1,111,Hibernating / Lost
+17682,1,1,1,111,Hibernating / Lost
+14766,1,1,1,111,Hibernating / Lost
+12455,1,1,1,111,Hibernating / Lost
+13949,1,1,1,111,Hibernating / Lost
+16143,1,1,1,111,Hibernating / Lost
+15089,1,1,1,111,Hibernating / Lost
+15755,1,1,1,111,Hibernating / Lost
+17744,1,1,1,111,Hibernating / Lost
+13994,1,1,1,111,Hibernating / Lost
+13317,1,1,1,111,Hibernating / Lost
+14432,1,1,1,111,Hibernating / Lost
+17442,1,1,1,111,Hibernating / Lost
+12783,1,1,1,111,Hibernating / Lost
+15811,1,1,1,111,Hibernating / Lost
+13831,1,1,1,111,Hibernating / Lost
+12856,1,1,1,111,Hibernating / Lost
+14407,1,1,1,111,Hibernating / Lost
+14640,1,1,1,111,Hibernating / Lost
+14515,1,1,1,111,Hibernating / Lost
+14209,1,1,1,111,Hibernating / Lost
+14482,1,1,1,111,Hibernating / Lost
+14409,1,1,2,112,Hibernating / Lost
+14188,1,1,2,112,Hibernating / Lost
+17086,1,1,2,112,Hibernating / Lost
+17612,1,1,2,112,Hibernating / Lost
+13450,1,1,2,112,Hibernating / Lost
+13246,1,1,2,112,Hibernating / Lost
+13590,1,1,2,112,Hibernating / Lost
+17422,1,1,2,112,Hibernating / Lost
+12853,1,1,2,112,Hibernating / Lost
+15864,1,1,2,112,Hibernating / Lost
+12528,1,1,2,112,Hibernating / Lost
+14210,1,1,2,112,Hibernating / Lost
+16170,1,1,2,112,Hibernating / Lost
+16841,1,1,2,112,Hibernating / Lost
+16979,1,1,2,112,Hibernating / Lost
+17519,1,1,2,112,Hibernating / Lost
+18180,1,1,2,112,Hibernating / Lost
+13924,1,1,2,112,Hibernating / Lost
+13650,1,1,2,112,Hibernating / Lost
+15203,1,1,2,112,Hibernating / Lost
+18122,1,1,2,112,Hibernating / Lost
+18179,1,1,2,112,Hibernating / Lost
+14215,1,1,2,112,Hibernating / Lost
+15220,1,1,2,112,Hibernating / Lost
+16681,1,1,2,112,Hibernating / Lost
+13456,1,1,2,112,Hibernating / Lost
+14595,1,1,2,112,Hibernating / Lost
+14834,1,1,2,112,Hibernating / Lost
+17284,1,1,2,112,Hibernating / Lost
+17673,1,1,2,112,Hibernating / Lost
+14312,1,1,2,112,Hibernating / Lost
+12868,1,1,2,112,Hibernating / Lost
+12947,1,1,2,112,Hibernating / Lost
+16790,1,1,2,112,Hibernating / Lost
+14404,1,1,2,112,Hibernating / Lost
+16059,1,1,2,112,Hibernating / Lost
+16996,1,1,2,112,Hibernating / Lost
+13477,1,1,2,112,Hibernating / Lost
+13717,1,1,2,112,Hibernating / Lost
+16103,1,1,2,112,Hibernating / Lost
+16173,1,1,2,112,Hibernating / Lost
+14741,1,1,2,112,Hibernating / Lost
+17676,1,1,2,112,Hibernating / Lost
+14507,1,1,2,112,Hibernating / Lost
+14434,1,1,2,112,Hibernating / Lost
+18177,1,1,2,112,Hibernating / Lost
+12919,1,1,2,112,Hibernating / Lost
+12676,1,1,2,112,Hibernating / Lost
+14898,1,1,2,112,Hibernating / Lost
+16949,1,1,2,112,Hibernating / Lost
+16899,1,1,2,112,Hibernating / Lost
+13208,1,1,2,112,Hibernating / Lost
+17867,1,1,2,112,Hibernating / Lost
+14487,1,1,2,112,Hibernating / Lost
+13752,1,1,2,112,Hibernating / Lost
+18168,1,1,2,112,Hibernating / Lost
+16184,1,1,2,112,Hibernating / Lost
+14723,1,1,2,112,Hibernating / Lost
+16989,1,1,2,112,Hibernating / Lost
+14948,1,1,2,112,Hibernating / Lost
+13104,1,1,2,112,Hibernating / Lost
+17214,1,1,2,112,Hibernating / Lost
+16918,1,1,2,112,Hibernating / Lost
+12951,1,1,2,112,Hibernating / Lost
+15996,1,1,2,112,Hibernating / Lost
+14419,1,1,2,112,Hibernating / Lost
+14078,1,1,2,112,Hibernating / Lost
+12691,1,1,2,112,Hibernating / Lost
+12828,1,1,2,112,Hibernating / Lost
+13728,1,1,2,112,Hibernating / Lost
+15508,1,1,2,112,Hibernating / Lost
+16419,1,1,2,112,Hibernating / Lost
+13138,1,1,2,112,Hibernating / Lost
+17227,1,1,3,113,Hibernating / Lost
+16027,1,1,3,113,Hibernating / Lost
+17236,1,1,3,113,Hibernating / Lost
+13782,1,1,3,113,Hibernating / Lost
+14289,1,1,3,113,Hibernating / Lost
+17027,1,1,3,113,Hibernating / Lost
+17007,1,1,3,113,Hibernating / Lost
+17109,1,1,3,113,Hibernating / Lost
+18236,1,1,3,113,Hibernating / Lost
+13991,1,1,3,113,Hibernating / Lost
+16877,1,1,3,113,Hibernating / Lost
+12778,1,1,3,113,Hibernating / Lost
+16600,1,1,3,113,Hibernating / Lost
+14883,1,1,3,113,Hibernating / Lost
+15038,1,1,3,113,Hibernating / Lost
+17874,1,1,3,113,Hibernating / Lost
+16306,1,1,3,113,Hibernating / Lost
+17460,1,1,3,113,Hibernating / Lost
+16915,1,2,3,123,Hibernating / Lost
+16500,2,2,4,224,Hibernating / Lost
+15107,2,2,4,224,Hibernating / Lost
+16668,2,2,4,224,Hibernating / Lost
+18037,2,2,5,225,Hibernating / Lost
+12557,2,2,1,221,Hibernating / Lost
+12451,2,2,1,221,Hibernating / Lost
+16258,2,2,1,221,Hibernating / Lost
+13941,2,2,1,221,Hibernating / Lost
+12432,2,2,1,221,Hibernating / Lost
+12444,2,2,1,221,Hibernating / Lost
+12714,2,2,1,221,Hibernating / Lost
+14146,2,2,1,221,Hibernating / Lost
+12749,2,2,1,221,Hibernating / Lost
+12656,2,2,1,221,Hibernating / Lost
+13523,2,2,1,221,Hibernating / Lost
+12473,2,2,1,221,Hibernating / Lost
+17593,2,2,1,221,Hibernating / Lost
+12502,2,2,1,221,Hibernating / Lost
+16440,2,2,1,221,Hibernating / Lost
+15505,2,2,1,221,Hibernating / Lost
+13015,2,2,1,221,Hibernating / Lost
+12613,2,2,1,221,Hibernating / Lost
+14235,2,2,1,221,Hibernating / Lost
+14257,2,2,1,221,Hibernating / Lost
+17059,2,2,1,221,Hibernating / Lost
+15998,2,2,1,221,Hibernating / Lost
+16709,2,2,1,221,Hibernating / Lost
+12670,2,2,1,221,Hibernating / Lost
+13451,2,2,1,221,Hibernating / Lost
+12906,2,2,1,221,Hibernating / Lost
+12408,2,2,1,221,Hibernating / Lost
+14251,2,2,1,221,Hibernating / Lost
+14005,2,2,1,221,Hibernating / Lost
+13901,2,2,1,221,Hibernating / Lost
+14903,2,2,1,221,Hibernating / Lost
+16081,2,2,1,221,Hibernating / Lost
+17838,2,2,1,221,Hibernating / Lost
+16003,2,2,1,221,Hibernating / Lost
+13883,2,2,1,221,Hibernating / Lost
+16618,2,2,1,221,Hibernating / Lost
+13658,2,2,1,221,Hibernating / Lost
+12520,2,2,1,221,Hibernating / Lost
+13136,2,2,1,221,Hibernating / Lost
+14546,2,2,1,221,Hibernating / Lost
+12517,2,2,1,221,Hibernating / Lost
+12913,2,2,1,221,Hibernating / Lost
+17131,2,2,1,221,Hibernating / Lost
+15674,2,2,1,221,Hibernating / Lost
+13141,2,2,1,221,Hibernating / Lost
+14493,2,2,1,221,Hibernating / Lost
+14440,2,2,1,221,Hibernating / Lost
+12782,2,2,1,221,Hibernating / Lost
+15785,2,2,1,221,Hibernating / Lost
+14290,2,2,1,221,Hibernating / Lost
+15288,2,2,1,221,Hibernating / Lost
+16735,2,2,1,221,Hibernating / Lost
+16550,2,2,1,221,Hibernating / Lost
+16209,2,2,1,221,Hibernating / Lost
+16771,2,2,1,221,Hibernating / Lost
+14226,2,2,1,221,Hibernating / Lost
+15722,2,2,1,221,Hibernating / Lost
+15179,2,2,1,221,Hibernating / Lost
+16628,2,2,1,221,Hibernating / Lost
+12909,2,2,1,221,Hibernating / Lost
+16456,2,2,1,221,Hibernating / Lost
+17400,2,2,1,221,Hibernating / Lost
+13632,2,2,1,221,Hibernating / Lost
+14691,2,2,1,221,Hibernating / Lost
+13265,2,2,1,221,Hibernating / Lost
+15815,2,2,1,221,Hibernating / Lost
+12610,2,2,1,221,Hibernating / Lost
+16875,2,2,1,221,Hibernating / Lost
+18231,2,2,1,221,Hibernating / Lost
+12928,2,2,1,221,Hibernating / Lost
+12518,2,2,2,222,Hibernating / Lost
+17667,2,2,2,222,Hibernating / Lost
+16150,2,2,2,222,Hibernating / Lost
+14232,2,2,2,222,Hibernating / Lost
+13495,2,2,2,222,Hibernating / Lost
+13593,2,2,2,222,Hibernating / Lost
+18069,2,2,2,222,Hibernating / Lost
+16409,2,2,2,222,Hibernating / Lost
+14506,2,2,2,222,Hibernating / Lost
+15493,2,2,2,222,Hibernating / Lost
+17827,2,2,2,222,Hibernating / Lost
+14498,2,2,2,222,Hibernating / Lost
+17554,2,2,2,222,Hibernating / Lost
+14978,2,2,2,222,Hibernating / Lost
+17463,2,2,2,222,Hibernating / Lost
+16128,2,2,2,222,Hibernating / Lost
+17469,2,2,2,222,Hibernating / Lost
+17873,2,2,2,222,Hibernating / Lost
+12383,2,2,2,222,Hibernating / Lost
+12381,2,2,2,222,Hibernating / Lost
+14665,2,2,2,222,Hibernating / Lost
+16153,2,2,2,222,Hibernating / Lost
+13481,2,2,2,222,Hibernating / Lost
+15812,2,2,2,222,Hibernating / Lost
+16249,2,2,2,222,Hibernating / Lost
+14621,2,2,2,222,Hibernating / Lost
+13875,2,2,2,222,Hibernating / Lost
+17754,2,2,2,222,Hibernating / Lost
+15594,2,2,2,222,Hibernating / Lost
+17813,2,2,2,222,Hibernating / Lost
+12823,2,2,2,222,Hibernating / Lost
+13808,2,2,2,222,Hibernating / Lost
+17930,2,2,2,222,Hibernating / Lost
+17457,2,2,2,222,Hibernating / Lost
+14673,2,2,2,222,Hibernating / Lost
+15267,2,2,2,222,Hibernating / Lost
+12407,2,2,2,222,Hibernating / Lost
+15240,2,2,2,222,Hibernating / Lost
+13824,2,2,2,222,Hibernating / Lost
+15380,2,2,2,222,Hibernating / Lost
+17656,2,2,2,222,Hibernating / Lost
+12912,2,2,2,222,Hibernating / Lost
+16711,2,2,2,222,Hibernating / Lost
+13750,2,2,2,222,Hibernating / Lost
+13627,2,2,2,222,Hibernating / Lost
+16515,2,2,2,222,Hibernating / Lost
+15172,2,2,2,222,Hibernating / Lost
+18161,2,2,2,222,Hibernating / Lost
+16992,2,2,2,222,Hibernating / Lost
+14719,2,2,2,222,Hibernating / Lost
+13634,2,2,2,222,Hibernating / Lost
+16283,2,2,2,222,Hibernating / Lost
+17085,2,2,2,222,Hibernating / Lost
+18239,2,2,2,222,Hibernating / Lost
+16394,2,2,2,222,Hibernating / Lost
+13313,2,2,2,222,Hibernating / Lost
+15117,2,2,2,222,Hibernating / Lost
+13397,2,2,2,222,Hibernating / Lost
+14321,2,2,2,222,Hibernating / Lost
+16066,2,2,2,222,Hibernating / Lost
+13213,2,2,2,222,Hibernating / Lost
+16748,2,2,2,222,Hibernating / Lost
+14963,2,2,2,222,Hibernating / Lost
+16395,2,2,2,222,Hibernating / Lost
+18016,2,2,2,222,Hibernating / Lost
+13309,2,2,2,222,Hibernating / Lost
+15426,2,2,2,222,Hibernating / Lost
+15858,2,2,2,222,Hibernating / Lost
+16271,2,2,2,222,Hibernating / Lost
+14035,2,2,2,222,Hibernating / Lost
+15681,2,2,2,222,Hibernating / Lost
+15106,2,2,2,222,Hibernating / Lost
+14748,2,2,2,222,Hibernating / Lost
+15596,2,2,2,222,Hibernating / Lost
+13995,2,2,2,222,Hibernating / Lost
+15898,2,2,2,222,Hibernating / Lost
+12775,2,2,2,222,Hibernating / Lost
+14116,2,2,2,222,Hibernating / Lost
+16726,2,2,2,222,Hibernating / Lost
+15569,2,2,2,222,Hibernating / Lost
+14102,2,2,2,222,Hibernating / Lost
+17054,2,2,2,222,Hibernating / Lost
+14064,2,2,2,222,Hibernating / Lost
+12576,2,2,2,222,Hibernating / Lost
+14511,2,2,2,222,Hibernating / Lost
+14047,2,2,2,222,Hibernating / Lost
+14931,2,2,2,222,Hibernating / Lost
+17262,2,2,2,222,Hibernating / Lost
+14698,2,2,2,222,Hibernating / Lost
+13860,2,2,2,222,Hibernating / Lost
+14428,2,2,2,222,Hibernating / Lost
+15201,2,2,2,222,Hibernating / Lost
+14684,2,2,2,222,Hibernating / Lost
+18171,2,2,2,222,Hibernating / Lost
+14745,2,2,2,222,Hibernating / Lost
+15227,2,2,2,222,Hibernating / Lost
+17410,2,2,2,222,Hibernating / Lost
+15605,2,2,2,222,Hibernating / Lost
+13118,2,2,2,222,Hibernating / Lost
+16042,2,2,2,222,Hibernating / Lost
+13882,2,2,2,222,Hibernating / Lost
+14447,2,2,2,222,Hibernating / Lost
+17348,2,2,2,222,Hibernating / Lost
+13499,2,2,2,222,Hibernating / Lost
+17770,2,2,2,222,Hibernating / Lost
+16172,2,2,2,222,Hibernating / Lost
+17302,2,2,2,222,Hibernating / Lost
+17470,2,2,2,222,Hibernating / Lost
+14129,2,2,2,222,Hibernating / Lost
+16086,2,2,2,222,Hibernating / Lost
+17609,2,2,2,222,Hibernating / Lost
+17966,2,2,2,222,Hibernating / Lost
+16225,2,2,2,222,Hibernating / Lost
+13715,2,2,2,222,Hibernating / Lost
+15712,2,2,2,222,Hibernating / Lost
+17522,2,2,2,222,Hibernating / Lost
+14583,2,2,2,222,Hibernating / Lost
+17042,2,2,2,222,Hibernating / Lost
+13719,2,2,2,222,Hibernating / Lost
+18221,2,2,2,222,Hibernating / Lost
+15434,2,2,2,222,Hibernating / Lost
+16682,2,2,2,222,Hibernating / Lost
+13956,2,2,2,222,Hibernating / Lost
+15658,2,2,2,222,Hibernating / Lost
+17126,2,2,2,222,Hibernating / Lost
+14214,2,2,2,222,Hibernating / Lost
+13410,2,2,2,222,Hibernating / Lost
+18237,2,2,2,222,Hibernating / Lost
+16907,2,2,2,222,Hibernating / Lost
+16085,2,2,2,222,Hibernating / Lost
+15132,2,2,2,222,Hibernating / Lost
+13026,2,2,2,222,Hibernating / Lost
+13636,2,2,2,222,Hibernating / Lost
+13748,2,2,2,222,Hibernating / Lost
+13984,2,2,3,223,Hibernating / Lost
+15253,2,2,3,223,Hibernating / Lost
+16809,2,2,3,223,Hibernating / Lost
+15511,2,2,3,223,Hibernating / Lost
+14623,2,2,3,223,Hibernating / Lost
+15208,2,2,3,223,Hibernating / Lost
+16235,2,2,3,223,Hibernating / Lost
+14553,2,2,3,223,Hibernating / Lost
+16891,2,2,3,223,Hibernating / Lost
+16438,2,2,3,223,Hibernating / Lost
+13323,2,2,3,223,Hibernating / Lost
+13884,2,2,3,223,Hibernating / Lost
+16770,2,2,3,223,Hibernating / Lost
+17516,2,2,3,223,Hibernating / Lost
+13623,2,2,3,223,Hibernating / Lost
+16362,2,2,3,223,Hibernating / Lost
+13575,2,2,3,223,Hibernating / Lost
+12723,2,2,3,223,Hibernating / Lost
+15400,2,2,3,223,Hibernating / Lost
+15855,2,2,3,223,Hibernating / Lost
+18135,2,2,3,223,Hibernating / Lost
+13524,2,2,3,223,Hibernating / Lost
+16750,2,2,3,223,Hibernating / Lost
+16566,2,2,3,223,Hibernating / Lost
+12654,2,2,3,223,Hibernating / Lost
+18211,2,2,3,223,Hibernating / Lost
+12601,2,2,3,223,Hibernating / Lost
+16892,2,2,3,223,Hibernating / Lost
+15809,2,2,3,223,Hibernating / Lost
+15081,2,2,3,223,Hibernating / Lost
+15881,2,2,3,223,Hibernating / Lost
+14077,2,2,3,223,Hibernating / Lost
+13092,2,2,4,224,Hibernating / Lost
+17869,2,2,4,224,Hibernating / Lost
+15938,2,2,4,224,Hibernating / Lost
+16321,2,2,4,224,Hibernating / Lost
+17912,2,2,4,224,Hibernating / Lost
+13079,2,2,5,225,Hibernating / Lost
+16182,2,2,1,221,Hibernating / Lost
+12359,2,2,1,221,Hibernating / Lost
+16126,2,2,1,221,Hibernating / Lost
+13316,2,2,1,221,Hibernating / Lost
+14049,2,2,1,221,Hibernating / Lost
+12539,2,2,1,221,Hibernating / Lost
+12700,2,2,1,221,Hibernating / Lost
+13505,2,2,1,221,Hibernating / Lost
+14016,2,2,1,221,Hibernating / Lost
+13555,2,2,1,221,Hibernating / Lost
+12449,2,2,1,221,Hibernating / Lost
+13815,2,2,1,221,Hibernating / Lost
+15416,2,2,1,221,Hibernating / Lost
+12597,2,2,1,221,Hibernating / Lost
+12668,2,2,1,221,Hibernating / Lost
+12429,2,2,1,221,Hibernating / Lost
+14145,2,2,1,221,Hibernating / Lost
+15808,2,2,1,221,Hibernating / Lost
+13680,2,2,1,221,Hibernating / Lost
+18079,2,2,1,221,Hibernating / Lost
+15484,2,2,1,221,Hibernating / Lost
+12370,2,2,1,221,Hibernating / Lost
+15228,2,2,1,221,Hibernating / Lost
+12480,2,2,1,221,Hibernating / Lost
+14844,2,2,1,221,Hibernating / Lost
+15065,2,2,1,221,Hibernating / Lost
+13869,2,2,1,221,Hibernating / Lost
+14565,2,2,1,221,Hibernating / Lost
+13362,2,2,1,221,Hibernating / Lost
+12916,2,2,1,221,Hibernating / Lost
+13735,2,2,1,221,Hibernating / Lost
+15673,2,2,1,221,Hibernating / Lost
+18145,2,2,1,221,Hibernating / Lost
+14842,2,2,1,221,Hibernating / Lost
+14626,2,2,1,221,Hibernating / Lost
+14121,2,2,1,221,Hibernating / Lost
+16938,2,2,1,221,Hibernating / Lost
+12840,2,2,1,221,Hibernating / Lost
+12380,2,2,1,221,Hibernating / Lost
+13285,2,2,1,221,Hibernating / Lost
+13771,2,2,1,221,Hibernating / Lost
+13644,2,2,1,221,Hibernating / Lost
+12836,2,2,1,221,Hibernating / Lost
+13895,2,2,1,221,Hibernating / Lost
+16308,2,2,1,221,Hibernating / Lost
+17700,2,2,1,221,Hibernating / Lost
+13471,2,2,1,221,Hibernating / Lost
+13507,2,2,1,221,Hibernating / Lost
+14163,2,2,1,221,Hibernating / Lost
+17722,2,2,1,221,Hibernating / Lost
+17589,2,2,1,221,Hibernating / Lost
+14554,2,2,1,221,Hibernating / Lost
+13908,2,2,1,221,Hibernating / Lost
+13115,2,2,1,221,Hibernating / Lost
+15704,2,2,1,221,Hibernating / Lost
+12615,2,2,1,221,Hibernating / Lost
+15834,2,2,1,221,Hibernating / Lost
+18242,2,2,1,221,Hibernating / Lost
+15797,2,2,1,221,Hibernating / Lost
+15394,2,2,1,221,Hibernating / Lost
+12633,2,2,1,221,Hibernating / Lost
+16379,2,2,1,221,Hibernating / Lost
+17272,2,2,1,221,Hibernating / Lost
+14360,2,2,1,221,Hibernating / Lost
+18173,2,2,1,221,Hibernating / Lost
+18093,2,2,1,221,Hibernating / Lost
+13297,2,2,1,221,Hibernating / Lost
+17625,2,2,2,222,Hibernating / Lost
+17337,2,2,2,222,Hibernating / Lost
+16358,2,2,2,222,Hibernating / Lost
+17088,2,2,2,222,Hibernating / Lost
+16341,2,2,2,222,Hibernating / Lost
+12674,2,2,2,222,Hibernating / Lost
+15814,2,2,2,222,Hibernating / Lost
+14655,2,2,2,222,Hibernating / Lost
+14285,2,2,2,222,Hibernating / Lost
+15819,2,2,2,222,Hibernating / Lost
+15641,2,2,2,222,Hibernating / Lost
+17738,2,2,2,222,Hibernating / Lost
+15367,2,2,2,222,Hibernating / Lost
+13982,2,2,2,222,Hibernating / Lost
+17787,2,2,2,222,Hibernating / Lost
+16201,2,2,2,222,Hibernating / Lost
+14113,2,2,2,222,Hibernating / Lost
+14216,2,2,2,222,Hibernating / Lost
+13048,2,2,2,222,Hibernating / Lost
+17702,2,2,2,222,Hibernating / Lost
+16169,2,2,2,222,Hibernating / Lost
+17828,2,2,2,222,Hibernating / Lost
+13196,2,2,2,222,Hibernating / Lost
+17648,2,2,2,222,Hibernating / Lost
+12348,2,2,2,222,Hibernating / Lost
+13134,2,2,2,222,Hibernating / Lost
+13510,2,2,2,222,Hibernating / Lost
+14608,2,2,2,222,Hibernating / Lost
+17092,2,2,2,222,Hibernating / Lost
+12645,2,2,2,222,Hibernating / Lost
+15950,2,2,2,222,Hibernating / Lost
+13157,2,2,2,222,Hibernating / Lost
+17043,2,2,2,222,Hibernating / Lost
+17147,2,2,2,222,Hibernating / Lost
+14441,2,2,2,222,Hibernating / Lost
+16007,2,2,2,222,Hibernating / Lost
+13162,2,2,2,222,Hibernating / Lost
+13577,2,2,2,222,Hibernating / Lost
+13647,2,2,2,222,Hibernating / Lost
+13149,2,2,2,222,Hibernating / Lost
+12530,2,2,2,222,Hibernating / Lost
+14045,2,2,2,222,Hibernating / Lost
+14837,2,2,2,222,Hibernating / Lost
+12657,2,2,2,222,Hibernating / Lost
+15002,2,2,2,222,Hibernating / Lost
+17101,2,2,2,222,Hibernating / Lost
+16801,2,2,2,222,Hibernating / Lost
+14336,2,2,2,222,Hibernating / Lost
+13614,2,2,2,222,Hibernating / Lost
+16676,2,2,2,222,Hibernating / Lost
+14970,2,2,2,222,Hibernating / Lost
+18178,2,2,2,222,Hibernating / Lost
+12393,2,2,2,222,Hibernating / Lost
+15532,2,2,2,222,Hibernating / Lost
+17671,2,2,2,222,Hibernating / Lost
+17204,2,2,2,222,Hibernating / Lost
+13320,2,2,2,222,Hibernating / Lost
+15701,2,2,2,222,Hibernating / Lost
+15392,2,2,2,222,Hibernating / Lost
+15625,2,2,2,222,Hibernating / Lost
+13107,2,2,2,222,Hibernating / Lost
+12937,2,2,2,222,Hibernating / Lost
+15530,2,2,2,222,Hibernating / Lost
+17571,2,2,2,222,Hibernating / Lost
+14758,2,2,2,222,Hibernating / Lost
+14403,2,2,2,222,Hibernating / Lost
+15983,2,2,2,222,Hibernating / Lost
+15128,2,2,2,222,Hibernating / Lost
+14233,2,2,2,222,Hibernating / Lost
+14591,2,2,2,222,Hibernating / Lost
+17073,2,2,2,222,Hibernating / Lost
+17175,2,2,2,222,Hibernating / Lost
+13159,2,2,2,222,Hibernating / Lost
+16503,2,2,2,222,Hibernating / Lost
+13475,2,2,2,222,Hibernating / Lost
+16463,2,2,2,222,Hibernating / Lost
+14443,2,2,2,222,Hibernating / Lost
+17856,2,2,2,222,Hibernating / Lost
+14649,2,2,2,222,Hibernating / Lost
+15237,2,2,2,222,Hibernating / Lost
+15563,2,2,2,222,Hibernating / Lost
+15810,2,2,2,222,Hibernating / Lost
+16539,2,2,2,222,Hibernating / Lost
+12952,2,2,2,222,Hibernating / Lost
+16389,2,2,2,222,Hibernating / Lost
+15095,2,2,2,222,Hibernating / Lost
+13813,2,2,2,222,Hibernating / Lost
+14897,2,2,2,222,Hibernating / Lost
+15411,2,2,2,222,Hibernating / Lost
+14859,2,2,2,222,Hibernating / Lost
+15116,2,2,2,222,Hibernating / Lost
+16493,2,2,2,222,Hibernating / Lost
+12463,2,2,2,222,Hibernating / Lost
+16045,2,2,2,222,Hibernating / Lost
+16295,2,2,2,222,Hibernating / Lost
+17633,2,2,2,222,Hibernating / Lost
+16370,2,2,2,222,Hibernating / Lost
+13168,2,2,2,222,Hibernating / Lost
+12364,2,2,2,222,Hibernating / Lost
+14477,2,2,2,222,Hibernating / Lost
+16120,2,2,2,222,Hibernating / Lost
+14297,2,2,2,222,Hibernating / Lost
+15108,2,2,2,222,Hibernating / Lost
+16224,2,2,2,222,Hibernating / Lost
+15621,2,2,2,222,Hibernating / Lost
+15136,2,2,2,222,Hibernating / Lost
+17350,2,2,2,222,Hibernating / Lost
+17019,2,2,2,222,Hibernating / Lost
+14916,2,2,2,222,Hibernating / Lost
+15199,2,2,2,222,Hibernating / Lost
+16660,2,2,2,222,Hibernating / Lost
+16688,2,2,2,222,Hibernating / Lost
+17388,2,2,2,222,Hibernating / Lost
+17481,2,2,2,222,Hibernating / Lost
+17731,2,2,2,222,Hibernating / Lost
+14913,2,2,2,222,Hibernating / Lost
+12997,2,2,2,222,Hibernating / Lost
+17774,2,2,2,222,Hibernating / Lost
+15841,2,2,2,222,Hibernating / Lost
+17653,2,2,2,222,Hibernating / Lost
+13158,2,2,2,222,Hibernating / Lost
+17720,2,2,2,222,Hibernating / Lost
+17526,2,2,2,222,Hibernating / Lost
+15145,2,2,2,222,Hibernating / Lost
+16612,2,2,2,222,Hibernating / Lost
+16637,2,2,2,222,Hibernating / Lost
+16062,2,2,2,222,Hibernating / Lost
+18125,2,2,2,222,Hibernating / Lost
+17585,2,2,2,222,Hibernating / Lost
+15500,2,2,2,222,Hibernating / Lost
+14824,2,2,2,222,Hibernating / Lost
+13064,2,2,2,222,Hibernating / Lost
+15716,2,2,2,222,Hibernating / Lost
+16350,2,2,2,222,Hibernating / Lost
+12679,2,2,2,222,Hibernating / Lost
+12399,2,2,2,222,Hibernating / Lost
+16833,2,2,2,222,Hibernating / Lost
+15745,2,2,2,222,Hibernating / Lost
+15608,2,2,2,222,Hibernating / Lost
+14352,2,2,2,222,Hibernating / Lost
+16094,2,2,2,222,Hibernating / Lost
+15027,2,2,2,222,Hibernating / Lost
+12936,2,2,2,222,Hibernating / Lost
+15706,2,2,2,222,Hibernating / Lost
+15407,2,2,2,222,Hibernating / Lost
+16728,2,2,2,222,Hibernating / Lost
+14224,2,2,2,222,Hibernating / Lost
+15777,2,2,2,222,Hibernating / Lost
+14293,2,2,2,222,Hibernating / Lost
+14584,2,2,2,222,Hibernating / Lost
+14446,2,2,2,222,Hibernating / Lost
+16175,2,2,2,222,Hibernating / Lost
+12724,2,2,2,222,Hibernating / Lost
+17096,2,2,2,222,Hibernating / Lost
+13429,2,2,2,222,Hibernating / Lost
+12722,2,2,2,222,Hibernating / Lost
+15110,2,2,2,222,Hibernating / Lost
+16009,2,2,2,222,Hibernating / Lost
+16232,2,2,2,222,Hibernating / Lost
+17324,2,2,2,222,Hibernating / Lost
+15062,2,2,2,222,Hibernating / Lost
+16188,2,2,2,222,Hibernating / Lost
+14522,2,2,2,222,Hibernating / Lost
+13155,2,2,2,222,Hibernating / Lost
+15835,2,2,2,222,Hibernating / Lost
+15421,2,2,2,222,Hibernating / Lost
+15707,2,2,2,222,Hibernating / Lost
+12820,2,2,2,222,Hibernating / Lost
+17527,2,2,3,223,Hibernating / Lost
+12924,2,2,3,223,Hibernating / Lost
+16657,2,2,3,223,Hibernating / Lost
+14532,2,2,3,223,Hibernating / Lost
+17552,2,2,3,223,Hibernating / Lost
+15312,2,2,3,223,Hibernating / Lost
+14141,2,2,3,223,Hibernating / Lost
+15587,2,2,3,223,Hibernating / Lost
+14449,2,2,3,223,Hibernating / Lost
+15022,2,2,3,223,Hibernating / Lost
+16361,2,2,3,223,Hibernating / Lost
+15079,2,2,3,223,Hibernating / Lost
+13515,2,2,3,223,Hibernating / Lost
+16513,2,2,3,223,Hibernating / Lost
+13200,2,2,3,223,Hibernating / Lost
+13203,2,2,3,223,Hibernating / Lost
+14715,2,2,3,223,Hibernating / Lost
+12680,2,2,3,223,Hibernating / Lost
+14577,2,2,3,223,Hibernating / Lost
+12693,2,2,3,223,Hibernating / Lost
+17560,2,2,3,223,Hibernating / Lost
+14657,2,2,3,223,Hibernating / Lost
+15965,2,2,3,223,Hibernating / Lost
+17929,2,2,3,223,Hibernating / Lost
+13940,2,2,3,223,Hibernating / Lost
+12728,2,2,3,223,Hibernating / Lost
+13835,2,2,3,223,Hibernating / Lost
+17075,2,2,3,223,Hibernating / Lost
+15862,2,2,3,223,Hibernating / Lost
+13681,2,2,3,223,Hibernating / Lost
+17921,2,2,3,223,Hibernating / Lost
+16869,2,2,3,223,Hibernating / Lost
+13220,2,2,3,223,Hibernating / Lost
+16621,2,2,3,223,Hibernating / Lost
+15644,2,2,3,223,Hibernating / Lost
+12421,2,2,3,223,Hibernating / Lost
+15952,2,2,3,223,Hibernating / Lost
+16806,2,2,3,223,Hibernating / Lost
+15561,2,2,3,223,Hibernating / Lost
+17905,2,2,3,223,Hibernating / Lost
+13720,2,2,3,223,Hibernating / Lost
+17180,2,2,3,223,Hibernating / Lost
+13167,2,2,3,223,Hibernating / Lost
+15743,2,2,3,223,Hibernating / Lost
+17006,2,2,3,223,Hibernating / Lost
+15679,2,2,3,223,Hibernating / Lost
+15618,2,2,3,223,Hibernating / Lost
+14234,2,2,3,223,Hibernating / Lost
+16043,2,2,3,223,Hibernating / Lost
+14662,2,2,3,223,Hibernating / Lost
+17268,2,2,3,223,Hibernating / Lost
+16470,2,2,3,223,Hibernating / Lost
+16205,2,2,3,223,Hibernating / Lost
+17979,2,2,3,223,Hibernating / Lost
+15656,2,2,3,223,Hibernating / Lost
+16261,2,2,3,223,Hibernating / Lost
+14790,2,2,3,223,Hibernating / Lost
+13950,2,2,3,223,Hibernating / Lost
+17692,2,2,3,223,Hibernating / Lost
+17812,2,2,3,223,Hibernating / Lost
+13077,2,2,3,223,Hibernating / Lost
+15584,2,2,3,223,Hibernating / Lost
+17884,2,2,3,223,Hibernating / Lost
+13147,2,2,3,223,Hibernating / Lost
+12883,2,2,3,223,Hibernating / Lost
+15574,2,2,3,223,Hibernating / Lost
+14198,2,2,3,223,Hibernating / Lost
+13238,2,2,3,223,Hibernating / Lost
+17796,2,2,3,223,Hibernating / Lost
+14829,2,2,3,223,Hibernating / Lost
+14959,2,2,3,223,Hibernating / Lost
+14111,2,2,3,223,Hibernating / Lost
+13838,2,2,3,223,Hibernating / Lost
+17502,2,2,3,223,Hibernating / Lost
+16122,2,2,3,223,Hibernating / Lost
+15669,2,2,3,223,Hibernating / Lost
+17994,2,2,3,223,Hibernating / Lost
+13925,2,2,3,223,Hibernating / Lost
+14504,2,2,3,223,Hibernating / Lost
+17883,2,2,3,223,Hibernating / Lost
+17299,2,2,3,223,Hibernating / Lost
+14342,2,2,3,223,Hibernating / Lost
+15031,2,2,3,223,Hibernating / Lost
+13963,2,2,3,223,Hibernating / Lost
+13240,2,2,3,223,Hibernating / Lost
+16774,2,2,3,223,Hibernating / Lost
+16696,2,2,3,223,Hibernating / Lost
+16444,2,2,3,223,Hibernating / Lost
+14044,2,2,3,223,Hibernating / Lost
+17523,2,2,3,223,Hibernating / Lost
+15571,2,2,3,223,Hibernating / Lost
+16469,2,2,3,223,Hibernating / Lost
+17373,2,2,3,223,Hibernating / Lost
+17515,2,2,3,223,Hibernating / Lost
+13892,2,2,3,223,Hibernating / Lost
+15028,2,2,3,223,Hibernating / Lost
+13145,2,2,3,223,Hibernating / Lost
+13301,2,2,3,223,Hibernating / Lost
+16005,2,2,3,223,Hibernating / Lost
+14710,2,2,3,223,Hibernating / Lost
+17849,2,2,3,223,Hibernating / Lost
+13558,2,2,3,223,Hibernating / Lost
+14609,2,2,3,223,Hibernating / Lost
+16654,2,2,3,223,Hibernating / Lost
+14467,2,2,3,223,Hibernating / Lost
+18232,2,2,3,223,Hibernating / Lost
+16203,2,2,3,223,Hibernating / Lost
+14692,2,2,3,223,Hibernating / Lost
+15624,2,2,3,223,Hibernating / Lost
+12695,2,2,3,223,Hibernating / Lost
+16906,2,2,3,223,Hibernating / Lost
+14176,2,2,3,223,Hibernating / Lost
+15550,2,2,3,223,Hibernating / Lost
+14167,2,2,3,223,Hibernating / Lost
+14273,2,2,3,223,Hibernating / Lost
+14177,2,2,3,223,Hibernating / Lost
+17955,2,2,3,223,Hibernating / Lost
+14805,2,2,3,223,Hibernating / Lost
+16475,2,2,3,223,Hibernating / Lost
+17062,2,2,3,223,Hibernating / Lost
+17345,2,2,3,223,Hibernating / Lost
+16206,2,2,3,223,Hibernating / Lost
+15535,2,2,3,223,Hibernating / Lost
+15756,2,2,3,223,Hibernating / Lost
+14871,2,2,3,223,Hibernating / Lost
+16955,2,2,3,223,Hibernating / Lost
+17454,2,2,3,223,Hibernating / Lost
+15882,2,2,3,223,Hibernating / Lost
+14820,2,2,3,223,Hibernating / Lost
+13865,2,2,3,223,Hibernating / Lost
+13247,2,2,3,223,Hibernating / Lost
+13928,2,2,4,224,Hibernating / Lost
+12970,2,2,4,224,Hibernating / Lost
+14173,2,2,4,224,Hibernating / Lost
+13489,2,2,4,224,Hibernating / Lost
+17370,2,2,4,224,Hibernating / Lost
+14910,2,2,4,224,Hibernating / Lost
+15206,2,2,4,224,Hibernating / Lost
+16816,2,2,4,224,Hibernating / Lost
+12993,2,2,4,224,Hibernating / Lost
+15048,2,2,4,224,Hibernating / Lost
+12845,2,2,4,224,Hibernating / Lost
+16342,2,2,4,224,Hibernating / Lost
+15060,2,2,4,224,Hibernating / Lost
+16998,2,2,4,224,Hibernating / Lost
+13277,2,2,4,224,Hibernating / Lost
+13592,2,2,5,225,Hibernating / Lost
+15483,2,2,5,225,Hibernating / Lost
+17572,2,2,5,225,Hibernating / Lost
+16112,2,2,5,225,Hibernating / Lost
+15920,2,2,5,225,Hibernating / Lost
+17816,2,2,5,225,Hibernating / Lost
+15749,2,2,1,221,Hibernating / Lost
+15098,2,2,1,221,Hibernating / Lost
+12536,2,2,1,221,Hibernating / Lost
+16000,2,2,1,221,Hibernating / Lost
+12409,2,2,1,221,Hibernating / Lost
+12798,2,2,1,221,Hibernating / Lost
+16532,2,2,1,221,Hibernating / Lost
+16303,2,2,1,221,Hibernating / Lost
+15032,2,2,1,221,Hibernating / Lost
+15786,2,2,1,221,Hibernating / Lost
+14286,2,2,1,221,Hibernating / Lost
+13802,2,2,1,221,Hibernating / Lost
+14277,2,2,1,221,Hibernating / Lost
+13124,2,2,1,221,Hibernating / Lost
+15113,2,2,1,221,Hibernating / Lost
+13334,2,2,1,221,Hibernating / Lost
+15676,2,2,1,221,Hibernating / Lost
+13373,2,2,1,221,Hibernating / Lost
+14175,2,2,1,221,Hibernating / Lost
+12456,2,2,1,221,Hibernating / Lost
+16041,2,2,1,221,Hibernating / Lost
+16940,2,2,1,221,Hibernating / Lost
+12754,2,2,1,221,Hibernating / Lost
+17444,2,2,1,221,Hibernating / Lost
+17728,2,2,1,221,Hibernating / Lost
+14535,2,2,1,221,Hibernating / Lost
+13174,2,2,1,221,Hibernating / Lost
+12356,2,2,1,221,Hibernating / Lost
+15321,2,2,1,221,Hibernating / Lost
+12669,2,2,1,221,Hibernating / Lost
+14125,2,2,1,221,Hibernating / Lost
+12360,2,2,1,221,Hibernating / Lost
+13851,2,2,1,221,Hibernating / Lost
+15782,2,2,1,221,Hibernating / Lost
+17317,2,2,1,221,Hibernating / Lost
+15485,2,2,1,221,Hibernating / Lost
+13344,2,2,1,221,Hibernating / Lost
+15245,2,2,1,221,Hibernating / Lost
+15980,2,2,1,221,Hibernating / Lost
+13722,2,2,1,221,Hibernating / Lost
+14930,2,2,1,221,Hibernating / Lost
+18259,2,2,1,221,Hibernating / Lost
+17768,2,2,1,221,Hibernating / Lost
+14700,2,2,1,221,Hibernating / Lost
+17406,2,2,1,221,Hibernating / Lost
+14828,2,2,1,221,Hibernating / Lost
+12560,2,2,1,221,Hibernating / Lost
+13517,2,2,1,221,Hibernating / Lost
+14461,2,2,1,221,Hibernating / Lost
+14001,2,2,2,222,Hibernating / Lost
+18188,2,2,2,222,Hibernating / Lost
+18204,2,2,2,222,Hibernating / Lost
+14418,2,2,2,222,Hibernating / Lost
+15157,2,2,2,222,Hibernating / Lost
+14250,2,2,2,222,Hibernating / Lost
+14305,2,2,2,222,Hibernating / Lost
+12950,2,2,2,222,Hibernating / Lost
+17015,2,2,2,222,Hibernating / Lost
+16102,2,2,2,222,Hibernating / Lost
+18287,2,2,2,222,Hibernating / Lost
+13562,2,2,2,222,Hibernating / Lost
+18235,2,2,2,222,Hibernating / Lost
+15050,2,2,2,222,Hibernating / Lost
+14387,2,2,2,222,Hibernating / Lost
+13564,2,2,2,222,Hibernating / Lost
+15067,2,2,2,222,Hibernating / Lost
+17282,2,2,2,222,Hibernating / Lost
+15549,2,2,2,222,Hibernating / Lost
+16671,2,2,2,222,Hibernating / Lost
+17152,2,2,2,222,Hibernating / Lost
+15826,2,2,2,222,Hibernating / Lost
+15122,2,2,2,222,Hibernating / Lost
+14759,2,2,2,222,Hibernating / Lost
+13425,2,2,2,222,Hibernating / Lost
+14937,2,2,2,222,Hibernating / Lost
+16496,2,2,2,222,Hibernating / Lost
+16889,2,2,2,222,Hibernating / Lost
+13186,2,2,2,222,Hibernating / Lost
+15111,2,2,2,222,Hibernating / Lost
+14038,2,2,2,222,Hibernating / Lost
+16369,2,2,2,222,Hibernating / Lost
+15620,2,2,2,222,Hibernating / Lost
+14229,2,2,2,222,Hibernating / Lost
+17159,2,2,2,222,Hibernating / Lost
+12759,2,2,2,222,Hibernating / Lost
+13764,2,2,2,222,Hibernating / Lost
+14267,2,2,2,222,Hibernating / Lost
+16279,2,2,2,222,Hibernating / Lost
+16762,2,2,2,222,Hibernating / Lost
+13810,2,2,2,222,Hibernating / Lost
+16755,2,2,2,222,Hibernating / Lost
+17002,2,2,2,222,Hibernating / Lost
+13692,2,2,2,222,Hibernating / Lost
+15427,2,2,2,222,Hibernating / Lost
+17590,2,2,2,222,Hibernating / Lost
+14246,2,2,2,222,Hibernating / Lost
+14740,2,2,2,222,Hibernating / Lost
+13461,2,2,2,222,Hibernating / Lost
+16571,2,2,2,222,Hibernating / Lost
+14019,2,2,2,222,Hibernating / Lost
+16012,2,2,2,222,Hibernating / Lost
+16245,2,2,2,222,Hibernating / Lost
+17083,2,2,2,222,Hibernating / Lost
+18202,2,2,2,222,Hibernating / Lost
+15051,2,2,2,222,Hibernating / Lost
+13414,2,2,2,222,Hibernating / Lost
+13516,2,2,2,222,Hibernating / Lost
+13308,2,2,2,222,Hibernating / Lost
+18167,2,2,2,222,Hibernating / Lost
+17621,2,2,2,222,Hibernating / Lost
+16669,2,2,2,222,Hibernating / Lost
+16079,2,2,2,222,Hibernating / Lost
+16317,2,2,2,222,Hibernating / Lost
+12620,2,2,2,222,Hibernating / Lost
+16110,2,2,2,222,Hibernating / Lost
+15680,2,2,2,222,Hibernating / Lost
+17932,2,2,2,222,Hibernating / Lost
+12854,2,2,2,222,Hibernating / Lost
+17095,2,2,2,222,Hibernating / Lost
+12526,2,2,2,222,Hibernating / Lost
+16464,2,2,2,222,Hibernating / Lost
+14973,2,2,2,222,Hibernating / Lost
+16040,2,2,2,222,Hibernating / Lost
+14856,2,2,2,222,Hibernating / Lost
+12507,2,2,2,222,Hibernating / Lost
+12488,2,2,2,222,Hibernating / Lost
+12372,2,2,2,222,Hibernating / Lost
+17802,2,2,2,222,Hibernating / Lost
+16951,2,2,2,222,Hibernating / Lost
+14669,2,2,2,222,Hibernating / Lost
+13492,2,2,2,222,Hibernating / Lost
+17158,2,2,2,222,Hibernating / Lost
+16842,2,2,2,222,Hibernating / Lost
+15009,2,2,2,222,Hibernating / Lost
+16639,2,2,2,222,Hibernating / Lost
+13848,2,2,2,222,Hibernating / Lost
+14383,2,2,2,222,Hibernating / Lost
+13029,2,2,2,222,Hibernating / Lost
+17588,2,2,2,222,Hibernating / Lost
+15376,2,2,2,222,Hibernating / Lost
+12412,2,2,2,222,Hibernating / Lost
+13055,2,2,2,222,Hibernating / Lost
+18263,2,2,2,222,Hibernating / Lost
+17320,2,2,2,222,Hibernating / Lost
+13211,2,2,2,222,Hibernating / Lost
+17058,2,2,2,222,Hibernating / Lost
+16950,2,2,2,222,Hibernating / Lost
+12885,2,2,2,222,Hibernating / Lost
+12640,2,2,2,222,Hibernating / Lost
+15306,2,2,2,222,Hibernating / Lost
+13611,2,2,2,222,Hibernating / Lost
+13500,2,2,2,222,Hibernating / Lost
+14737,2,2,2,222,Hibernating / Lost
+16714,2,2,2,222,Hibernating / Lost
+12710,2,2,2,222,Hibernating / Lost
+13330,2,2,2,222,Hibernating / Lost
+13819,2,2,2,222,Hibernating / Lost
+17500,2,2,2,222,Hibernating / Lost
+15489,2,2,2,222,Hibernating / Lost
+13282,2,2,2,222,Hibernating / Lost
+13772,2,2,2,222,Hibernating / Lost
+13310,2,2,2,222,Hibernating / Lost
+13447,2,2,2,222,Hibernating / Lost
+12609,2,2,2,222,Hibernating / Lost
+14708,2,2,2,222,Hibernating / Lost
+15436,2,2,2,222,Hibernating / Lost
+13486,2,2,2,222,Hibernating / Lost
+16807,2,2,2,222,Hibernating / Lost
+15730,2,2,2,222,Hibernating / Lost
+14276,2,2,2,222,Hibernating / Lost
+13591,2,2,2,222,Hibernating / Lost
+14971,2,2,2,222,Hibernating / Lost
+16049,2,2,2,222,Hibernating / Lost
+14161,2,2,2,222,Hibernating / Lost
+15933,2,2,2,222,Hibernating / Lost
+17047,2,2,2,222,Hibernating / Lost
+16533,2,2,2,222,Hibernating / Lost
+13652,2,2,2,222,Hibernating / Lost
+13521,2,2,2,222,Hibernating / Lost
+17041,2,2,2,222,Hibernating / Lost
+14561,2,2,2,222,Hibernating / Lost
+15197,2,2,2,222,Hibernating / Lost
+13131,2,2,2,222,Hibernating / Lost
+15238,2,2,2,222,Hibernating / Lost
+15801,2,2,2,222,Hibernating / Lost
+16214,2,2,2,222,Hibernating / Lost
+18130,2,2,2,222,Hibernating / Lost
+14465,2,2,2,222,Hibernating / Lost
+14514,2,2,2,222,Hibernating / Lost
+16416,2,2,2,222,Hibernating / Lost
+15329,2,2,2,222,Hibernating / Lost
+15839,2,2,2,222,Hibernating / Lost
+16520,2,2,2,222,Hibernating / Lost
+15192,2,2,2,222,Hibernating / Lost
+15073,2,2,2,222,Hibernating / Lost
+17724,2,2,2,222,Hibernating / Lost
+17405,2,2,2,222,Hibernating / Lost
+17033,2,2,2,222,Hibernating / Lost
+13376,2,2,2,222,Hibernating / Lost
+13867,2,2,2,222,Hibernating / Lost
+12642,2,2,2,222,Hibernating / Lost
+14775,2,2,2,222,Hibernating / Lost
+16572,2,2,2,222,Hibernating / Lost
+16174,2,2,2,222,Hibernating / Lost
+17951,2,2,2,222,Hibernating / Lost
+17646,2,2,2,222,Hibernating / Lost
+14631,2,2,2,222,Hibernating / Lost
+14540,2,2,2,222,Hibernating / Lost
+14223,2,2,2,222,Hibernating / Lost
+15133,2,2,2,222,Hibernating / Lost
+12541,2,2,2,222,Hibernating / Lost
+18170,2,2,2,222,Hibernating / Lost
+15506,2,2,2,222,Hibernating / Lost
+15449,2,2,2,222,Hibernating / Lost
+12994,2,2,2,222,Hibernating / Lost
+15747,2,2,2,222,Hibernating / Lost
+17618,2,2,2,222,Hibernating / Lost
+15907,2,2,2,222,Hibernating / Lost
+15793,2,2,2,222,Hibernating / Lost
+14006,2,2,2,222,Hibernating / Lost
+15156,2,2,2,222,Hibernating / Lost
+12697,2,2,2,222,Hibernating / Lost
+16511,2,2,2,222,Hibernating / Lost
+15787,2,2,2,222,Hibernating / Lost
+17289,2,2,2,222,Hibernating / Lost
+14075,2,2,3,223,Hibernating / Lost
+15289,2,2,3,223,Hibernating / Lost
+14475,2,2,3,223,Hibernating / Lost
+14231,2,2,3,223,Hibernating / Lost
+17048,2,2,3,223,Hibernating / Lost
+16551,2,2,3,223,Hibernating / Lost
+14712,2,2,3,223,Hibernating / Lost
+14359,2,2,3,223,Hibernating / Lost
+18096,2,3,3,233,At Risk
+13038,2,3,3,233,At Risk
+15807,3,3,3,333,Loyal Customers
+17886,3,3,3,333,Loyal Customers
+13662,3,3,3,333,Loyal Customers
+15865,3,3,3,333,Loyal Customers
+16900,3,3,3,333,Loyal Customers
+15799,3,3,3,333,Loyal Customers
+13037,3,3,3,333,Loyal Customers
+15100,3,3,3,333,Loyal Customers
+14332,3,3,3,333,Loyal Customers
+13846,3,3,3,333,Loyal Customers
+16221,3,3,3,333,Loyal Customers
+17064,3,3,3,333,Loyal Customers
+16037,3,3,3,333,Loyal Customers
+16020,3,3,3,333,Loyal Customers
+16924,3,3,3,333,Loyal Customers
+14803,3,3,3,333,Loyal Customers
+15164,3,3,3,333,Loyal Customers
+17076,3,3,3,333,Loyal Customers
+17115,3,3,3,333,Loyal Customers
+16554,3,3,3,333,Loyal Customers
+17759,3,3,3,333,Loyal Customers
+15525,3,3,3,333,Loyal Customers
+12427,3,3,3,333,Loyal Customers
+16164,3,3,3,333,Loyal Customers
+16092,3,3,3,333,Loyal Customers
+16943,3,3,3,333,Loyal Customers
+15399,3,3,3,333,Loyal Customers
+14499,3,3,3,333,Loyal Customers
+13280,3,3,3,333,Loyal Customers
+16460,3,3,3,333,Loyal Customers
+13811,3,3,3,333,Loyal Customers
+17980,3,3,3,333,Loyal Customers
+13637,3,3,3,333,Loyal Customers
+15533,3,3,3,333,Loyal Customers
+12422,3,3,3,333,Loyal Customers
+15831,3,3,3,333,Loyal Customers
+17703,3,3,3,333,Loyal Customers
+13389,3,3,3,333,Loyal Customers
+13016,3,3,3,333,Loyal Customers
+16759,3,3,3,333,Loyal Customers
+13212,3,3,3,333,Loyal Customers
+12628,3,3,3,333,Loyal Customers
+15806,3,3,3,333,Loyal Customers
+18136,3,3,3,333,Loyal Customers
+17341,3,3,3,333,Loyal Customers
+17797,3,3,3,333,Loyal Customers
+17411,3,3,3,333,Loyal Customers
+13314,3,3,3,333,Loyal Customers
+15414,3,3,3,333,Loyal Customers
+15568,3,3,3,333,Loyal Customers
+12413,3,3,3,333,Loyal Customers
+17461,3,3,3,333,Loyal Customers
+17146,3,3,3,333,Loyal Customers
+17034,3,3,3,333,Loyal Customers
+16730,3,3,3,333,Loyal Customers
+13900,3,3,3,333,Loyal Customers
+17974,3,3,3,333,Loyal Customers
+15215,3,3,3,333,Loyal Customers
+16146,3,3,3,333,Loyal Customers
+16099,3,3,3,333,Loyal Customers
+18035,3,3,3,333,Loyal Customers
+17521,3,3,3,333,Loyal Customers
+18062,3,3,3,333,Loyal Customers
+16023,3,3,3,333,Loyal Customers
+13705,3,3,3,333,Loyal Customers
+17179,3,3,3,333,Loyal Customers
+13249,3,3,3,333,Loyal Customers
+17472,3,3,3,333,Loyal Customers
+14867,3,3,3,333,Loyal Customers
+14127,3,3,3,333,Loyal Customers
+16136,3,3,3,333,Loyal Customers
+14880,3,3,3,333,Loyal Customers
+14126,3,3,3,333,Loyal Customers
+16015,3,3,3,333,Loyal Customers
+16882,3,3,3,333,Loyal Customers
+16997,3,3,3,333,Loyal Customers
+17734,3,3,3,333,Loyal Customers
+13258,3,3,3,333,Loyal Customers
+15053,3,3,3,333,Loyal Customers
+17198,3,3,3,333,Loyal Customers
+15181,3,3,3,333,Loyal Customers
+16495,3,3,3,333,Loyal Customers
+12942,3,3,3,333,Loyal Customers
+15582,3,3,3,333,Loyal Customers
+16872,3,3,3,333,Loyal Customers
+16418,3,3,3,333,Loyal Customers
+13951,3,3,3,333,Loyal Customers
+13741,3,3,3,333,Loyal Customers
+15969,3,3,3,333,Loyal Customers
+17777,3,3,3,333,Loyal Customers
+15643,3,3,3,333,Loyal Customers
+14720,3,3,3,333,Loyal Customers
+16014,3,3,3,333,Loyal Customers
+16357,3,3,3,333,Loyal Customers
+17779,3,3,3,333,Loyal Customers
+12577,3,3,3,333,Loyal Customers
+14818,3,3,3,333,Loyal Customers
+16157,3,3,3,333,Loyal Customers
+17398,3,3,3,333,Loyal Customers
+14034,3,3,3,333,Loyal Customers
+16734,3,3,3,333,Loyal Customers
+16969,3,3,3,333,Loyal Customers
+15651,3,3,3,333,Loyal Customers
+17545,3,3,3,333,Loyal Customers
+17312,3,3,3,333,Loyal Customers
+16431,3,3,3,333,Loyal Customers
+15297,3,3,3,333,Loyal Customers
+13318,3,3,3,333,Loyal Customers
+16139,3,3,3,333,Loyal Customers
+14021,3,3,3,333,Loyal Customers
+13539,3,3,3,333,Loyal Customers
+17990,3,3,3,333,Loyal Customers
+13546,3,3,3,333,Loyal Customers
+12649,3,3,3,333,Loyal Customers
+15768,3,3,3,333,Loyal Customers
+14529,3,3,3,333,Loyal Customers
+14593,3,3,3,333,Loyal Customers
+16442,3,3,3,333,Loyal Customers
+18149,3,3,3,333,Loyal Customers
+12933,3,3,3,333,Loyal Customers
+14133,3,3,3,333,Loyal Customers
+17420,3,3,3,333,Loyal Customers
+13959,3,3,3,333,Loyal Customers
+16298,3,3,3,333,Loyal Customers
+17864,3,3,3,333,Loyal Customers
+16325,3,3,3,333,Loyal Customers
+17351,3,3,3,333,Loyal Customers
+17014,3,3,3,333,Loyal Customers
+17360,3,3,3,333,Loyal Customers
+13427,3,3,3,333,Loyal Customers
+13487,3,3,3,333,Loyal Customers
+12879,3,3,3,333,Loyal Customers
+13379,3,3,3,333,Loyal Customers
+13405,3,3,3,333,Loyal Customers
+17616,3,3,3,333,Loyal Customers
+14592,3,3,3,333,Loyal Customers
+13939,3,3,3,333,Loyal Customers
+17897,3,3,3,333,Loyal Customers
+18150,3,3,3,333,Loyal Customers
+13894,3,3,3,333,Loyal Customers
+15344,3,3,3,333,Loyal Customers
+12414,3,3,3,333,Loyal Customers
+13946,3,3,3,333,Loyal Customers
+18043,3,3,3,333,Loyal Customers
+17295,3,3,3,333,Loyal Customers
+16385,3,3,3,333,Loyal Customers
+14618,3,3,3,333,Loyal Customers
+14997,3,3,3,333,Loyal Customers
+13617,3,3,3,333,Loyal Customers
+16927,3,3,3,333,Loyal Customers
+17557,3,3,3,333,Loyal Customers
+13812,3,3,3,333,Loyal Customers
+15452,3,3,3,333,Loyal Customers
+16804,3,3,3,333,Loyal Customers
+16233,3,3,3,333,Loyal Customers
+13000,3,3,3,333,Loyal Customers
+13217,3,3,3,333,Loyal Customers
+16706,3,3,3,333,Loyal Customers
+14463,3,3,3,333,Loyal Customers
+17631,3,3,3,333,Loyal Customers
+17429,3,3,3,333,Loyal Customers
+15467,3,3,3,333,Loyal Customers
+18017,3,3,3,333,Loyal Customers
+13643,3,3,3,333,Loyal Customers
+12811,3,3,3,333,Loyal Customers
+16898,3,3,3,333,Loyal Customers
+16960,3,3,3,333,Loyal Customers
+14958,3,3,3,333,Loyal Customers
+14681,3,3,3,333,Loyal Customers
+16488,3,3,3,333,Loyal Customers
+15018,3,3,3,333,Loyal Customers
+17361,3,3,4,334,Loyal Customers
+12808,3,3,4,334,Loyal Customers
+14450,3,3,4,334,Loyal Customers
+17950,3,3,4,334,Loyal Customers
+16008,3,3,4,334,Loyal Customers
+15589,3,3,4,334,Loyal Customers
+16768,3,3,4,334,Loyal Customers
+15780,3,3,4,334,Loyal Customers
+14013,3,3,4,334,Loyal Customers
+16038,3,3,4,334,Loyal Customers
+16885,3,3,4,334,Loyal Customers
+15026,3,3,4,334,Loyal Customers
+13171,3,3,4,334,Loyal Customers
+15036,3,3,4,334,Loyal Customers
+12787,3,3,4,334,Loyal Customers
+16589,3,3,4,334,Loyal Customers
+15754,3,3,4,334,Loyal Customers
+12999,3,3,4,334,Loyal Customers
+14513,3,3,4,334,Loyal Customers
+17564,3,3,4,334,Loyal Customers
+17579,3,3,4,334,Loyal Customers
+15646,3,3,4,334,Loyal Customers
+15456,3,3,4,334,Loyal Customers
+16034,3,3,4,334,Loyal Customers
+16948,3,3,4,334,Loyal Customers
+14460,3,3,4,334,Loyal Customers
+12827,3,3,4,334,Loyal Customers
+16324,3,3,4,334,Loyal Customers
+17371,3,3,4,334,Loyal Customers
+13140,3,3,4,334,Loyal Customers
+12593,3,3,4,334,Loyal Customers
+17483,3,3,4,334,Loyal Customers
+13827,3,3,4,334,Loyal Customers
+12990,3,3,4,334,Loyal Customers
+16010,3,3,4,334,Loyal Customers
+14616,3,3,4,334,Loyal Customers
+18036,3,3,4,334,Loyal Customers
+12498,3,3,4,334,Loyal Customers
+17375,3,3,4,334,Loyal Customers
+17830,3,3,4,334,Loyal Customers
+13873,3,3,4,334,Loyal Customers
+13856,3,3,4,334,Loyal Customers
+17817,3,3,4,334,Loyal Customers
+14779,3,3,4,334,Loyal Customers
+15440,3,3,4,334,Loyal Customers
+17573,3,3,4,334,Loyal Customers
+16930,3,3,4,334,Loyal Customers
+14731,3,3,4,334,Loyal Customers
+15885,3,3,4,334,Loyal Customers
+17736,3,3,4,334,Loyal Customers
+17765,3,3,4,334,Loyal Customers
+18155,3,3,4,334,Loyal Customers
+15901,3,3,4,334,Loyal Customers
+16378,3,3,4,334,Loyal Customers
+17025,3,3,4,334,Loyal Customers
+14500,3,3,4,334,Loyal Customers
+15334,3,3,4,334,Loyal Customers
+17835,3,3,4,334,Loyal Customers
+18127,3,3,4,334,Loyal Customers
+12527,3,3,4,334,Loyal Customers
+15781,3,3,4,334,Loyal Customers
+18081,3,3,4,334,Loyal Customers
+16851,3,3,4,334,Loyal Customers
+17917,3,3,4,334,Loyal Customers
+17045,3,3,4,334,Loyal Customers
+12891,3,3,4,334,Loyal Customers
+16478,3,3,4,334,Loyal Customers
+16593,3,3,4,334,Loyal Customers
+17615,3,3,4,334,Loyal Customers
+15675,3,3,4,334,Loyal Customers
+14823,3,3,4,334,Loyal Customers
+16473,3,3,4,334,Loyal Customers
+17266,3,3,4,334,Loyal Customers
+18059,3,3,4,334,Loyal Customers
+13502,3,3,4,334,Loyal Customers
+13606,3,3,4,334,Loyal Customers
+13058,3,3,4,334,Loyal Customers
+13533,3,3,4,334,Loyal Customers
+13242,3,3,4,334,Loyal Customers
+17550,3,3,4,334,Loyal Customers
+15577,3,3,4,334,Loyal Customers
+16226,3,3,4,334,Loyal Customers
+14765,3,3,4,334,Loyal Customers
+15759,3,3,4,334,Loyal Customers
+16330,3,3,4,334,Loyal Customers
+17892,3,3,5,335,Loyal Customers
+15462,3,3,5,335,Loyal Customers
+17580,3,3,5,335,Loyal Customers
+16356,3,3,5,335,Loyal Customers
+16866,3,3,5,335,Loyal Customers
+18273,3,3,5,335,Loyal Customers
+14385,3,3,5,335,Loyal Customers
+16832,3,3,5,335,Loyal Customers
+17440,3,3,5,335,Loyal Customers
+14287,3,3,5,335,Loyal Customers
+14798,3,3,5,335,Loyal Customers
+13003,3,3,5,335,Loyal Customers
+16462,3,3,5,335,Loyal Customers
+14836,3,3,5,335,Loyal Customers
+17024,3,3,5,335,Loyal Customers
+13666,3,3,5,335,Loyal Customers
+15516,3,3,5,335,Loyal Customers
+16446,3,3,1,331,Loyal Customers
+12590,3,3,1,331,Loyal Customers
+12435,3,3,1,331,Loyal Customers
+16984,3,3,1,331,Loyal Customers
+18087,3,3,1,331,Loyal Customers
+12755,3,3,1,331,Loyal Customers
+16240,3,3,1,331,Loyal Customers
+16253,3,3,1,331,Loyal Customers
+12406,3,3,1,331,Loyal Customers
+13952,3,3,1,331,Loyal Customers
+13868,3,3,1,331,Loyal Customers
+17672,3,3,1,331,Loyal Customers
+17084,3,3,1,331,Loyal Customers
+12438,3,3,1,331,Loyal Customers
+12578,3,3,1,331,Loyal Customers
+12758,3,3,1,331,Loyal Customers
+12625,3,3,1,331,Loyal Customers
+12397,3,3,1,331,Loyal Customers
+15665,3,3,1,331,Loyal Customers
+13365,3,3,1,331,Loyal Customers
+12876,3,3,1,331,Loyal Customers
+12653,3,3,1,331,Loyal Customers
+15123,3,3,1,331,Loyal Customers
+13224,3,3,1,331,Loyal Customers
+14306,3,3,1,331,Loyal Customers
+12585,3,3,2,332,Loyal Customers
+14544,3,3,2,332,Loyal Customers
+15531,3,3,2,332,Loyal Customers
+17082,3,3,2,332,Loyal Customers
+16698,3,3,2,332,Loyal Customers
+17679,3,3,2,332,Loyal Customers
+12762,3,3,2,332,Loyal Customers
+14934,3,3,2,332,Loyal Customers
+12371,3,3,2,332,Loyal Customers
+16986,3,3,2,332,Loyal Customers
+13421,3,3,2,332,Loyal Customers
+12424,3,3,2,332,Loyal Customers
+17353,3,3,2,332,Loyal Customers
+16398,3,3,2,332,Loyal Customers
+14245,3,3,2,332,Loyal Customers
+12635,3,3,2,332,Loyal Customers
+14164,3,3,2,332,Loyal Customers
+12377,3,3,2,332,Loyal Customers
+15791,3,3,2,332,Loyal Customers
+14918,3,3,2,332,Loyal Customers
+14442,3,3,2,332,Loyal Customers
+13814,3,3,2,332,Loyal Customers
+13659,3,3,2,332,Loyal Customers
+12865,3,3,2,332,Loyal Customers
+13849,3,3,2,332,Loyal Customers
+14567,3,3,2,332,Loyal Customers
+16244,3,3,2,332,Loyal Customers
+13791,3,3,2,332,Loyal Customers
+16053,3,3,2,332,Loyal Customers
+15265,3,3,2,332,Loyal Customers
+15057,3,3,2,332,Loyal Customers
+14875,3,3,2,332,Loyal Customers
+12882,3,3,2,332,Loyal Customers
+15478,3,3,2,332,Loyal Customers
+15444,3,3,2,332,Loyal Customers
+17004,3,3,2,332,Loyal Customers
+17311,3,3,2,332,Loyal Customers
+12886,3,3,2,332,Loyal Customers
+13396,3,3,2,332,Loyal Customers
+12646,3,3,2,332,Loyal Customers
+14154,3,3,2,332,Loyal Customers
+15398,3,3,2,332,Loyal Customers
+15734,3,3,2,332,Loyal Customers
+15146,3,3,2,332,Loyal Customers
+16083,3,3,2,332,Loyal Customers
+14921,3,3,2,332,Loyal Customers
+12516,3,3,2,332,Loyal Customers
+15813,3,3,2,332,Loyal Customers
+15494,3,3,2,332,Loyal Customers
+16692,3,3,2,332,Loyal Customers
+12394,3,3,2,332,Loyal Customers
+12630,3,3,2,332,Loyal Customers
+13431,3,3,2,332,Loyal Customers
+13989,3,3,2,332,Loyal Customers
+15497,3,3,2,332,Loyal Customers
+12689,3,3,2,332,Loyal Customers
+17584,3,3,2,332,Loyal Customers
+12985,3,3,2,332,Loyal Customers
+13476,3,3,2,332,Loyal Customers
+14893,3,3,2,332,Loyal Customers
+13931,3,3,2,332,Loyal Customers
+18080,3,3,2,332,Loyal Customers
+13918,3,3,2,332,Loyal Customers
+16653,3,3,2,332,Loyal Customers
+12462,3,3,2,332,Loyal Customers
+15630,3,3,2,332,Loyal Customers
+14857,3,3,2,332,Loyal Customers
+12358,3,3,2,332,Loyal Customers
+14261,3,3,2,332,Loyal Customers
+12546,3,3,2,332,Loyal Customers
+15088,3,3,2,332,Loyal Customers
+13744,3,3,2,332,Loyal Customers
+17505,3,3,2,332,Loyal Customers
+16766,3,3,2,332,Loyal Customers
+15985,3,3,2,332,Loyal Customers
+17242,3,3,2,332,Loyal Customers
+12842,3,3,2,332,Loyal Customers
+17788,3,3,2,332,Loyal Customers
+14817,3,3,2,332,Loyal Customers
+12857,3,3,2,332,Loyal Customers
+18189,3,3,2,332,Loyal Customers
+15763,3,3,2,332,Loyal Customers
+13467,3,3,2,332,Loyal Customers
+16200,3,3,2,332,Loyal Customers
+13726,3,3,2,332,Loyal Customers
+16980,3,3,2,332,Loyal Customers
+13761,3,3,2,332,Loyal Customers
+17277,3,3,2,332,Loyal Customers
+12815,3,3,2,332,Loyal Customers
+13455,3,3,2,332,Loyal Customers
+15977,3,3,2,332,Loyal Customers
+12716,3,3,2,332,Loyal Customers
+12849,3,3,2,332,Loyal Customers
+14389,3,3,2,332,Loyal Customers
+16320,3,3,2,332,Loyal Customers
+12717,3,3,2,332,Loyal Customers
+13253,3,3,2,332,Loyal Customers
+15104,3,3,2,332,Loyal Customers
+14904,3,3,2,332,Loyal Customers
+16160,3,3,2,332,Loyal Customers
+14346,3,3,2,332,Loyal Customers
+13165,3,3,2,332,Loyal Customers
+12572,3,3,2,332,Loyal Customers
+18142,3,3,2,332,Loyal Customers
+12739,3,3,2,332,Loyal Customers
+14195,3,3,2,332,Loyal Customers
+16229,3,3,2,332,Loyal Customers
+13032,3,3,2,332,Loyal Customers
+12545,3,3,2,332,Loyal Customers
+18143,3,3,2,332,Loyal Customers
+17594,3,3,2,332,Loyal Customers
+13363,3,3,2,332,Loyal Customers
+16376,3,3,2,332,Loyal Customers
+17144,3,3,2,332,Loyal Customers
+12510,3,3,2,332,Loyal Customers
+14138,3,3,2,332,Loyal Customers
+15071,3,3,2,332,Loyal Customers
+13350,3,3,2,332,Loyal Customers
+14920,3,3,2,332,Loyal Customers
+17100,3,3,2,332,Loyal Customers
+14256,3,3,2,332,Loyal Customers
+14629,3,3,2,332,Loyal Customers
+13823,3,3,2,332,Loyal Customers
+15948,3,3,2,332,Loyal Customers
+16934,3,3,2,332,Loyal Customers
+12822,3,3,2,332,Loyal Customers
+12458,3,3,2,332,Loyal Customers
+13261,3,3,2,332,Loyal Customers
+16584,3,3,3,333,Loyal Customers
+14140,3,3,3,333,Loyal Customers
+14081,3,3,3,333,Loyal Customers
+13655,3,3,3,333,Loyal Customers
+13805,3,3,3,333,Loyal Customers
+15654,3,3,3,333,Loyal Customers
+13122,3,3,3,333,Loyal Customers
+13035,3,3,3,333,Loyal Customers
+17018,3,3,3,333,Loyal Customers
+12940,3,3,3,333,Loyal Customers
+15364,3,3,3,333,Loyal Customers
+13192,3,3,3,333,Loyal Customers
+17566,3,3,3,333,Loyal Customers
+16716,3,3,3,333,Loyal Customers
+14625,3,3,3,333,Loyal Customers
+17537,3,3,3,333,Loyal Customers
+15211,3,3,3,333,Loyal Customers
+14240,3,3,3,333,Loyal Customers
+16347,3,3,3,333,Loyal Customers
+15822,3,3,3,333,Loyal Customers
+17704,3,3,3,333,Loyal Customers
+14597,3,3,3,333,Loyal Customers
+15653,3,3,3,333,Loyal Customers
+14770,3,3,3,333,Loyal Customers
+13566,3,3,3,333,Loyal Customers
+13294,3,3,3,333,Loyal Customers
+12694,3,3,3,333,Loyal Customers
+14912,3,3,3,333,Loyal Customers
+16121,3,3,3,333,Loyal Customers
+16567,3,3,3,333,Loyal Customers
+12794,3,3,3,333,Loyal Customers
+16163,3,3,3,333,Loyal Customers
+12878,3,3,3,333,Loyal Customers
+14193,3,3,3,333,Loyal Customers
+12379,3,3,3,333,Loyal Customers
+16070,3,3,3,333,Loyal Customers
+13221,3,3,3,333,Loyal Customers
+17624,3,3,3,333,Loyal Customers
+13929,3,3,3,333,Loyal Customers
+16560,3,3,3,333,Loyal Customers
+14862,3,3,3,333,Loyal Customers
+16747,3,3,3,333,Loyal Customers
+17169,3,3,3,333,Loyal Customers
+16644,3,3,3,333,Loyal Customers
+14644,3,3,3,333,Loyal Customers
+12461,3,3,3,333,Loyal Customers
+12781,3,3,3,333,Loyal Customers
+16284,3,3,3,333,Loyal Customers
+17764,3,3,3,333,Loyal Customers
+15649,3,3,3,333,Loyal Customers
+18064,3,3,3,333,Loyal Customers
+14421,3,3,3,333,Loyal Customers
+16624,3,3,3,333,Loyal Customers
+13707,3,3,3,333,Loyal Customers
+12434,3,3,3,333,Loyal Customers
+16367,3,3,3,333,Loyal Customers
+18248,3,3,3,333,Loyal Customers
+18265,3,3,3,333,Loyal Customers
+13030,3,3,3,333,Loyal Customers
+12701,3,3,3,333,Loyal Customers
+15990,3,3,3,333,Loyal Customers
+13329,3,3,3,333,Loyal Customers
+16546,3,3,3,333,Loyal Customers
+13109,3,3,3,333,Loyal Customers
+17387,3,3,3,333,Loyal Customers
+15239,3,3,3,333,Loyal Customers
+18228,3,3,3,333,Loyal Customers
+12735,3,3,3,333,Loyal Customers
+14815,3,3,3,333,Loyal Customers
+17414,3,3,3,333,Loyal Customers
+13563,3,3,3,333,Loyal Customers
+15353,3,3,3,333,Loyal Customers
+16825,3,3,3,333,Loyal Customers
+17409,3,3,3,333,Loyal Customers
+14412,3,3,3,333,Loyal Customers
+14550,3,3,3,333,Loyal Customers
+14672,3,3,3,333,Loyal Customers
+17695,3,3,3,333,Loyal Customers
+17466,3,3,3,333,Loyal Customers
+15599,3,3,3,333,Loyal Customers
+17425,3,3,3,333,Loyal Customers
+16036,3,3,3,333,Loyal Customers
+15223,3,3,3,333,Loyal Customers
+13730,3,3,3,333,Loyal Customers
+12908,3,3,3,333,Loyal Customers
+16859,3,3,3,333,Loyal Customers
+14050,3,3,3,333,Loyal Customers
+13236,3,3,3,333,Loyal Customers
+12465,3,3,3,333,Loyal Customers
+15252,3,3,3,333,Loyal Customers
+15045,3,3,3,333,Loyal Customers
+18156,3,3,3,333,Loyal Customers
+13736,3,3,3,333,Loyal Customers
+14778,3,3,3,333,Loyal Customers
+12468,3,3,3,333,Loyal Customers
+17666,3,3,3,333,Loyal Customers
+14869,3,3,3,333,Loyal Customers
+16140,3,3,3,333,Loyal Customers
+15636,3,3,3,333,Loyal Customers
+15272,3,3,3,333,Loyal Customers
+14179,3,3,3,333,Loyal Customers
+15274,3,3,3,333,Loyal Customers
+12535,3,3,3,333,Loyal Customers
+17029,3,3,3,333,Loyal Customers
+15330,3,3,3,333,Loyal Customers
+15757,3,3,3,333,Loyal Customers
+12616,3,3,3,333,Loyal Customers
+13169,3,3,3,333,Loyal Customers
+13416,3,3,3,333,Loyal Customers
+17642,3,3,3,333,Loyal Customers
+15951,3,3,3,333,Loyal Customers
+16449,3,3,3,333,Loyal Customers
+16364,3,3,3,333,Loyal Customers
+16309,3,3,3,333,Loyal Customers
+17934,3,3,3,333,Loyal Customers
+15103,3,3,3,333,Loyal Customers
+14356,3,3,3,333,Loyal Customers
+17321,3,3,3,333,Loyal Customers
+15800,3,3,3,333,Loyal Customers
+17423,3,3,3,333,Loyal Customers
+13596,3,3,3,333,Loyal Customers
+15700,3,3,3,333,Loyal Customers
+17397,3,3,3,333,Loyal Customers
+14009,3,3,3,333,Loyal Customers
+12925,3,3,3,333,Loyal Customers
+14643,3,3,3,333,Loyal Customers
+12410,3,3,3,333,Loyal Customers
+13601,3,3,3,333,Loyal Customers
+17733,3,3,3,333,Loyal Customers
+16212,3,3,3,333,Loyal Customers
+18085,3,3,3,333,Loyal Customers
+13023,3,3,3,333,Loyal Customers
+18196,3,3,3,333,Loyal Customers
+13799,3,3,3,333,Loyal Customers
+16642,3,3,3,333,Loyal Customers
+12838,3,3,3,333,Loyal Customers
+13548,3,3,3,333,Loyal Customers
+13430,3,3,3,333,Loyal Customers
+14788,3,3,3,333,Loyal Customers
+13388,3,3,3,333,Loyal Customers
+13040,3,3,3,333,Loyal Customers
+15626,3,3,3,333,Loyal Customers
+17462,3,3,3,333,Loyal Customers
+17749,3,3,3,333,Loyal Customers
+18121,3,3,3,333,Loyal Customers
+14628,3,3,3,333,Loyal Customers
+16383,3,3,3,333,Loyal Customers
+16268,3,3,3,333,Loyal Customers
+17105,3,3,3,333,Loyal Customers
+16208,3,3,3,333,Loyal Customers
+16573,3,3,3,333,Loyal Customers
+14451,3,3,3,333,Loyal Customers
+18218,3,3,3,333,Loyal Customers
+13028,3,3,3,333,Loyal Customers
+15492,3,3,3,333,Loyal Customers
+13759,3,3,3,333,Loyal Customers
+14150,3,3,3,333,Loyal Customers
+15648,3,3,3,333,Loyal Customers
+17459,3,3,3,333,Loyal Customers
+13049,3,3,3,333,Loyal Customers
+14651,3,3,3,333,Loyal Customers
+18151,3,3,3,333,Loyal Customers
+13496,3,3,3,333,Loyal Customers
+15205,3,3,3,333,Loyal Customers
+14548,3,3,3,333,Loyal Customers
+12589,3,3,3,333,Loyal Customers
+14855,3,3,3,333,Loyal Customers
+12719,3,3,3,333,Loyal Customers
+14020,3,3,3,333,Loyal Customers
+13034,3,3,3,333,Loyal Customers
+15384,3,3,3,333,Loyal Customers
+12365,3,3,3,333,Loyal Customers
+12624,3,3,3,333,Loyal Customers
+13417,3,3,3,333,Loyal Customers
+15919,3,3,3,333,Loyal Customers
+18160,3,3,3,333,Loyal Customers
+14754,3,3,3,333,Loyal Customers
+14664,3,3,3,333,Loyal Customers
+14128,3,3,3,333,Loyal Customers
+14481,3,3,3,333,Loyal Customers
+15829,3,3,3,333,Loyal Customers
+14220,3,3,3,333,Loyal Customers
+18183,3,3,3,333,Loyal Customers
+13822,3,3,3,333,Loyal Customers
+15244,3,3,3,333,Loyal Customers
+13046,3,3,3,333,Loyal Customers
+13525,3,3,3,333,Loyal Customers
+15402,3,3,3,333,Loyal Customers
+13914,3,3,3,333,Loyal Customers
+13368,3,3,3,333,Loyal Customers
+15258,3,3,3,333,Loyal Customers
+15182,3,3,3,333,Loyal Customers
+18217,3,3,3,333,Loyal Customers
+14152,3,3,3,333,Loyal Customers
+13402,3,3,3,333,Loyal Customers
+13493,3,3,3,333,Loyal Customers
+12596,3,3,3,333,Loyal Customers
+16134,3,3,3,333,Loyal Customers
+14377,3,3,3,333,Loyal Customers
+16311,3,3,3,333,Loyal Customers
+14905,3,3,3,333,Loyal Customers
+15232,3,3,3,333,Loyal Customers
+16109,3,3,3,333,Loyal Customers
+13731,3,3,3,333,Loyal Customers
+12673,3,3,3,333,Loyal Customers
+14636,3,3,3,333,Loyal Customers
+13933,3,3,3,333,Loyal Customers
+15573,3,3,3,333,Loyal Customers
+17119,3,3,3,333,Loyal Customers
+13888,3,3,3,333,Loyal Customers
+17507,3,3,3,333,Loyal Customers
+13233,3,3,3,333,Loyal Customers
+14323,3,3,3,333,Loyal Customers
+17664,3,3,3,333,Loyal Customers
+12944,3,3,3,333,Loyal Customers
+12556,3,3,3,333,Loyal Customers
+17259,3,3,3,333,Loyal Customers
+15366,3,3,3,333,Loyal Customers
+17890,3,3,3,333,Loyal Customers
+12872,3,3,3,333,Loyal Customers
+14965,3,3,3,333,Loyal Customers
+13311,3,3,3,333,Loyal Customers
+14108,3,3,3,333,Loyal Customers
+16788,3,3,3,333,Loyal Customers
+14645,3,3,3,333,Loyal Customers
+15381,3,3,3,333,Loyal Customers
+18246,3,3,3,333,Loyal Customers
+17658,3,3,3,333,Loyal Customers
+14284,3,3,3,333,Loyal Customers
+13276,3,3,3,333,Loyal Customers
+13452,3,3,3,333,Loyal Customers
+14882,3,3,3,333,Loyal Customers
+18123,3,3,3,333,Loyal Customers
+16723,3,3,3,333,Loyal Customers
+16838,3,3,3,333,Loyal Customers
+14338,3,3,3,333,Loyal Customers
+12384,3,3,3,333,Loyal Customers
+16384,3,3,3,333,Loyal Customers
+14023,3,3,3,333,Loyal Customers
+13557,3,3,3,333,Loyal Customers
+15762,3,3,3,333,Loyal Customers
+18095,3,3,3,333,Loyal Customers
+13292,3,3,3,333,Loyal Customers
+17540,3,3,3,333,Loyal Customers
+16916,3,3,3,333,Loyal Customers
+12784,3,3,3,333,Loyal Customers
+15339,3,3,3,333,Loyal Customers
+12816,3,3,3,333,Loyal Customers
+13816,3,3,3,333,Loyal Customers
+15821,3,3,3,333,Loyal Customers
+15315,3,3,3,333,Loyal Customers
+16667,3,3,3,333,Loyal Customers
+13321,3,3,3,333,Loyal Customers
+16933,3,3,3,333,Loyal Customers
+17265,3,3,3,333,Loyal Customers
+12559,3,3,3,333,Loyal Customers
+17503,3,3,3,333,Loyal Customers
+12987,3,3,3,333,Loyal Customers
+14891,3,3,3,333,Loyal Customers
+15068,3,3,3,333,Loyal Customers
+12363,3,3,3,333,Loyal Customers
+17674,3,3,3,333,Loyal Customers
+17235,3,3,3,333,Loyal Customers
+16031,3,3,3,333,Loyal Customers
+16811,3,3,3,333,Loyal Customers
+17637,3,3,3,333,Loyal Customers
+12743,3,3,3,333,Loyal Customers
+12793,3,3,3,333,Loyal Customers
+16230,3,3,3,333,Loyal Customers
+17447,3,3,3,333,Loyal Customers
+14496,3,3,3,333,Loyal Customers
+15469,3,3,3,333,Loyal Customers
+14539,3,3,3,333,Loyal Customers
+13434,3,3,3,333,Loyal Customers
+15433,3,3,3,333,Loyal Customers
+14265,3,3,3,333,Loyal Customers
+14002,3,3,3,333,Loyal Customers
+16185,3,3,3,333,Loyal Customers
+18252,3,3,3,333,Loyal Customers
+17290,3,3,3,333,Loyal Customers
+17329,3,3,3,333,Loyal Customers
+12571,3,3,3,333,Loyal Customers
+15030,3,3,3,333,Loyal Customers
+18205,3,3,3,333,Loyal Customers
+15246,3,3,3,333,Loyal Customers
+13005,3,3,3,333,Loyal Customers
+12582,3,3,3,333,Loyal Customers
+14851,3,3,3,333,Loyal Customers
+16561,3,3,3,333,Loyal Customers
+15406,3,3,3,333,Loyal Customers
+12904,3,3,3,333,Loyal Customers
+17391,3,3,3,333,Loyal Customers
+13885,3,3,3,333,Loyal Customers
+12991,3,3,3,333,Loyal Customers
+17630,3,3,3,333,Loyal Customers
+16863,3,3,3,333,Loyal Customers
+16616,3,3,3,333,Loyal Customers
+17298,3,3,3,333,Loyal Customers
+17495,3,3,3,333,Loyal Customers
+16368,3,3,3,333,Loyal Customers
+17374,3,3,3,333,Loyal Customers
+16352,3,3,3,333,Loyal Customers
+12763,3,3,3,333,Loyal Customers
+15877,3,3,3,333,Loyal Customers
+14236,3,3,3,333,Loyal Customers
+14416,3,3,3,333,Loyal Customers
+14396,3,3,4,334,Loyal Customers
+13675,3,3,4,334,Loyal Customers
+17453,3,3,4,334,Loyal Customers
+15287,3,3,4,334,Loyal Customers
+16999,3,3,4,334,Loyal Customers
+16518,3,3,4,334,Loyal Customers
+13531,3,3,4,334,Loyal Customers
+14147,3,3,4,334,Loyal Customers
+17555,3,3,4,334,Loyal Customers
+16603,3,3,4,334,Loyal Customers
+12504,3,3,4,334,Loyal Customers
+16693,3,3,4,334,Loyal Customers
+14320,3,3,4,334,Loyal Customers
+14853,3,3,4,334,Loyal Customers
+15349,3,3,4,334,Loyal Customers
+16374,3,3,4,334,Loyal Customers
+17964,3,3,4,334,Loyal Customers
+13066,3,3,4,334,Loyal Customers
+15963,3,3,4,334,Loyal Customers
+14896,3,3,4,334,Loyal Customers
+14335,3,3,4,334,Loyal Customers
+14029,3,3,4,334,Loyal Customers
+15468,3,3,4,334,Loyal Customers
+13579,3,3,4,334,Loyal Customers
+14205,3,3,4,334,Loyal Customers
+13248,3,3,4,334,Loyal Customers
+17418,3,3,4,334,Loyal Customers
+14331,3,3,4,334,Loyal Customers
+14470,3,3,4,334,Loyal Customers
+16824,3,3,4,334,Loyal Customers
+16805,3,3,4,334,Loyal Customers
+13506,3,3,4,334,Loyal Customers
+17392,3,3,4,334,Loyal Customers
+15092,3,3,4,334,Loyal Customers
+15121,3,3,4,334,Loyal Customers
+12375,3,3,4,334,Loyal Customers
+18158,3,3,4,334,Loyal Customers
+18071,3,3,4,334,Loyal Customers
+14780,3,3,4,334,Loyal Customers
+15889,3,3,4,334,Loyal Customers
+17190,3,3,4,334,Loyal Customers
+13954,3,3,4,334,Loyal Customers
+16968,3,3,4,334,Loyal Customers
+14272,3,3,4,334,Loyal Customers
+12552,3,3,4,334,Loyal Customers
+12592,3,3,4,334,Loyal Customers
+12493,3,3,4,334,Loyal Customers
+17035,3,3,4,334,Loyal Customers
+14157,3,3,4,334,Loyal Customers
+15976,3,3,4,334,Loyal Customers
+12452,3,3,4,334,Loyal Customers
+14998,3,3,4,334,Loyal Customers
+16884,3,3,4,334,Loyal Customers
+15230,3,3,4,334,Loyal Customers
+17223,3,3,4,334,Loyal Customers
+16780,3,3,4,334,Loyal Customers
+17134,3,3,4,334,Loyal Customers
+16119,3,3,4,334,Loyal Customers
+15012,3,3,4,334,Loyal Customers
+18034,3,3,4,334,Loyal Customers
+13473,3,3,4,334,Loyal Customers
+16689,3,3,4,334,Loyal Customers
+17232,3,3,4,334,Loyal Customers
+15967,3,3,4,334,Loyal Customers
+16629,3,3,4,334,Loyal Customers
+18001,3,3,4,334,Loyal Customers
+15935,3,3,4,334,Loyal Customers
+16957,3,3,4,334,Loyal Customers
+13085,3,3,4,334,Loyal Customers
+12930,3,3,4,334,Loyal Customers
+16239,3,3,4,334,Loyal Customers
+14620,3,3,4,334,Loyal Customers
+17913,3,3,4,334,Loyal Customers
+14670,3,3,4,334,Loyal Customers
+15186,3,3,4,334,Loyal Customers
+15695,3,3,4,334,Loyal Customers
+16243,3,3,4,334,Loyal Customers
+16018,3,3,4,334,Loyal Customers
+16399,3,3,4,334,Loyal Customers
+17931,3,3,4,334,Loyal Customers
+15184,3,3,4,334,Loyal Customers
+16484,3,3,4,334,Loyal Customers
+12386,3,3,4,334,Loyal Customers
+13255,3,3,4,334,Loyal Customers
+18154,3,3,4,334,Loyal Customers
+15522,3,3,4,334,Loyal Customers
+12508,3,3,4,334,Loyal Customers
+15429,3,3,4,334,Loyal Customers
+17926,3,3,4,334,Loyal Customers
+13673,3,3,4,334,Loyal Customers
+15883,3,3,4,334,Loyal Customers
+16354,3,3,4,334,Loyal Customers
+18024,3,3,4,334,Loyal Customers
+16250,3,3,4,334,Loyal Customers
+15847,3,3,4,334,Loyal Customers
+17595,3,3,4,334,Loyal Customers
+13899,3,3,4,334,Loyal Customers
+14538,3,3,4,334,Loyal Customers
+17357,3,3,4,334,Loyal Customers
+14114,3,3,4,334,Loyal Customers
+13821,3,3,4,334,Loyal Customers
+17711,3,3,4,334,Loyal Customers
+13919,3,3,4,334,Loyal Customers
+17250,3,3,4,334,Loyal Customers
+17189,3,3,4,334,Loyal Customers
+15424,3,3,4,334,Loyal Customers
+12832,3,3,4,334,Loyal Customers
+13817,3,3,4,334,Loyal Customers
+13657,3,3,4,334,Loyal Customers
+17999,3,3,4,334,Loyal Customers
+16441,3,3,4,334,Loyal Customers
+12871,3,3,4,334,Loyal Customers
+17031,3,3,4,334,Loyal Customers
+14594,3,3,4,334,Loyal Customers
+16552,3,3,4,334,Loyal Customers
+13589,3,3,4,334,Loyal Customers
+13656,3,3,4,334,Loyal Customers
+17078,3,3,4,334,Loyal Customers
+17489,3,3,4,334,Loyal Customers
+14448,3,3,4,334,Loyal Customers
+14067,3,3,4,334,Loyal Customers
+13569,3,3,4,334,Loyal Customers
+12895,3,3,4,334,Loyal Customers
+12981,3,3,4,334,Loyal Customers
+14690,3,3,4,334,Loyal Customers
+16343,3,3,4,334,Loyal Customers
+16372,3,3,4,334,Loyal Customers
+17358,3,3,4,334,Loyal Customers
+17432,3,3,4,334,Loyal Customers
+15949,3,3,4,334,Loyal Customers
+17330,3,3,4,334,Loyal Customers
+12915,3,3,4,334,Loyal Customers
+14427,3,4,4,344,Loyal Customers
+15872,3,4,4,344,Loyal Customers
+13780,3,4,4,344,Loyal Customers
+18040,3,4,4,344,Loyal Customers
+13453,4,4,4,444,Champions
+15713,4,4,4,444,Champions
+15840,4,4,4,444,Champions
+17742,4,4,4,444,Champions
+12888,4,4,4,444,Champions
+17252,4,4,4,444,Champions
+13173,4,4,4,444,Champions
+18112,4,4,4,444,Champions
+17795,4,4,4,444,Champions
+15579,4,4,4,444,Champions
+14379,4,4,4,444,Champions
+13497,4,4,4,444,Champions
+17668,4,4,4,444,Champions
+13649,4,4,4,444,Champions
+13068,4,4,4,444,Champions
+12875,4,4,4,444,Champions
+14491,4,4,4,444,Champions
+13930,4,4,4,444,Champions
+17384,4,4,4,444,Champions
+18078,4,4,4,444,Champions
+17221,4,4,4,444,Champions
+15918,4,4,4,444,Champions
+14264,4,4,4,444,Champions
+13727,4,4,4,444,Champions
+13904,4,4,4,444,Champions
+15714,4,4,4,444,Champions
+14517,4,4,4,444,Champions
+14716,4,4,4,444,Champions
+16855,4,4,4,444,Champions
+15213,4,4,4,444,Champions
+14024,4,4,4,444,Champions
+16322,4,4,4,444,Champions
+14987,4,4,4,444,Champions
+12844,4,4,4,444,Champions
+16685,4,4,4,444,Champions
+18261,4,4,4,444,Champions
+14555,4,4,4,444,Champions
+13955,4,4,4,444,Champions
+16674,4,4,4,444,Champions
+17157,4,4,4,444,Champions
+17229,4,4,4,444,Champions
+17267,4,4,4,444,Champions
+15101,4,4,4,444,Champions
+16386,4,4,4,444,Champions
+14479,4,4,4,444,Champions
+16091,4,4,4,444,Champions
+17237,4,4,4,444,Champions
+17362,4,4,4,444,Champions
+17854,4,4,4,444,Champions
+15661,4,4,4,444,Champions
+17604,4,4,4,444,Champions
+13787,4,4,4,444,Champions
+13529,4,4,4,444,Champions
+14915,4,4,4,444,Champions
+17334,4,4,4,444,Champions
+13718,4,4,4,444,Champions
+15163,4,4,4,444,Champions
+16217,4,4,4,444,Champions
+13083,4,4,4,444,Champions
+15054,4,4,4,444,Champions
+13479,4,4,4,444,Champions
+16479,4,4,4,444,Champions
+16402,4,4,4,444,Champions
+17255,4,4,4,444,Champions
+14985,4,4,4,444,Champions
+13573,4,4,4,444,Champions
+15732,4,4,4,444,Champions
+17163,4,4,4,444,Champions
+12829,4,4,4,444,Champions
+15545,4,4,4,444,Champions
+13544,4,4,4,444,Champions
+14656,4,4,4,444,Champions
+14947,4,4,4,444,Champions
+17081,4,4,4,444,Champions
+14784,4,4,4,444,Champions
+16897,4,4,4,444,Champions
+14162,4,4,4,444,Champions
+17501,4,4,4,444,Champions
+16808,4,4,4,444,Champions
+17080,4,4,4,444,Champions
+17760,4,4,4,444,Champions
+13760,4,4,4,444,Champions
+16555,4,4,4,444,Champions
+14660,4,4,4,444,Champions
+18190,4,4,4,444,Champions
+17783,4,4,4,444,Champions
+18270,4,4,4,444,Champions
+13754,4,4,4,444,Champions
+16557,4,4,4,444,Champions
+14242,4,4,4,444,Champions
+16149,4,4,4,444,Champions
+17786,4,4,4,444,Champions
+15355,4,4,4,444,Champions
+16883,4,4,4,444,Champions
+13272,4,4,4,444,Champions
+14508,4,4,4,444,Champions
+14512,4,4,4,444,Champions
+16313,4,4,4,444,Champions
+17254,4,4,4,444,Champions
+14819,4,4,4,444,Champions
+13917,4,4,4,444,Champions
+13837,4,4,4,444,Champions
+14520,4,4,4,444,Champions
+17708,4,4,4,444,Champions
+12962,4,4,4,444,Champions
+17430,4,4,4,444,Champions
+15912,4,4,4,444,Champions
+14452,4,4,4,444,Champions
+15894,4,4,4,444,Champions
+12492,4,4,4,444,Champions
+17194,4,4,4,444,Champions
+13189,4,4,4,444,Champions
+14053,4,4,4,444,Champions
+15014,4,4,4,444,Champions
+14761,4,4,4,444,Champions
+12604,4,4,4,444,Champions
+15689,4,4,4,444,Champions
+13404,4,4,4,444,Champions
+13711,4,4,4,444,Champions
+16836,4,4,4,444,Champions
+17155,4,4,4,444,Champions
+14501,4,4,4,444,Champions
+13207,4,4,4,444,Champions
+16596,4,4,4,444,Champions
+18005,4,4,5,445,Champions
+14658,4,4,5,445,Champions
+16778,4,4,5,445,Champions
+17771,4,4,5,445,Champions
+17339,4,4,5,445,Champions
+16427,4,4,5,445,Champions
+13565,4,4,5,445,Champions
+17256,4,4,5,445,Champions
+17181,4,4,5,445,Champions
+15690,4,4,5,445,Champions
+15850,4,4,5,445,Champions
+14473,4,4,5,445,Champions
+14995,4,4,5,445,Champions
+15393,4,4,5,445,Champions
+18030,4,4,5,445,Champions
+13960,4,4,5,445,Champions
+17969,4,4,5,445,Champions
+16777,4,4,5,445,Champions
+14624,4,4,5,445,Champions
+16690,4,4,5,445,Champions
+18101,4,4,5,445,Champions
+15897,4,4,5,445,Champions
+14960,4,4,5,445,Champions
+13669,4,4,5,445,Champions
+15724,4,4,5,445,Champions
+14570,4,4,5,445,Champions
+16634,4,4,5,445,Champions
+16080,4,4,5,445,Champions
+12897,4,4,5,445,Champions
+17436,4,4,5,445,Champions
+14104,4,4,5,445,Champions
+16189,4,4,5,445,Champions
+16519,4,4,5,445,Champions
+16411,4,4,5,445,Champions
+16647,4,4,5,445,Champions
+14984,4,4,5,445,Champions
+17928,4,4,5,445,Champions
+12547,4,4,5,445,Champions
+17166,4,4,5,445,Champions
+17889,4,4,5,445,Champions
+17376,4,4,5,445,Champions
+12450,4,4,5,445,Champions
+13978,4,4,5,445,Champions
+13792,4,4,5,445,Champions
+15612,4,4,5,445,Champions
+15198,4,4,5,445,Champions
+17608,4,4,5,445,Champions
+12522,4,4,5,445,Champions
+14768,4,4,5,445,Champions
+13972,4,4,5,445,Champions
+14697,4,4,5,445,Champions
+17781,4,4,5,445,Champions
+18013,4,4,5,445,Champions
+13672,4,4,5,445,Champions
+14551,4,4,5,445,Champions
+15124,4,4,5,445,Champions
+13460,4,4,5,445,Champions
+17772,4,4,5,445,Champions
+16835,4,4,5,445,Champions
+18147,4,4,5,445,Champions
+15139,4,4,5,445,Champions
+16620,4,4,5,445,Champions
+18282,4,4,5,445,Champions
+16861,4,4,5,445,Champions
+15565,4,4,5,445,Champions
+18048,4,4,5,445,Champions
+13962,4,4,5,445,Champions
+17737,4,4,5,445,Champions
+16952,4,4,5,445,Champions
+16405,4,4,5,445,Champions
+13470,4,4,5,445,Champions
+14354,4,4,5,445,Champions
+13223,4,4,5,445,Champions
+15852,4,4,5,445,Champions
+18146,4,4,5,445,Champions
+13420,4,4,5,445,Champions
+17026,4,4,5,445,Champions
+17707,4,4,5,445,Champions
+17898,4,4,5,445,Champions
+15869,4,4,5,445,Champions
+17946,4,4,5,445,Champions
+17549,4,4,5,445,Champions
+15526,4,4,5,445,Champions
+14037,4,4,5,445,Champions
+17935,4,4,5,445,Champions
+16852,4,4,5,445,Champions
+17186,4,4,5,445,Champions
+12512,4,4,5,445,Champions
+17468,4,4,5,445,Champions
+16828,4,4,5,445,Champions
+16414,4,4,5,445,Champions
+14495,4,4,5,445,Champions
+18018,4,4,5,445,Champions
+15512,4,4,5,445,Champions
+17446,4,4,5,445,Champions
+17852,4,4,5,445,Champions
+17900,4,4,5,445,Champions
+16792,4,4,5,445,Champions
+13133,4,4,5,445,Champions
+16498,4,4,5,445,Champions
+15422,4,4,5,445,Champions
+13651,4,4,5,445,Champions
+13283,4,4,5,445,Champions
+17991,4,4,5,445,Champions
+16506,4,4,5,445,Champions
+14785,4,4,5,445,Champions
+15863,4,4,5,445,Champions
+14865,4,4,5,445,Champions
+14682,4,4,5,445,Champions
+16454,4,4,5,445,Champions
+12346,4,4,1,441,Loyal Customers
+12357,4,4,1,441,Loyal Customers
+12688,4,4,1,441,Loyal Customers
+12752,4,4,1,441,Loyal Customers
+18251,4,4,1,441,Loyal Customers
+12378,4,4,1,441,Loyal Customers
+15195,4,4,1,441,Loyal Customers
+12454,4,4,1,441,Loyal Customers
+13135,4,4,1,441,Loyal Customers
+14439,4,4,1,441,Loyal Customers
+13422,4,4,1,441,Loyal Customers
+17313,4,4,1,441,Loyal Customers
+12501,4,4,1,441,Loyal Customers
+16281,4,4,1,441,Loyal Customers
+17597,4,4,2,442,Loyal Customers
+17846,4,4,2,442,Loyal Customers
+15341,4,4,2,442,Loyal Customers
+15372,4,4,2,442,Loyal Customers
+14887,4,4,2,442,Loyal Customers
+14459,4,4,2,442,Loyal Customers
+16152,4,4,2,442,Loyal Customers
+14935,4,4,2,442,Loyal Customers
+16380,4,4,2,442,Loyal Customers
+16751,4,4,2,442,Loyal Customers
+12349,4,4,2,442,Loyal Customers
+13763,4,4,2,442,Loyal Customers
+12405,4,4,2,442,Loyal Customers
+15947,4,4,2,442,Loyal Customers
+16902,4,4,2,442,Loyal Customers
+12764,4,4,2,442,Loyal Customers
+12398,4,4,2,442,Loyal Customers
+13850,4,4,2,442,Loyal Customers
+12607,4,4,2,442,Loyal Customers
+12818,4,4,2,442,Loyal Customers
+17553,4,4,2,442,Loyal Customers
+14566,4,4,2,442,Loyal Customers
+17354,4,4,2,442,Loyal Customers
+13572,4,4,2,442,Loyal Customers
+12770,4,4,2,442,Loyal Customers
+13501,4,4,2,442,Loyal Customers
+13328,4,4,2,442,Loyal Customers
+17919,4,4,2,442,Loyal Customers
+16101,4,4,2,442,Loyal Customers
+15171,4,4,2,442,Loyal Customers
+13878,4,4,2,442,Loyal Customers
+17037,4,4,2,442,Loyal Customers
+14105,4,4,2,442,Loyal Customers
+13151,4,4,2,442,Loyal Customers
+15004,4,4,2,442,Loyal Customers
+16800,4,4,2,442,Loyal Customers
+12611,4,4,2,442,Loyal Customers
+12769,4,4,2,442,Loyal Customers
+15069,4,4,2,442,Loyal Customers
+15978,4,4,2,442,Loyal Customers
+13853,4,4,2,442,Loyal Customers
+12534,4,4,2,442,Loyal Customers
+12354,4,4,2,442,Loyal Customers
+16563,4,4,2,442,Loyal Customers
+13635,4,4,2,442,Loyal Customers
+14212,4,4,2,442,Loyal Customers
+14488,4,4,2,442,Loyal Customers
+14411,4,4,2,442,Loyal Customers
+17727,4,4,2,442,Loyal Customers
+15464,4,4,2,442,Loyal Customers
+12497,4,4,2,442,Loyal Customers
+16260,4,4,2,442,Loyal Customers
+13639,4,4,2,442,Loyal Customers
+13235,4,4,2,442,Loyal Customers
+15333,4,4,2,442,Loyal Customers
+12514,4,4,2,442,Loyal Customers
+17197,4,4,2,442,Loyal Customers
+12446,4,4,2,442,Loyal Customers
+18194,4,4,2,442,Loyal Customers
+12550,4,4,2,442,Loyal Customers
+18192,4,4,2,442,Loyal Customers
+17244,4,4,2,442,Loyal Customers
+17044,4,4,2,442,Loyal Customers
+15576,4,4,3,443,Loyal Customers
+18133,4,4,3,443,Loyal Customers
+13934,4,4,3,443,Loyal Customers
+12652,4,4,3,443,Loyal Customers
+13075,4,4,3,443,Loyal Customers
+14015,4,4,3,443,Loyal Customers
+16216,4,4,3,443,Loyal Customers
+13689,4,4,3,443,Loyal Customers
+15480,4,4,3,443,Loyal Customers
+15066,4,4,3,443,Loyal Customers
+12772,4,4,3,443,Loyal Customers
+15255,4,4,3,443,Loyal Customers
+17829,4,4,3,443,Loyal Customers
+15076,4,4,3,443,Loyal Customers
+12847,4,4,3,443,Loyal Customers
+13979,4,4,3,443,Loyal Customers
+17649,4,4,3,443,Loyal Customers
+13339,4,4,3,443,Loyal Customers
+12713,4,4,3,443,Loyal Customers
+16222,4,4,3,443,Loyal Customers
+16108,4,4,3,443,Loyal Customers
+15832,4,4,3,443,Loyal Customers
+16494,4,4,3,443,Loyal Customers
+13893,4,4,3,443,Loyal Customers
+16276,4,4,3,443,Loyal Customers
+13336,4,4,3,443,Loyal Customers
+14557,4,4,3,443,Loyal Customers
+16054,4,4,3,443,Loyal Customers
+13583,4,4,3,443,Loyal Customers
+13375,4,4,3,443,Loyal Customers
+16505,4,4,3,443,Loyal Customers
+12425,4,4,3,443,Loyal Customers
+13341,4,4,3,443,Loyal Customers
+15075,4,4,3,443,Loyal Customers
+12965,4,4,3,443,Loyal Customers
+16480,4,4,3,443,Loyal Customers
+13356,4,4,3,443,Loyal Customers
+14885,4,4,3,443,Loyal Customers
+18104,4,4,3,443,Loyal Customers
+16256,4,4,3,443,Loyal Customers
+14923,4,4,3,443,Loyal Customers
+15074,4,4,3,443,Loyal Customers
+13354,4,4,3,443,Loyal Customers
+12374,4,4,3,443,Loyal Customers
+13753,4,4,3,443,Loyal Customers
+12603,4,4,3,443,Loyal Customers
+14756,4,4,3,443,Loyal Customers
+12976,4,4,3,443,Loyal Customers
+16491,4,4,3,443,Loyal Customers
+14055,4,4,3,443,Loyal Customers
+12475,4,4,3,443,Loyal Customers
+14725,4,4,3,443,Loyal Customers
+17761,4,4,3,443,Loyal Customers
+13587,4,4,3,443,Loyal Customers
+12453,4,4,3,443,Loyal Customers
+12612,4,4,3,443,Loyal Customers
+18082,4,4,3,443,Loyal Customers
+12658,4,4,3,443,Loyal Customers
+14222,4,4,3,443,Loyal Customers
+12478,4,4,3,443,Loyal Customers
+15322,4,4,3,443,Loyal Customers
+13607,4,4,3,443,Loyal Customers
+16377,4,4,3,443,Loyal Customers
+13325,4,4,3,443,Loyal Customers
+13355,4,4,3,443,Loyal Customers
+13464,4,4,3,443,Loyal Customers
+12638,4,4,3,443,Loyal Customers
+12418,4,4,3,443,Loyal Customers
+18022,4,4,3,443,Loyal Customers
+16056,4,4,3,443,Loyal Customers
+14603,4,4,3,443,Loyal Customers
+13518,4,4,3,443,Loyal Customers
+15677,4,4,3,443,Loyal Customers
+16708,4,4,3,443,Loyal Customers
+16127,4,4,3,443,Loyal Customers
+14894,4,4,3,443,Loyal Customers
+17046,4,4,3,443,Loyal Customers
+12631,4,4,3,443,Loyal Customers
+14301,4,4,3,443,Loyal Customers
+15773,4,4,3,443,Loyal Customers
+14000,4,4,3,443,Loyal Customers
+17985,4,4,3,443,Loyal Customers
+14687,4,4,3,443,Loyal Customers
+16022,4,4,3,443,Loyal Customers
+14036,4,4,3,443,Loyal Customers
+14382,4,4,3,443,Loyal Customers
+15147,4,4,3,443,Loyal Customers
+17499,4,4,3,443,Loyal Customers
+17640,4,4,3,443,Loyal Customers
+16141,4,4,3,443,Loyal Customers
+12667,4,4,3,443,Loyal Customers
+16613,4,4,3,443,Loyal Customers
+15275,4,4,3,443,Loyal Customers
+16116,4,4,3,443,Loyal Customers
+12513,4,4,3,443,Loyal Customers
+15645,4,4,3,443,Loyal Customers
+16763,4,4,3,443,Loyal Customers
+15795,4,4,3,443,Loyal Customers
+13357,4,4,3,443,Loyal Customers
+14675,4,4,3,443,Loyal Customers
+16732,4,4,3,443,Loyal Customers
+12707,4,4,3,443,Loyal Customers
+12420,4,4,3,443,Loyal Customers
+13243,4,4,3,443,Loyal Customers
+12521,4,4,3,443,Loyal Customers
+15720,4,4,3,443,Loyal Customers
+12917,4,4,3,443,Loyal Customers
+15442,4,4,3,443,Loyal Customers
+16535,4,4,3,443,Loyal Customers
+15222,4,4,3,443,Loyal Customers
+16072,4,4,3,443,Loyal Customers
+12426,4,4,3,443,Loyal Customers
+17970,4,4,3,443,Loyal Customers
+17142,4,4,3,443,Loyal Customers
+15830,4,4,3,443,Loyal Customers
+16345,4,4,3,443,Loyal Customers
+14400,4,4,3,443,Loyal Customers
+15303,4,4,3,443,Loyal Customers
+15415,4,4,3,443,Loyal Customers
+16278,4,4,3,443,Loyal Customers
+14753,4,4,3,443,Loyal Customers
+15655,4,4,3,443,Loyal Customers
+13044,4,4,3,443,Loyal Customers
+16275,4,4,3,443,Loyal Customers
+12866,4,4,3,443,Loyal Customers
+13800,4,4,3,443,Loyal Customers
+13260,4,4,3,443,Loyal Customers
+17291,4,4,3,443,Loyal Customers
+12390,4,4,3,443,Loyal Customers
+16340,4,4,3,443,Loyal Customers
+16536,4,4,3,443,Loyal Customers
+14474,4,4,3,443,Loyal Customers
+16211,4,4,3,443,Loyal Customers
+17520,4,4,3,443,Loyal Customers
+17806,4,4,3,443,Loyal Customers
+13390,4,4,3,443,Loyal Customers
+13278,4,4,3,443,Loyal Customers
+15539,4,4,3,443,Loyal Customers
+15043,4,4,3,443,Loyal Customers
+16142,4,4,3,443,Loyal Customers
+12988,4,4,3,443,Loyal Customers
+13385,4,4,3,443,Loyal Customers
+17443,4,4,3,443,Loyal Customers
+15825,4,4,3,443,Loyal Customers
+18159,4,4,3,443,Loyal Customers
+16602,4,4,3,443,Loyal Customers
+12479,4,4,3,443,Loyal Customers
+17623,4,4,3,443,Loyal Customers
+15891,4,4,3,443,Loyal Customers
+13721,4,4,3,443,Loyal Customers
+17712,4,4,3,443,Loyal Customers
+12863,4,4,3,443,Loyal Customers
+15149,4,4,3,443,Loyal Customers
+14873,4,4,3,443,Loyal Customers
+16650,4,4,3,443,Loyal Customers
+16135,4,4,3,443,Loyal Customers
+13043,4,4,3,443,Loyal Customers
+17513,4,4,3,443,Loyal Customers
+17805,4,4,3,443,Loyal Customers
+17480,4,4,3,443,Loyal Customers
+12436,4,4,3,443,Loyal Customers
+15417,4,4,3,443,Loyal Customers
+14317,4,4,3,443,Loyal Customers
+17958,4,4,3,443,Loyal Customers
+17415,4,4,3,443,Loyal Customers
+14158,4,4,3,443,Loyal Customers
+15721,4,4,3,443,Loyal Customers
+16614,4,4,3,443,Loyal Customers
+14014,4,4,3,443,Loyal Customers
+15006,4,4,3,443,Loyal Customers
+13116,4,4,3,443,Loyal Customers
+15389,4,4,3,443,Loyal Customers
+15193,4,4,3,443,Loyal Customers
+15142,4,4,3,443,Loyal Customers
+17053,4,4,3,443,Loyal Customers
+16820,4,4,3,443,Loyal Customers
+15300,4,4,3,443,Loyal Customers
+15448,4,4,3,443,Loyal Customers
+17333,4,4,3,443,Loyal Customers
+13176,4,4,3,443,Loyal Customers
+14270,4,4,3,443,Loyal Customers
+15507,4,4,3,443,Loyal Customers
+13732,4,4,3,443,Loyal Customers
+15000,4,4,3,443,Loyal Customers
+12809,4,4,4,444,Champions
+16643,4,4,4,444,Champions
+13338,4,4,4,444,Champions
+13153,4,4,4,444,Champions
+12639,4,4,4,444,Champions
+15109,4,4,4,444,Champions
+16504,4,4,4,444,Champions
+14130,4,4,4,444,Champions
+18216,4,4,4,444,Champions
+15091,4,4,4,444,Champions
+12644,4,4,4,444,Champions
+12447,4,4,4,444,Champions
+14497,4,4,4,444,Champions
+15557,4,4,4,444,Champions
+14431,4,4,4,444,Champions
+15471,4,4,4,444,Champions
+17140,4,4,4,444,Champions
+16742,4,4,4,444,Champions
+16586,4,4,4,444,Champions
+14967,4,4,4,444,Champions
+14489,4,4,4,444,Champions
+12945,4,4,4,444,Champions
+12391,4,4,4,444,Champions
+12491,4,4,4,444,Champions
+12355,4,4,4,444,Champions
+13398,4,4,4,444,Champions
+12564,4,4,4,444,Champions
+15585,4,4,4,444,Champions
+16529,4,4,4,444,Champions
+13485,4,4,4,444,Champions
+15475,4,4,4,444,Champions
+12729,4,4,4,444,Champions
+14184,4,4,4,444,Champions
+12591,4,4,4,444,Champions
+16574,4,4,4,444,Champions
+15802,4,4,4,444,Champions
+17040,4,4,4,444,Champions
+12448,4,4,4,444,Champions
+15739,4,4,4,444,Champions
+15368,4,4,4,444,Champions
+14149,4,4,4,444,Champions
+18006,4,4,4,444,Champions
+14638,4,4,4,444,Champions
+16404,4,4,4,444,Champions
+18222,4,4,4,444,Champions
+14093,4,4,4,444,Champions
+12579,4,4,4,444,Champions
+14022,4,4,4,444,Champions
+15524,4,4,4,444,Champions
+18233,4,4,4,444,Champions
+16025,4,4,4,444,Champions
+13359,4,4,4,444,Champions
+13358,4,4,4,444,Champions
+15553,4,4,4,444,Champions
+16084,4,4,4,444,Champions
+15551,4,4,4,444,Champions
+16236,4,4,4,444,Champions
+16881,4,4,4,444,Champions
+18106,4,4,4,444,Champions
+13245,4,4,4,444,Champions
+12795,4,4,4,444,Champions
+15450,4,4,4,444,Champions
+13602,4,4,4,444,Champions
+15957,4,4,4,444,Champions
+15360,4,4,4,444,Champions
+12403,4,4,4,444,Champions
+12740,4,4,4,444,Champions
+12802,4,4,4,444,Champions
+15994,4,4,4,444,Champions
+15930,4,4,4,444,Champions
+14288,4,4,4,444,Champions
+15639,4,4,4,444,Champions
+18240,4,4,4,444,Champions
+14757,4,4,4,444,Champions
+14124,4,4,4,444,Champions
+17701,4,4,4,444,Champions
+13615,4,4,4,444,Champions
+16737,4,4,4,444,Champions
+12833,4,4,4,444,Champions
+13166,4,4,4,444,Champions
+13889,4,4,4,444,Champions
+14139,4,4,4,444,Champions
+15803,4,4,4,444,Champions
+12580,4,4,4,444,Champions
+15725,4,4,4,444,Champions
+14333,4,4,4,444,Champions
+17052,4,4,4,444,Champions
+13974,4,4,4,444,Champions
+16834,4,4,4,444,Champions
+15523,4,4,4,444,Champions
+16272,4,4,4,444,Champions
+15099,4,4,4,444,Champions
+14048,4,4,4,444,Champions
+14348,4,4,4,444,Champions
+15225,4,4,4,444,Champions
+15269,4,4,4,444,Champions
+15127,4,4,4,444,Champions
+16947,4,4,4,444,Champions
+15342,4,4,4,444,Champions
+16204,4,4,4,444,Champions
+12922,4,4,4,444,Champions
+17379,4,4,4,444,Champions
+16319,4,4,4,444,Champions
+17431,4,4,4,444,Champions
+15158,4,4,4,444,Champions
+16198,4,4,4,444,Champions
+12792,4,4,4,444,Champions
+18164,4,4,4,444,Champions
+13352,4,4,4,444,Champions
+12824,4,4,4,444,Champions
+13594,4,4,4,444,Champions
+17486,4,4,4,444,Champions
+18067,4,4,4,444,Champions
+17603,4,4,4,444,Champions
+14619,4,4,4,444,Champions
+16207,4,4,4,444,Champions
+15386,4,4,4,444,Champions
+15264,4,4,4,444,Champions
+15345,4,4,4,444,Champions
+17226,4,4,4,444,Champions
+14600,4,4,4,444,Champions
+15837,4,4,4,444,Champions
+16917,4,4,4,444,Champions
+12982,4,4,4,444,Champions
+17614,4,4,4,444,Champions
+17936,4,4,4,444,Champions
+14752,4,4,4,444,Champions
+13345,4,4,4,444,Champions
+12690,4,4,4,444,Champions
+15592,4,4,4,444,Champions
+17438,4,4,4,444,Champions
+16776,4,4,4,444,Champions
+14420,4,4,4,444,Champions
+17508,4,4,4,444,Champions
+15664,4,4,4,444,Champions
+13833,4,4,4,444,Champions
+17205,4,4,4,444,Champions
+16982,4,4,4,444,Champions
+12733,4,4,4,444,Champions
+14304,4,4,4,444,Champions
+18181,4,4,4,444,Champions
+17239,4,4,4,444,Champions
+15090,4,4,4,444,Champions
+17138,4,4,4,444,Champions
+12890,4,4,4,444,Champions
+16769,4,4,4,444,Champions
+17878,4,4,4,444,Champions
+16909,4,4,4,444,Champions
+13372,4,4,4,444,Champions
+15025,4,4,4,444,Champions
+13936,4,4,4,444,Champions
+14079,4,4,4,444,Champions
+16147,4,4,4,444,Champions
+17492,4,4,4,444,Champions
+12873,4,4,4,444,Champions
+13351,4,4,4,444,Champions
+16903,4,4,4,444,Champions
+12544,4,4,4,444,Champions
+13300,4,4,4,444,Champions
+15472,4,4,4,444,Champions
+14950,4,4,4,444,Champions
+15975,4,4,4,444,Champions
+15063,4,4,4,444,Champions
+16758,4,4,4,444,Champions
+14888,4,4,4,444,Champions
+17911,4,4,4,444,Champions
+14886,4,4,4,444,Champions
+12373,4,4,4,444,Champions
+15343,4,4,4,444,Champions
+14528,4,4,4,444,Champions
+12538,4,4,4,444,Champions
+14171,4,4,4,444,Champions
+16509,4,4,4,444,Champions
+16485,4,4,4,444,Champions
+18056,4,4,4,444,Champions
+16052,4,4,4,444,Champions
+13844,4,4,4,444,Champions
+16305,4,4,4,444,Champions
+13291,4,4,4,444,Champions
+16595,4,4,4,444,Champions
+13298,4,4,4,444,Champions
+15120,4,4,4,444,Champions
+17948,4,4,4,444,Champions
+16823,4,4,4,444,Champions
+13228,4,4,4,444,Champions
+13976,4,4,4,444,Champions
+16971,4,4,4,444,Champions
+15247,4,4,4,444,Champions
+14537,4,4,4,444,Champions
+12617,4,4,4,444,Champions
+13642,4,4,4,444,Champions
+17222,4,4,4,444,Champions
+15870,4,4,4,444,Champions
+12715,4,4,4,444,Champions
+13210,4,4,4,444,Champions
+13343,4,4,4,444,Champions
+14804,4,4,4,444,Champions
+15678,4,4,4,444,Champions
+12566,4,4,4,444,Champions
+13923,4,4,4,444,Champions
+15900,4,4,4,444,Champions
+13332,4,4,4,444,Champions
+13740,4,4,4,444,Champions
+12532,4,4,4,444,Champions
+13670,4,4,4,444,Champions
+13887,4,4,4,444,Champions
+18250,4,4,4,444,Champions
+15405,4,4,4,444,Champions
+13927,4,4,4,444,Champions
+13790,4,4,4,444,Champions
+16159,4,4,4,444,Champions
+13052,4,4,4,444,Champions
+13062,4,4,4,444,Champions
+16423,4,4,4,444,Champions
+13091,4,4,4,444,Champions
+17123,4,4,4,444,Champions
+13774,4,4,4,444,Champions
+14633,4,4,4,444,Champions
+16978,4,4,4,444,Champions
+17569,4,4,4,444,Champions
+15047,4,4,4,444,Champions
+15520,4,4,4,444,Champions
+17201,4,4,4,444,Champions
+16826,4,4,4,444,Champions
+13347,4,4,4,444,Champions
+12519,4,4,4,444,Champions
+15115,4,4,4,444,Champions
+13737,4,4,4,444,Champions
+16545,4,4,4,444,Champions
+17697,4,4,4,444,Champions
+17839,4,4,4,444,Champions
+16183,4,4,4,444,Champions
+15652,4,4,4,444,Champions
+15942,4,4,4,444,Champions
+17973,4,4,4,444,Champions
+16105,4,4,4,444,Champions
+17914,4,4,4,444,Champions
+15619,4,4,4,444,Champions
+14954,4,4,4,444,Champions
+15921,4,4,4,444,Champions
+18276,4,4,4,444,Champions
+14196,4,4,4,444,Champions
+16063,4,4,4,444,Champions
+12489,4,4,4,444,Champions
+14988,4,4,4,444,Champions
+15466,4,4,4,444,Champions
+12350,4,4,4,444,Champions
+13216,4,4,4,444,Champions
+16625,4,4,4,444,Champions
+14902,4,4,4,444,Champions
+16850,4,4,4,444,Champions
+16803,4,4,4,444,Champions
+16177,4,4,4,444,Champions
+16030,4,4,4,444,Champions
+15210,4,4,4,444,Champions
+17862,4,4,4,444,Champions
+13706,4,4,4,444,Champions
+15130,4,4,4,444,Champions
+12953,4,4,4,444,Champions
+17866,4,4,4,444,Champions
+13239,4,4,4,444,Champions
+17154,4,4,4,444,Champions
+15153,4,4,4,444,Champions
+14012,4,4,4,444,Champions
+14747,4,4,4,444,Champions
+14206,4,4,4,444,Champions
+16318,4,4,4,444,Champions
+15314,4,4,4,444,Champions
+16366,4,4,4,444,Champions
+14870,4,4,4,444,Champions
+17715,4,4,4,444,Champions
+16071,4,4,4,444,Champions
+16830,4,4,4,444,Champions
+14850,4,4,4,444,Champions
+15944,4,4,4,444,Champions
+12790,4,4,4,444,Champions
+13801,4,4,4,444,Champions
+15597,4,4,4,444,Champions
+17793,4,4,4,444,Champions
+16739,4,4,4,444,Champions
+16627,4,4,4,444,Champions
+14424,4,4,4,444,Champions
+14484,4,4,4,444,Champions
+15236,4,4,4,444,Champions
+18117,4,4,4,444,Champions
+16096,4,4,4,444,Champions
+14622,4,4,4,444,Champions
+13986,4,4,4,444,Champions
+16967,4,4,4,444,Champions
+17248,4,4,4,444,Champions
+14703,4,4,4,444,Champions
+12648,4,4,4,444,Champions
+18066,4,4,4,444,Champions
+17172,4,4,4,444,Champions
+15257,4,4,4,444,Champions
+15385,4,4,4,444,Champions
+15243,4,4,4,444,Champions
+16761,4,4,4,444,Champions
+17458,4,4,4,444,Champions
+13494,4,4,4,444,Champions
+12614,4,4,4,444,Champions
+15766,4,4,4,444,Champions
+16193,4,4,4,444,Champions
+12650,4,4,4,444,Champions
+16227,4,4,4,444,Champions
+15970,4,4,4,444,Champions
+13484,4,4,4,444,Champions
+16582,4,4,4,444,Champions
+13845,4,4,4,444,Champions
+15318,4,4,4,444,Champions
+12834,4,4,4,444,Champions
+17070,4,4,4,444,Champions
+16450,4,4,4,444,Champions
+15326,4,4,4,444,Champions
+14951,4,4,4,444,Champions
+14327,4,4,4,444,Champions
+12852,4,4,4,444,Champions
+13990,4,4,4,444,Champions
+13897,4,4,4,444,Champions
+15185,4,4,4,444,Champions
+15308,4,4,4,444,Champions
+14311,4,4,4,444,Champions
+14924,4,4,4,444,Champions
+15699,4,4,4,444,Champions
+16810,4,4,4,444,Champions
+14339,4,4,4,444,Champions
+14847,4,4,4,444,Champions
+12884,4,4,4,444,Champions
+15010,4,4,4,444,Champions
+16956,4,4,4,444,Champions
+13699,4,4,4,444,Champions
+17510,4,4,4,444,Champions
+13466,4,5,4,454,Champions
+16123,4,5,4,454,Champions
+13395,4,5,4,454,Champions
+13060,4,5,4,454,Champions
+17120,4,5,4,454,Champions
+13932,4,5,4,454,Champions
+13142,4,5,4,454,Champions
+15087,4,5,4,454,Champions
+13762,4,5,4,454,Champions
+15659,4,5,4,454,Champions
+17176,4,5,4,454,Champions
+13863,4,5,4,454,Champions
+15219,4,5,4,454,Champions
+16796,4,5,4,454,Champions
+16181,4,5,4,454,Champions
+13045,4,5,4,454,Champions
+18220,4,5,4,454,Champions
+12623,4,5,4,454,Champions
+13667,4,5,4,454,Champions
+17941,4,5,4,454,Champions
+18185,4,5,4,454,Champions
+16400,4,5,4,454,Champions
+17433,4,5,4,454,Champions
+16425,4,5,4,454,Champions
+14248,4,5,4,454,Champions
+18165,4,5,4,454,Champions
+16104,4,5,4,454,Champions
+16292,4,5,4,454,Champions
+17506,4,5,4,454,Champions
+17094,4,5,4,454,Champions
+16297,4,5,4,454,Champions
+16715,4,5,4,454,Champions
+15667,4,5,4,454,Champions
+15148,4,5,4,454,Champions
+15623,4,5,4,454,Champions
+16430,4,5,4,454,Champions
+14762,4,5,4,454,Champions
+15254,4,5,4,454,Champions
+13745,4,5,4,454,Champions
+18053,4,5,4,454,Champions
+18215,4,5,4,454,Champions
+17124,5,5,4,554,Champions
+15609,5,5,4,554,Champions
+17824,5,5,4,554,Champions
+17678,5,5,4,554,Champions
+12881,5,5,4,554,Champions
+15857,5,5,4,554,Champions
+13708,5,5,4,554,Champions
+17531,5,5,4,554,Champions
+13441,5,5,4,554,Champions
+15154,5,5,4,554,Champions
+13751,5,5,4,554,Champions
+13504,5,5,4,554,Champions
+16721,5,5,4,554,Champions
+13259,5,5,4,554,Champions
+13449,5,5,4,554,Champions
+16648,5,5,4,554,Champions
+16526,5,5,4,554,Champions
+17464,5,5,4,554,Champions
+14953,5,5,4,554,Champions
+14549,5,5,4,554,Champions
+15396,5,5,4,554,Champions
+17977,5,5,4,554,Champions
+16432,5,5,4,554,Champions
+17636,5,5,4,554,Champions
+16429,5,5,4,554,Champions
+13121,5,5,4,554,Champions
+13439,5,5,4,554,Champions
+12703,5,5,4,554,Champions
+17694,5,5,4,554,Champions
+14350,5,5,4,554,Champions
+13177,5,5,4,554,Champions
+17247,5,5,4,554,Champions
+17403,5,5,4,554,Champions
+16848,5,5,4,554,Champions
+14975,5,5,4,554,Champions
+15556,5,5,4,554,Champions
+14480,5,5,4,554,Champions
+14764,5,5,4,554,Champions
+14908,5,5,4,554,Champions
+13803,5,5,4,554,Champions
+12750,5,5,4,554,Champions
+17498,5,5,4,554,Champions
+14816,5,5,4,554,Champions
+17767,5,5,4,554,Champions
+18108,5,5,4,554,Champions
+17011,5,5,4,554,Champions
+15774,5,5,4,554,Champions
+12558,5,5,4,554,Champions
+14727,5,5,4,554,Champions
+15408,5,5,4,554,Champions
+15320,5,5,4,554,Champions
+15517,5,5,4,554,Champions
+16451,5,5,4,554,Champions
+14863,5,5,4,554,Champions
+15119,5,5,4,554,Champions
+15019,5,5,4,554,Champions
+14068,5,5,4,554,Champions
+14423,5,5,4,554,Champions
+13973,5,5,4,554,Champions
+16936,5,5,4,554,Champions
+16413,5,5,4,554,Champions
+17385,5,5,4,554,Champions
+15143,5,5,4,554,Champions
+17125,5,5,4,554,Champions
+13127,5,5,4,554,Champions
+16447,5,5,4,554,Champions
+13227,5,5,4,554,Champions
+14375,5,5,4,554,Champions
+18009,5,5,4,554,Champions
+13626,5,5,4,554,Champions
+12430,5,5,4,554,Champions
+13806,5,5,4,554,Champions
+17896,5,5,4,554,Champions
+15277,5,5,4,554,Champions
+14881,5,5,4,554,Champions
+15261,5,5,4,554,Champions
+15035,5,5,4,554,Champions
+15346,5,5,4,554,Champions
+13645,5,5,4,554,Champions
+16976,5,5,4,554,Champions
+16024,5,5,4,554,Champions
+13512,5,5,4,554,Champions
+15510,5,5,5,555,Champions
+16124,5,5,5,555,Champions
+13061,5,5,5,555,Champions
+17111,5,5,5,555,Champions
+18212,5,5,5,555,Champions
+15097,5,5,5,555,Champions
+18072,5,5,5,555,Champions
+13349,5,5,5,555,Champions
+17051,5,5,5,555,Champions
+15783,5,5,5,555,Champions
+17278,5,5,5,555,Champions
+12660,5,5,5,555,Champions
+15118,5,5,5,555,Champions
+16601,5,5,5,555,Champions
+16528,5,5,5,555,Champions
+13103,5,5,5,555,Champions
+16793,5,5,5,555,Champions
+18193,5,5,5,555,Champions
+13886,5,5,5,555,Champions
+15634,5,5,5,555,Champions
+14647,5,5,5,555,Champions
+16215,5,5,5,555,Champions
+15776,5,5,5,555,Champions
+14523,5,5,5,555,Champions
+15598,5,5,5,555,Champions
+15286,5,5,5,555,Champions
+13570,5,5,5,555,Champions
+17684,5,5,5,555,Champions
+16756,5,5,5,555,Champions
+12561,5,5,5,555,Champions
+12718,5,5,5,555,Champions
+17877,5,5,5,555,Champions
+14586,5,5,5,555,Champions
+15457,5,5,5,555,Champions
+18110,5,5,5,555,Champions
+12732,5,5,5,555,Champions
+16026,5,5,5,555,Champions
+13187,5,5,5,555,Champions
+17060,5,5,5,555,Champions
+16961,5,5,5,555,Champions
+12736,5,5,5,555,Champions
+13348,5,5,5,555,Champions
+16302,5,5,5,555,Champions
+13678,5,5,5,555,Champions
+18213,5,5,5,555,Champions
+16117,5,5,5,555,Champions
+16641,5,5,5,555,Champions
+15866,5,5,5,555,Champions
+16445,5,5,5,555,Champions
+12812,5,5,5,555,Champions
+13474,5,5,5,555,Champions
+13008,5,5,5,555,Champions
+15528,5,5,5,555,Champions
+14793,5,5,5,555,Champions
+17347,5,5,5,555,Champions
+13146,5,5,5,555,Champions
+13712,5,5,5,555,Champions
+13070,5,5,5,555,Champions
+16527,5,5,5,555,Champions
+14569,5,5,5,555,Champions
+17212,5,5,5,555,Champions
+16315,5,5,5,555,Champions
+16619,5,5,5,555,Champions
+12672,5,5,5,555,Champions
+17789,5,5,5,555,Champions
+14357,5,5,5,555,Champions
+12402,5,5,5,555,Champions
+14052,5,5,5,555,Champions
+16587,5,5,5,555,Champions
+17171,5,5,5,555,Champions
+15175,5,5,5,555,Champions
+16471,5,5,5,555,Champions
+16753,5,5,5,555,Champions
+14929,5,5,5,555,Champions
+13926,5,5,5,555,Champions
+15637,5,5,5,555,Champions
+17534,5,5,5,555,Champions
+13382,5,5,5,555,Champions
+14598,5,5,5,555,Champions
+16392,5,5,5,555,Champions
+13419,5,5,5,555,Champions
+15790,5,5,5,555,Champions
+16482,5,5,5,555,Champions
+18114,5,5,5,555,Champions
+13600,5,5,5,555,Champions
+15096,5,5,5,555,Champions
+16895,5,5,5,555,Champions
+12702,5,5,5,555,Champions
+17619,5,5,5,555,Champions
+13428,5,5,5,555,Champions
+12574,5,5,5,555,Champions
+13271,5,5,5,555,Champions
+15554,5,5,5,555,Champions
+13739,5,5,5,555,Champions
+13503,5,5,5,555,Champions
+15604,5,5,5,555,Champions
+13858,5,5,5,555,Champions
+16179,5,5,5,555,Champions
+15052,5,5,5,555,Champions
+14476,5,5,5,555,Champions
+16190,5,5,5,555,Champions
+12831,5,5,5,555,Champions
+12588,5,5,5,555,Champions
+16338,5,5,5,555,Champions
+16846,5,5,5,555,Champions
+14601,5,5,5,555,Champions
+13621,5,5,5,555,Champions
+17153,5,5,5,555,Champions
+14241,5,5,5,555,Champions
+13411,5,5,5,555,Champions
+16591,5,5,5,555,Champions
+15540,5,5,5,555,Champions
+16017,5,5,5,555,Champions
+15703,5,5,5,555,Champions
+12995,5,5,5,555,Champions
+16415,5,5,5,555,Champions
+13532,5,5,5,555,Champions
+13828,5,5,5,555,Champions
+15327,5,5,5,555,Champions
+17514,5,5,5,555,Champions
+16914,5,5,5,555,Champions
+16457,5,5,5,555,Champions
+18191,5,5,5,555,Champions
+16323,5,5,5,555,Champions
+17923,5,5,5,555,Champions
+13099,5,5,5,555,Champions
+15925,5,5,5,555,Champions
+15820,5,5,5,555,Champions
+18126,5,5,5,555,Champions
+14964,5,5,5,555,Champions
+17670,5,5,5,555,Champions
+17843,5,5,5,555,Champions
+15307,5,5,5,555,Champions
+15758,5,5,5,555,Champions
+13513,5,5,5,555,Champions
+15319,5,5,5,555,Champions
+17206,5,5,5,555,Champions
+13017,5,5,5,555,Champions
+17187,5,5,5,555,Champions
+17394,5,5,5,555,Champions
+17891,5,5,5,555,Champions
+14381,5,5,5,555,Champions
+18169,5,5,5,555,Champions
+13284,5,5,5,555,Champions
+16965,5,5,5,555,Champions
+13859,5,5,5,555,Champions
+17693,5,5,5,555,Champions
+13262,5,5,5,555,Champions
+15437,5,5,5,555,Champions
+13980,5,5,5,555,Champions
+14782,5,5,5,555,Champions
+13723,5,5,5,555,Champions
+15593,5,5,5,555,Champions
+13322,5,5,5,555,Champions
+17383,5,5,5,555,Champions
+17987,5,5,5,555,Champions
+16178,5,5,5,555,Champions
+12581,5,5,5,555,Champions
+14185,5,5,5,555,Champions
+14789,5,5,5,555,Champions
+17301,5,5,5,555,Champions
+16829,5,5,5,555,Champions
+14830,5,5,5,555,Champions
+15234,5,5,5,555,Champions
+12586,5,5,5,555,Champions
+13436,5,5,5,555,Champions
+15746,5,5,5,555,Champions
+17660,5,5,5,555,Champions
+17010,5,5,5,555,Champions
+14666,5,5,5,555,Champions
+14100,5,5,5,555,Champions
+16887,5,5,5,555,Champions
+14087,5,5,5,555,Champions
+17475,5,5,5,555,Champions
+15683,5,5,5,555,Champions
+16847,5,5,5,555,Champions
+14806,5,5,5,555,Champions
+14801,5,5,5,555,Champions
+13568,5,5,5,555,Champions
+15909,5,5,5,555,Champions
+17904,5,5,5,555,Champions
+14966,5,5,5,555,Champions
+15692,5,5,5,555,Champions
+17233,5,5,5,555,Champions
+15412,5,5,5,555,Champions
+17885,5,5,5,555,Champions
+12361,5,5,5,555,Champions
+13826,5,5,5,555,Champions
+13663,5,5,5,555,Champions
+18045,5,5,5,555,Champions
+16448,5,5,5,555,Champions
+12893,5,5,5,555,Champions
+14722,5,5,5,555,Champions
+17279,5,5,5,555,Champions
+15567,5,5,5,555,Champions
+12641,5,5,5,555,Champions
+17574,5,5,5,555,Champions
+14199,5,5,5,555,Champions
+16097,5,5,5,555,Champions
+13482,5,5,5,555,Champions
+17680,5,5,5,555,Champions
+16433,5,5,5,555,Champions
+14326,5,5,5,555,Champions
+16680,5,5,5,555,Champions
+14059,5,5,5,555,Champions
+13059,5,5,5,555,Champions
+15886,5,5,5,555,Champions
+16594,5,5,5,555,Champions
+15292,5,5,5,555,Champions
+18280,5,5,5,555,Champions
+13710,5,5,5,555,Champions
+15041,5,5,5,555,Champions
+13598,5,5,5,555,Champions
+12622,5,5,5,555,Champions
+15895,5,5,5,555,Champions
+14705,5,5,5,555,Champions
+16990,5,5,5,555,Champions
+15262,5,5,5,555,Champions
+13778,5,5,5,555,Champions
+17879,5,5,5,555,Champions
+17253,5,5,5,555,Champions
+17356,5,5,5,555,Champions
+16403,5,5,5,555,Champions
+13618,5,5,5,555,Champions
+12618,5,5,5,555,Champions
+13072,5,5,5,555,Champions
+12923,5,5,5,555,Champions
+17947,5,5,5,555,Champions
+12509,5,5,5,555,Champions
+18274,5,5,5,555,Champions
+17582,5,5,5,555,Champions
+16144,5,5,5,555,Champions
+17331,5,5,5,555,Champions
+18010,5,5,5,555,Champions
+13560,5,5,5,555,Champions
+14518,5,5,5,555,Champions
+15335,5,5,5,555,Champions
+18278,5,5,5,555,Champions
+15670,5,5,5,555,Champions
+14693,5,5,5,555,Champions
+13690,5,5,5,555,Champions
+12442,5,5,5,555,Champions
+14536,5,5,5,555,Champions
+16773,5,5,5,555,Champions
+17245,5,5,5,555,Champions
+15432,5,5,5,555,Champions
+17542,5,5,5,555,Champions
+14860,5,5,5,555,Champions
+18058,5,5,5,555,Champions
+15016,5,5,5,555,Champions
+16921,5,5,5,555,Champions
+14218,5,5,5,555,Champions
+12367,5,5,5,555,Champions
+14578,5,5,5,555,Champions
+17367,5,5,5,555,Champions
+15888,5,5,5,555,Champions
+18099,5,5,5,555,Champions
+16282,5,5,5,555,Champions
+15986,5,5,5,555,Champions
+15374,5,5,5,555,Champions
+18088,5,5,5,555,Champions
+17561,5,5,5,555,Champions
+18014,5,5,5,555,Champions
+14295,5,5,5,555,Champions
+17650,5,5,5,555,Champions
+12817,5,5,5,555,Champions
+14485,5,5,5,555,Champions
+14552,5,5,5,555,Champions
+18042,5,5,5,555,Champions
+15316,5,5,5,555,Champions
+15904,5,5,5,555,Champions
+17535,5,5,5,555,Champions
+13603,5,5,5,555,Champions
+12920,5,5,5,555,Champions
+18200,5,5,5,555,Champions
+17110,5,5,5,555,Champions
+16406,5,5,5,555,Champions
+15167,5,5,5,555,Champions
+16517,5,5,5,555,Champions
+15733,5,5,5,555,Champions
+15325,5,5,5,555,Champions
+16932,5,5,5,555,Champions
+17600,5,5,5,555,Champions
+15458,5,5,5,555,Champions
+16113,5,5,5,555,Champions
+14362,5,5,5,555,Champions
+14204,5,5,5,555,Champions
+14089,5,5,5,555,Champions
+13229,5,5,5,555,Champions
+17344,5,5,5,555,Champions
+12573,5,5,5,555,Champions
+18203,5,5,5,555,Champions
+14714,5,5,5,555,Champions
+12966,5,5,5,555,Champions
+16213,5,5,5,555,Champions
+18224,5,5,5,555,Champions
+13937,5,5,5,555,Champions
+17165,5,5,5,555,Champions
+15348,5,5,5,555,Champions
+15988,5,5,5,555,Champions
+17556,5,5,5,555,Champions
+14799,5,5,5,555,Champions
+14148,5,5,5,555,Champions
+17128,5,5,5,555,Champions
+14585,5,5,5,555,Champions
+17118,5,5,5,555,Champions
+15007,5,5,5,555,Champions
+14406,5,5,5,555,Champions
+15438,5,5,5,555,Champions
+15263,5,5,5,555,Champions
+13898,5,5,5,555,Champions
+17871,5,5,5,555,Champions
+17899,5,5,5,555,Champions
+17832,5,5,5,555,Champions
+16720,5,5,5,555,Champions
+15447,5,5,5,555,Champions
+13809,5,5,5,555,Champions
+14368,5,5,5,555,Champions
+14046,5,5,5,555,Champions
+17698,5,5,5,555,Champions
+15740,5,5,5,555,Champions
+15226,5,5,5,555,Champions
+17517,5,5,5,555,Champions
+17286,5,5,5,555,Champions
+16351,5,5,5,555,Champions
+12602,5,5,5,555,Champions
+17714,5,5,5,555,Champions
+16248,5,5,5,555,Champions
+17984,5,5,5,555,Champions
+18138,5,5,5,555,Champions
+14066,5,5,5,555,Champions
+13514,5,5,5,555,Champions
+14039,5,5,5,555,Champions
+16617,5,5,5,555,Champions
+16412,5,5,5,555,Champions
+14208,5,5,5,555,Champions
+13462,5,5,5,555,Champions
+16461,5,5,5,555,Champions
+13697,5,5,5,555,Champions
+16337,5,5,5,555,Champions
+14073,5,5,5,555,Champions
+15717,5,5,5,555,Champions
+17234,5,5,5,555,Champions
+18262,5,5,5,555,Champions
+15748,5,5,5,555,Champions
+15435,5,5,5,555,Champions
+17859,5,5,5,555,Champions
+14968,5,5,5,555,Champions
+14098,5,5,5,555,Champions
+12864,5,5,5,555,Champions
+17030,5,5,5,555,Champions
+14238,5,5,5,555,Champions
+12565,5,5,5,555,Champions
+13866,5,5,5,555,Champions
+15937,5,5,5,555,Champions
+16598,5,5,5,555,Champions
+12974,5,5,5,555,Champions
+14109,5,5,5,555,Champions
+12587,5,5,5,555,Champions
+17578,5,5,5,555,Champions
+15705,5,5,5,555,Champions
+13299,5,5,5,555,Champions
+16287,5,5,5,555,Champions
+13584,5,5,5,555,Champions
+14386,5,5,5,555,Champions
+13561,5,5,5,555,Champions
+14041,5,5,5,555,Champions
+15388,5,5,5,555,Champions
+13483,5,5,5,555,Champions
+14494,5,5,5,555,Champions
+16483,5,5,5,555,Champions
+17718,5,5,5,555,Champions
+14772,5,5,5,555,Champions
+18209,5,5,5,555,Champions
+15135,5,5,5,555,Champions
+13273,5,5,5,555,Champions
+12902,5,5,5,555,Champions
+14581,5,5,5,555,Champions
+17122,5,5,5,555,Champions
+13716,5,5,5,555,Champions
+15663,5,5,5,555,Champions
+16050,5,5,5,555,Champions
+13279,5,5,5,555,Champions
+17709,5,5,5,555,Champions
+15836,5,5,5,555,Champions
+14483,5,5,5,555,Champions
+15691,5,5,5,555,Champions
+14247,5,5,5,555,Champions
+17972,5,5,5,555,Champions
+12968,5,5,5,555,Champions
+15042,5,5,5,555,Champions
+14889,5,5,5,555,Champions
+15419,5,5,5,555,Champions
+16114,5,5,5,555,Champions
+15174,5,5,5,555,Champions
+15276,5,5,5,555,Champions
+12851,5,5,5,555,Champions
+13364,5,5,5,555,Champions
+16055,5,5,5,555,Champions
+14340,5,5,5,555,Champions
+14174,5,5,5,555,Champions
+12837,5,5,5,555,Champions
+14280,5,5,5,555,Champions
+16424,5,5,5,555,Champions
+14349,5,5,5,555,Champions
+12445,5,5,5,555,Champions
+17881,5,5,5,555,Champions
+15709,5,5,5,555,Champions
+17647,5,5,5,555,Champions
+17785,5,5,5,555,Champions
+14438,5,5,5,555,Champions
+17297,5,5,5,555,Champions
+17455,5,5,5,555,Champions
+14795,5,5,5,555,Champions
+15844,5,5,5,555,Champions
+16611,5,5,5,555,Champions
+16623,5,5,5,555,Champions
+15543,5,5,5,555,Champions
+17359,5,5,5,555,Champions
+13781,5,5,5,555,Champions
+15578,5,5,5,555,Champions
+14962,5,5,5,555,Champions
+15463,5,5,5,555,Champions
+16988,5,5,5,555,Champions
+12814,5,5,5,555,Champions
+13522,5,5,5,555,Champions
+14861,5,5,5,555,Champions
+14890,5,5,5,555,Champions
+15017,5,5,5,555,Champions
+12531,5,5,5,555,Champions
+17148,5,5,5,555,Champions
+16849,5,5,5,555,Champions
+16569,5,5,5,555,Champions
+15917,5,5,5,555,Champions
+13519,5,5,5,555,Champions
+13876,5,5,5,555,Champions
+13638,5,5,5,555,Champions
+14165,5,5,5,555,Champions
+14076,5,5,5,555,Champions
+16073,5,5,5,555,Champions
+13244,5,5,5,555,Champions
+13182,5,5,5,555,Champions
+15049,5,5,5,555,Champions
+13002,5,5,5,555,Champions
+18015,5,5,5,555,Champions
+14259,5,5,5,555,Champions
+14314,5,5,5,555,Champions
+14453,5,5,5,555,Champions
+16542,5,5,5,555,Champions
+15266,5,5,5,555,Champions
+16666,5,5,5,555,Champions
+15843,5,5,5,555,Champions
+17079,5,5,5,555,Champions
+14155,5,5,5,555,Champions
+13581,5,5,5,555,Champions
+13193,5,5,5,555,Champions
+12929,5,5,5,555,Champions
+17654,5,5,5,555,Champions
+16959,5,5,5,555,Champions
+13877,5,5,5,555,Champions
+17117,5,5,5,555,Champions
+13170,5,5,5,555,Champions
+17601,5,5,5,555,Champions
+14143,5,5,5,555,Champions
+13067,5,5,5,555,Champions
+18027,5,5,5,555,Champions
+14972,5,5,5,555,Champions
+13188,5,5,5,555,Champions
+14632,5,5,5,555,Champions
+16247,5,5,5,555,Champions
+14974,5,5,5,555,Champions
+17219,5,5,5,555,Champions
+14652,5,5,5,555,Champions
+12938,5,5,5,555,Champions
+14582,5,5,5,555,Champions
+12651,5,5,5,555,Champions
+14457,5,5,5,555,Champions
+15445,5,5,5,555,Champions
+17217,5,5,5,555,Champions
+18105,5,5,5,555,Champions
+16913,5,5,5,555,Champions
+15280,5,5,5,555,Champions
+14689,5,5,5,555,Champions
+13161,5,5,5,555,Champions
+16697,5,5,5,555,Champions
+18129,5,5,5,555,Champions
+15610,5,5,5,555,Champions
+17038,5,5,5,555,Champions
+14271,5,5,5,555,Champions
+17893,5,5,5,555,Champions
+12756,5,5,5,555,Champions
+17274,5,5,5,555,Champions
+17957,5,5,5,555,Champions
+17887,5,5,5,555,Champions
+18120,5,5,5,555,Champions
+13508,5,5,5,555,Champions
+13144,5,5,5,555,Champions
+15537,5,5,5,555,Champions
+15853,5,5,5,555,Champions
+17349,5,5,5,555,Champions
+16963,5,5,5,555,Champions
+14641,5,5,5,555,Champions
+17901,5,5,5,555,Champions
+18277,5,5,5,555,Champions
+17746,5,5,5,555,Champions
+17836,5,5,5,555,Champions
+16339,5,5,5,555,Champions
+16363,5,5,5,555,Champions
+14699,5,5,5,555,Champions
+14345,5,5,5,555,Champions
+17639,5,5,5,555,Champions
+16106,5,5,5,555,Champions
+13226,5,5,5,555,Champions
+12956,5,5,5,555,Champions
+14661,5,5,5,555,Champions
+16784,5,5,5,555,Champions
+15395,5,5,5,555,Champions
+16757,5,5,5,555,Champions
+15168,5,5,5,555,Champions
+17791,5,5,5,555,Champions
+16581,5,5,5,555,Champions
+15775,5,5,5,555,Champions
+14027,5,5,5,555,Champions
+15607,5,5,5,555,Champions
+15958,5,5,5,555,Champions
+18174,5,5,5,555,Champions
+17548,5,5,5,555,Champions
+18255,5,5,5,555,Champions
+14542,5,5,5,555,Champions
+17962,5,5,5,555,Champions
+14981,5,5,5,555,Champions
+15212,5,5,5,555,Champions
+16516,5,5,5,555,Champions
+18068,5,5,5,555,Champions
+16006,5,5,5,555,Champions
+18086,5,5,5,555,Champions
+13101,5,5,5,555,Champions
+16344,5,5,5,555,Champions
+14946,5,5,5,555,Champions
+17427,5,5,5,555,Champions
+14371,5,5,5,555,Champions
+13703,5,5,5,555,Champions
+17939,5,5,5,555,Champions
+15256,5,5,5,555,Champions
+17538,5,5,5,555,Champions
+17895,5,5,5,555,Champions
+18033,5,5,5,555,Champions
+12984,5,5,5,555,Champions
+17325,5,5,5,555,Champions
+15216,5,5,5,555,Champions
+14642,5,5,5,555,Champions
+18249,5,5,5,555,Champions
+12548,5,5,5,555,Champions
+16387,5,5,5,555,Champions
+15397,5,5,5,555,Champions
+15428,5,5,5,555,Champions
+18227,5,5,5,555,Champions
+12821,5,5,5,555,Champions
+14054,5,5,5,555,Champions
+12789,5,5,5,555,Champions
+13551,5,5,5,555,Champions
+13160,5,5,5,555,Champions
+12659,5,5,5,555,Champions
+15488,5,5,5,555,Champions
+13947,5,5,5,555,Champions
+14353,5,5,5,555,Champions
+18084,5,5,5,555,Champions
+15552,5,5,5,555,Champions
+16597,5,5,5,555,Champions
+14117,5,5,5,555,Champions
+14219,5,5,5,555,Champions
+14760,5,5,5,555,Champions
+14436,5,5,5,555,Champions
+12353,5,5,5,555,Champions
+15083,5,5,5,555,Champions
+13296,5,5,5,555,Champions
+15541,5,5,5,555,Champions
+13841,5,5,5,555,Champions
+15729,5,5,5,555,Champions
+12401,5,5,5,555,Champions
+17309,5,5,5,555,Champions
+13006,5,5,5,555,Champions
+17620,5,5,5,555,Champions
+18281,5,5,5,555,Champions
+16789,5,5,5,555,Champions
+13967,5,5,5,555,Champions
+15753,5,5,5,555,Champions
+16078,5,5,5,555,Champions
+17942,5,5,5,555,Champions
+13132,5,5,5,555,Champions
+13992,5,5,5,555,Champions
+13106,5,5,5,555,Champions
+17536,5,5,5,555,Champions
+14090,5,5,5,555,Champions
+15668,5,5,5,555,Champions
+16148,5,5,5,555,Champions
+17995,5,5,5,555,Champions
+17628,5,5,5,555,Champions
+16610,5,5,5,555,Champions
+13403,5,5,5,555,Champions
+16468,5,5,5,555,Champions
+13095,5,5,5,555,Champions
+17960,5,5,5,555,Champions
+12506,5,5,5,555,Champions
+18032,5,5,5,555,Champions
+16171,5,5,5,555,Champions
+17906,5,5,5,555,Champions
+13686,5,5,5,555,Champions
+13938,5,5,5,555,Champions
+13185,5,5,5,555,Champions
+17747,5,5,5,555,Champions
+17022,5,5,5,555,Champions
+14393,5,5,5,555,Champions
+13684,5,5,5,555,Champions
+17382,5,5,5,555,Champions
+13130,5,5,5,555,Champions
+13302,5,5,5,555,Champions
+17263,5,5,5,555,Champions
+12665,5,5,5,555,Champions
+14840,5,5,5,555,Champions
+13218,5,5,5,555,Champions
+13194,5,5,5,555,Champions
+17174,5,5,5,555,Champions
+13391,5,5,5,555,Champions
+13682,5,5,5,555,Champions
+14957,5,5,5,555,Champions
+13080,5,5,5,555,Champions
+17775,5,5,5,555,Champions
+13366,5,5,5,555,Champions
+16349,5,5,5,555,Champions
+15504,5,5,5,555,Champions
+13832,5,5,5,555,Champions
+15313,5,5,5,555,Champions
+17844,5,5,5,555,Champions
+14351,5,5,5,555,Champions
+18184,5,5,5,555,Champions
+15603,5,5,5,555,Champions
+16257,5,5,5,555,Champions
+14080,5,5,5,555,Champions
+15423,5,5,5,555,Champions
+14300,5,5,5,555,Champions
+15992,5,5,5,555,Champions
+15178,5,5,5,555,Champions
+12977,5,5,5,555,Champions
+16659,5,5,5,555,Champions
+18019,5,5,5,555,Champions
+16162,5,5,5,555,Champions
+15940,5,5,5,555,Champions
+16856,5,5,5,555,Champions
+17831,5,5,5,555,Champions
+15744,5,5,5,555,Champions
+16765,5,5,5,555,Champions
+17408,5,5,5,555,Champions
+13120,5,5,5,555,Champions
+15657,5,5,5,555,Champions
+17102,5,5,5,555,Champions
+18268,5,5,5,555,Champions
+16953,5,5,5,555,Champions
+17986,5,5,5,555,Champions
+16093,5,5,5,555,Champions
+13307,5,5,5,555,Champions
+17763,5,5,5,555,Champions
+16878,5,5,5,555,Champions
+17956,5,5,5,555,Champions
+14792,5,5,5,555,Champions
+16738,5,5,5,555,Champions
+17850,5,1,1,511,Potential Loyalist
+15332,5,2,2,522,Potential Loyalist
+12967,5,3,2,532,Loyal Customers
+16499,5,3,4,534,Loyal Customers
+15224,5,4,4,544,Champions
+17691,5,4,4,544,Champions
+16048,5,4,4,544,Champions
+14813,5,4,5,545,Champions
+16754,5,4,2,542,Loyal Customers
+16270,5,4,2,542,Loyal Customers
+13370,5,4,3,543,Loyal Customers
+16718,5,4,3,543,Loyal Customers
+13270,5,4,3,543,Loyal Customers
+13874,5,4,3,543,Loyal Customers
+18074,5,4,4,544,Champions
+15165,5,4,4,544,Champions
+16812,5,4,4,544,Champions
+18176,5,4,4,544,Champions
+17880,5,4,4,544,Champions
+12725,5,4,4,544,Champions
+17525,5,4,4,544,Champions
+15361,5,4,4,544,Champions
+16795,5,4,4,544,Champions
+15221,5,4,4,544,Champions
+12515,5,4,4,544,Champions
+16858,5,4,4,544,Champions
+16065,5,4,4,544,Champions
+15922,5,4,4,544,Champions
+16202,5,4,4,544,Champions
+14932,5,4,4,544,Champions
+16274,5,4,4,544,Champions
+17976,5,4,4,544,Champions
+15789,5,4,4,544,Champions
+13108,5,4,4,544,Champions
+15880,5,4,4,544,Champions
+15363,5,4,4,544,Champions
+15204,5,4,4,544,Champions
+14729,5,4,4,544,Champions
+12785,5,4,4,544,Champions
+14142,5,4,4,544,Champions
+16781,5,4,4,544,Champions
+13369,5,5,4,554,Champions
+15973,5,5,4,554,Champions
+17551,5,5,4,554,Champions
+17732,5,5,4,554,Champions
+17978,5,5,4,554,Champions
+13304,5,5,4,554,Champions
+15279,5,5,4,554,Champions
+16125,5,5,4,554,Champions
+17251,5,5,4,554,Champions
+17968,5,5,4,554,Champions
+16727,5,5,4,554,Champions
+17496,5,5,4,554,Champions
+12797,5,5,4,554,Champions
+17860,5,5,4,554,Champions
+17303,5,5,5,555,Champions
+17456,5,5,5,555,Champions
+16510,5,5,5,555,Champions
+17925,5,5,5,555,Champions
+17908,5,5,5,555,Champions
+16583,5,5,5,555,Champions
+13786,5,5,5,555,Champions
+16926,5,5,5,555,Champions
+15460,5,5,5,555,Champions
+17855,5,5,5,555,Champions
+16752,5,5,5,555,Champions
+13065,5,5,5,555,Champions
+15723,5,5,5,555,Champions
+15347,5,5,5,555,Champions
+13295,5,5,5,555,Champions
+17343,5,5,5,555,Champions
+12791,5,5,5,555,Champions
+13033,5,5,5,555,Champions
+14082,5,5,5,555,Champions
+18119,5,5,5,555,Champions
+15945,5,5,5,555,Champions
+15454,5,5,5,555,Champions
+14355,5,5,5,555,Champions
+16565,5,5,5,555,Champions
+12441,5,5,5,555,Champions
+13922,5,5,5,555,Champions
+18004,5,5,5,555,Champions
+18269,5,5,5,555,Champions
+12551,5,5,5,555,Champions
+14237,5,5,5,555,Champions
+15160,5,5,5,555,Champions
+12738,5,5,5,555,Champions
+15503,5,5,5,555,Champions
+16893,5,5,5,555,Champions
+17524,5,5,5,555,Champions
+16665,5,5,5,555,Champions
+15562,5,5,5,555,Champions
+16679,5,5,5,555,Champions
+15923,5,5,5,555,Champions
+16658,5,5,5,555,Champions
+17967,5,5,5,555,Champions
+14413,5,5,5,555,Champions
+15350,5,5,5,555,Champions
+13807,5,5,5,555,Champions
+12734,5,5,5,555,Champions
+15070,5,5,5,555,Champions
+18011,5,5,5,555,Champions
+13948,5,5,5,555,Champions
+17643,5,5,5,555,Champions
+12686,5,5,5,555,Champions
+15180,5,5,5,555,Champions
+17752,5,5,5,555,Champions
+13747,5,5,5,555,Champions
+14373,5,5,5,555,Champions
+18113,5,5,5,555,Champions
+18050,5,5,5,555,Champions
+14437,5,5,5,555,Champions
+15899,5,5,5,555,Champions
+13011,5,5,5,555,Champions
+14821,5,5,5,555,Champions
+14589,5,5,5,555,Champions
+12855,5,5,5,555,Champions
+14576,5,5,5,555,Champions
+15823,5,5,5,555,Champions
